@@ -1,0 +1,38 @@
+-----
+FONTLOG for the Lisu New fonts
+
+This file provides detailed information on the Lisu New Font Software. This information should be distributed along with the Lisu New fonts and any derivative works.
+
+Basic Font Information
+
+Lisu New is a Unicode typeface family that supports all languages that use the Lisu script and its variants, and could be expanded to support other scripts.
+
+ChangeLog
+
+17 Jul 2019 (SIL WSTech Team) Lisu New version 1.900
+- Started new project based on LisuTzimu Regular
+
+20 Feb 2018 (Martin Hosken) LisuTzimu version 1.400
+- Publish on github
+
+Acknowledgements
+
+If you make modifications be sure to add your name (N), email (E), web-address (if you have one) (W) and description (D). This list is in alphabetical order.
+
+N: David Morse
+D: Designer
+
+N: Victor Gaultney
+E: http://scripts.sil.org/support
+W: http://www.gaultney.org/jvgtype/
+D: Enhancements and additions
+
+N: Annie Olsen
+E: http://scripts.sil.org/support
+W: http://scripts.sil.org/
+D: Enhancements and additions
+
+N: SIL font engineers
+E: http://scripts.sil.org/support
+W: http://scripts.sil.org/
+D: Graphite, OpenType, and TypeTuner code, and build support

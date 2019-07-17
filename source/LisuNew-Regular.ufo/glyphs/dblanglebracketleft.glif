@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dblanglebracketleft" format="2">
+  <advance width="1100"/>
+  <unicode hex="300A"/>
+  <outline>
+    <contour>
+      <point x="999" y="17" type="line"/>
+      <point x="669" y="674" type="line"/>
+      <point x="999" y="1332" type="line"/>
+      <point x="976" y="1343"/>
+      <point x="954" y="1353"/>
+      <point x="932" y="1365" type="curve"/>
+      <point x="585" y="674" type="line"/>
+      <point x="701" y="444"/>
+      <point x="816" y="214"/>
+      <point x="932" y="-15" type="curve"/>
+    </contour>
+    <contour>
+      <point x="704" y="17" type="line"/>
+      <point x="374" y="674" type="line"/>
+      <point x="704" y="1332" type="line"/>
+      <point x="681" y="1343"/>
+      <point x="659" y="1353"/>
+      <point x="637" y="1365" type="curve"/>
+      <point x="290" y="674" type="line"/>
+      <point x="406" y="444"/>
+      <point x="521" y="214"/>
+      <point x="637" y="-15" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

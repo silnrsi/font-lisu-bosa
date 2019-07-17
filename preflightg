@@ -1,0 +1,7 @@
+#!/bin/sh
+
+# Produce individual UFOs from Glyphs files
+psfglyphs2ufo source/LisuNewRoman.glyphs source
+psfglyphs2ufo source/LisuNewItalic.glyphs source
+
+./preflight

@@ -1,0 +1,4 @@
+#!/bin/sh
+
+psfufo2glyphs source/LisuNewRoman.designspace source/LisuNewRoman.glyphs
+psfufo2glyphs source/LisuNewItalic.designspace source/LisuNewItalic.glyphs

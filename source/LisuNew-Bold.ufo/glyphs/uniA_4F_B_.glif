@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniA4FB" format="2">
+  <advance width="981"/>
+  <unicode hex="A4FB"/>
+  <outline>
+    <contour>
+      <point x="962" y="-4" type="line"/>
+      <point x="962" y="-250"/>
+      <point x="682" y="-303" type="qcurve"/>
+      <point x="682" y="-227" type="line"/>
+      <point x="854" y="-186"/>
+      <point x="852" y="4" type="qcurve"/>
+      <point x="661" y="4" type="line"/>
+      <point x="661" y="285" type="line"/>
+      <point x="962" y="285" type="line"/>
+    </contour>
+    <contour>
+      <point x="436" y="0" type="line"/>
+      <point x="135" y="0" type="line"/>
+      <point x="135" y="287" type="line"/>
+      <point x="436" y="287" type="line"/>
+    </contour>
+  </outline>
+</glyph>
