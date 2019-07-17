@@ -12,8 +12,9 @@
       <point x="233" y="926" type="line"/>
       <point x="369" y="926" type="line"/>
       <point x="559" y="608" type="line"/>
-      <point x="643" y="743"/>
-      <point x="752" y="926" type="qcurve"/>
+      <point x="615" y="698"/>
+      <point x="679" y="804"/>
+      <point x="752" y="926" type="curve"/>
     </contour>
   </outline>
 </glyph>
