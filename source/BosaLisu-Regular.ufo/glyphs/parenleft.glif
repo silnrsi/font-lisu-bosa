@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="parenleft" format="2">
+  <advance width="294"/>
+  <unicode hex="0028"/>
+  <outline>
+    <contour>
+      <point x="252" y="-137" type="curve"/>
+      <point x="252" y="-182" type="line"/>
+      <point x="81" y="-91"/>
+      <point x="31" y="27"/>
+      <point x="31" y="208" type="curve" smooth="yes"/>
+      <point x="31" y="387"/>
+      <point x="81" y="509"/>
+      <point x="252" y="597" type="curve"/>
+      <point x="252" y="552" type="line"/>
+      <point x="128" y="482"/>
+      <point x="118" y="335"/>
+      <point x="118" y="208" type="curve" smooth="yes"/>
+      <point x="118" y="80"/>
+      <point x="128" y="-67"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <string>b''</string>
+    </dict>
+  </lib>
+</glyph>
