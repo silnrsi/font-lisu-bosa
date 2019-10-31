@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="A" format="2">
+  <advance width="547"/>
+  <unicode hex="0041"/>
+  <outline>
+    <contour>
+      <point x="161" y="228" type="line"/>
+      <point x="343" y="228" type="line"/>
+      <point x="250" y="481" type="line"/>
+    </contour>
+    <contour>
+      <point x="536" y="25" type="line"/>
+      <point x="536" y="-4" type="line"/>
+      <point x="379" y="-4" type="line"/>
+      <point x="379" y="26" type="line"/>
+      <point x="410" y="36" type="line"/>
+      <point x="359" y="182" type="line"/>
+      <point x="145" y="182" type="line"/>
+      <point x="94" y="36" type="line"/>
+      <point x="125" y="26" type="line"/>
+      <point x="125" y="-4" type="line"/>
+      <point x="8" y="-4" type="line"/>
+      <point x="8" y="25" type="line"/>
+      <point x="40" y="36" type="line"/>
+      <point x="223" y="546" type="line"/>
+      <point x="314" y="546" type="line"/>
+      <point x="507" y="37" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+        <hintSetList>
+          <hintset pointTag="">
+            <hstem pos="-4" width="29"/>
+            <hstem pos="182" width="46"/>
+            <hstem pos="481" width="65"/>
+            <hstem pos="546" width="-20"/>
+            <vstem pos="8" width="117"/>
+            <vstem pos="379" width="157"/>
+          </hintset>
+        </hintSetList>
+      </data>
+    </dict>
+  </lib>
+</glyph>

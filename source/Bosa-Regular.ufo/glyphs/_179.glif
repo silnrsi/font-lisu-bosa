@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="_179" format="2">
+  <advance width="246"/>
+  <unicode hex="00B3"/>
+  <outline>
+    <contour>
+      <point x="235" y="302" type="curve" smooth="yes"/>
+      <point x="235" y="229"/>
+      <point x="174" y="204"/>
+      <point x="116" y="204" type="curve" smooth="yes"/>
+      <point x="85" y="204"/>
+      <point x="47" y="208"/>
+      <point x="15" y="216" type="curve"/>
+      <point x="12" y="269" type="line"/>
+      <point x="53" y="269" type="line"/>
+      <point x="66" y="246" type="line"/>
+      <point x="81" y="238"/>
+      <point x="97" y="241"/>
+      <point x="113" y="241" type="curve" smooth="yes"/>
+      <point x="161" y="241"/>
+      <point x="168" y="256"/>
+      <point x="168" y="304" type="curve" smooth="yes"/>
+      <point x="168" y="348"/>
+      <point x="147" y="361"/>
+      <point x="110" y="363" type="curve" smooth="yes"/>
+      <point x="79" y="365" type="line"/>
+      <point x="79" y="401" type="line"/>
+      <point x="108" y="403" type="line" smooth="yes"/>
+      <point x="118" y="404"/>
+      <point x="126" y="405"/>
+      <point x="133" y="408" type="curve"/>
+      <point x="145" y="415"/>
+      <point x="153" y="427"/>
+      <point x="153" y="458" type="curve" smooth="yes"/>
+      <point x="153" y="497"/>
+      <point x="152" y="508"/>
+      <point x="113" y="508" type="curve" smooth="yes"/>
+      <point x="97" y="508"/>
+      <point x="83" y="505"/>
+      <point x="72" y="498" type="curve"/>
+      <point x="63" y="486" type="line"/>
+      <point x="22" y="486" type="line"/>
+      <point x="22" y="534" type="line"/>
+      <point x="51" y="541"/>
+      <point x="86" y="546"/>
+      <point x="113" y="546" type="curve" smooth="yes"/>
+      <point x="165" y="546"/>
+      <point x="221" y="528"/>
+      <point x="221" y="461" type="curve" smooth="yes"/>
+      <point x="221" y="421"/>
+      <point x="197" y="396"/>
+      <point x="164" y="384" type="curve"/>
+      <point x="204" y="373"/>
+      <point x="235" y="351"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+        <hintSetList>
+          <hintset pointTag="">
+            <hstem pos="204" width="37"/>
+            <hstem pos="364" width="37"/>
+            <hstem pos="364" width="20"/>
+            <hstem pos="508" width="38"/>
+            <vstem pos="22" width="41"/>
+            <vstem pos="153" width="68"/>
+            <vstem pos="168" width="67"/>
+          </hintset>
+        </hintSetList>
+      </data>
+    </dict>
+  </lib>
+</glyph>

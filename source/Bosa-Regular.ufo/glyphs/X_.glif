@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="X" format="2">
+  <advance width="567"/>
+  <unicode hex="0058"/>
+  <outline>
+    <contour>
+      <point x="547" y="25" type="line"/>
+      <point x="547" y="-4" type="line"/>
+      <point x="376" y="-4" type="line"/>
+      <point x="376" y="25" type="line"/>
+      <point x="410" y="36" type="line"/>
+      <point x="268" y="232" type="line"/>
+      <point x="121" y="36" type="line"/>
+      <point x="153" y="25" type="line"/>
+      <point x="153" y="-4" type="line"/>
+      <point x="18" y="-4" type="line"/>
+      <point x="18" y="25" type="line"/>
+      <point x="59" y="37" type="line"/>
+      <point x="238" y="265" type="line"/>
+      <point x="66" y="501" type="line"/>
+      <point x="34" y="501" type="line"/>
+      <point x="34" y="542" type="line"/>
+      <point x="205" y="542" type="line"/>
+      <point x="205" y="501" type="line"/>
+      <point x="171" y="502" type="line"/>
+      <point x="296" y="333" type="line"/>
+      <point x="429" y="502" type="line"/>
+      <point x="396" y="501" type="line"/>
+      <point x="396" y="542" type="line"/>
+      <point x="522" y="542" type="line"/>
+      <point x="522" y="502" type="line"/>
+      <point x="491" y="501" type="line"/>
+      <point x="326" y="299" type="line"/>
+      <point x="514" y="37" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+        <hintSetList>
+          <hintset pointTag="">
+            <hstem pos="-4" width="29"/>
+            <hstem pos="501" width="40"/>
+            <vstem pos="18" width="135"/>
+            <vstem pos="171" width="34"/>
+            <vstem pos="376" width="171"/>
+            <vstem pos="396" width="126"/>
+          </hintset>
+        </hintSetList>
+      </data>
+    </dict>
+  </lib>
+</glyph>
