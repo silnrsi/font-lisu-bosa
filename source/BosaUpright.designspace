@@ -16,7 +16,7 @@
         </axis>
     </axes>
     <sources>
-        <source familyname="Bosa Lisu" filename="Bosa-Regular.ufo" name="Bosa Lisu Regular" stylename="Regular">
+        <source familyname="Bosa Lisu" filename="BosaLisu-Regular.ufo" name="Bosa Lisu Regular" stylename="Regular">
             <lib copy="1" />
             <groups copy="1" />
             <features copy="1" />
