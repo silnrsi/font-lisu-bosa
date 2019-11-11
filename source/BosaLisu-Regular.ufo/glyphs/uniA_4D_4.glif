@@ -1,23 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uniA4D4" format="2">
-  <advance width="536"/>
+  <advance width="528"/>
   <unicode hex="A4D4"/>
   <outline>
     <contour>
-      <point x="308" y="448" type="line"/>
-      <point x="308" y="0" type="line"/>
-      <point x="224" y="0" type="line"/>
-      <point x="224" y="448" type="line"/>
-      <point x="54" y="448" type="line"/>
-      <point x="54" y="531" type="line"/>
-      <point x="478" y="531" type="line"/>
-      <point x="478" y="448" type="line"/>
+      <point x="222" y="0" type="line"/>
+      <point x="306" y="0" type="line"/>
+      <point x="306" y="450" type="line"/>
+      <point x="476" y="450" type="line"/>
+      <point x="476" y="530" type="line"/>
+      <point x="52" y="530" type="line"/>
+      <point x="52" y="450" type="line"/>
+      <point x="222" y="450" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.adobe.type.autohint</key>
       <string>b''</string>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
     </dict>
   </lib>
 </glyph>
