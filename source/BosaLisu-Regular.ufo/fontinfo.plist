@@ -5,7 +5,7 @@
   <key>ascender</key>
   <integer>800</integer>
   <key>capHeight</key>
-  <integer>700</integer>
+  <integer>530</integer>
   <key>copyright</key>
   <string>Copyright (c) 1998-2019 David Morse (original regular), Copyright (c) 2019 SIL International (revised regular, bold, italic, bold italic)</string>
   <key>descender</key>
@@ -13,7 +13,7 @@
   <key>familyName</key>
   <string>Bosa Lisu</string>
   <key>openTypeHeadCreated</key>
-  <string>2019/11/07 22:28:05</string>
+  <string>2019/11/11 21:44:56</string>
   <key>openTypeHheaAscender</key>
   <integer>800</integer>
   <key>openTypeHheaDescender</key>
@@ -180,6 +180,6 @@ THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
   <key>versionMinor</key>
   <integer>900</integer>
   <key>xHeight</key>
-  <integer>500</integer>
+  <integer>265</integer>
 </dict>
 </plist>
