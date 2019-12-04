@@ -1,6 +1,7 @@
-Copyright (c) 1998-2019 David Morse (regular)
-Copyright (c) 2019 SIL International (bold, italic, bold italic)
+Copyright (c) 1998-2019 David Morse (original regular)
 with Reserved Font Name "LisuTzimu".
+Copyright (c) 2019 SIL International (regular revisions, bold, italic, bold italic)
+with Reserved Font Name "Bosa".
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
 This license is copied below, and is also available with a FAQ at:

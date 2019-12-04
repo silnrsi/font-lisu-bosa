@@ -1,27 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uniA4E7" format="2">
-  <advance width="514"/>
+  <advance width="526"/>
   <unicode hex="A4E7"/>
   <outline>
     <contour>
-      <point x="367" y="0" type="line"/>
-      <point x="367" y="230" type="line"/>
-      <point x="147" y="230" type="line"/>
-      <point x="147" y="0" type="line"/>
-      <point x="63" y="0" type="line"/>
-      <point x="63" y="531" type="line"/>
-      <point x="147" y="531" type="line"/>
-      <point x="147" y="313" type="line"/>
-      <point x="367" y="313" type="line"/>
-      <point x="367" y="531" type="line"/>
-      <point x="451" y="531" type="line"/>
-      <point x="451" y="0" type="line"/>
+      <point x="64" y="0" type="line"/>
+      <point x="148" y="0" type="line"/>
+      <point x="148" y="230" type="line"/>
+      <point x="378" y="230" type="line"/>
+      <point x="378" y="0" type="line"/>
+      <point x="462" y="0" type="line"/>
+      <point x="462" y="530" type="line"/>
+      <point x="378" y="530" type="line"/>
+      <point x="378" y="310" type="line"/>
+      <point x="148" y="310" type="line"/>
+      <point x="148" y="530" type="line"/>
+      <point x="64" y="530" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.adobe.type.autohint</key>
       <string>b''</string>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
     </dict>
   </lib>
 </glyph>

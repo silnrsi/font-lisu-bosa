@@ -1,26 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uniA4E6" format="2">
-  <advance width="595"/>
+  <advance width="590"/>
   <unicode hex="A4E6"/>
   <outline>
     <contour>
-      <point x="336" y="0" type="line"/>
-      <point x="254" y="0" type="line"/>
-      <point x="50" y="531" type="line"/>
-      <point x="141" y="531" type="line"/>
-      <point x="193" y="397"/>
-      <point x="244" y="265"/>
-      <point x="295" y="133" type="curve"/>
-      <point x="347" y="265"/>
-      <point x="398" y="397"/>
-      <point x="451" y="531" type="curve"/>
-      <point x="545" y="531" type="line"/>
+      <point x="250" y="0" type="line"/>
+      <point x="340" y="0" type="line"/>
+      <point x="542" y="530" type="line"/>
+      <point x="452" y="530" type="line"/>
+      <point x="279" y="66" type="line"/>
+      <point x="311" y="66" type="line"/>
+      <point x="138" y="530" type="line"/>
+      <point x="48" y="530" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.adobe.type.autohint</key>
       <string>b''</string>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
     </dict>
   </lib>
 </glyph>

@@ -1,10 +1,10 @@
 
-Thank you for your interest in the Lisu New font.
+Thank you for your interest in the Bosa Lisu font.
 We hope you find it useful!
 
-Lisu New is a Unicode font that provides support for the Lisu script.
+Bosa Lisu is a Unicode font that provides support for the Lisu script.
 
-Lisu New is released under the SIL Open Font License.
+Bosa Lisu is released under the SIL Open Font License.
 See the OFL and OFL-FAQ for details of the SIL Open Font License.
 See the FONTLOG for information on this and previous releases.
 
@@ -13,7 +13,7 @@ TIPS
 
 We cannot afford to offer no-cost technical support.
 
-If you do find a problem, please do report it to https://github.com/silnrsi/font-lisu-new/issues
+If you do find a problem, please do report it to https://github.com/silnrsi/font-bosa/issues
 we can't guarantee any direct response, but will try to fix reported bugs in future 
 versions.
 
@@ -27,7 +27,7 @@ Most Windows applications provide basic Unicode support. You will, however,
 need some way of entering Unicode text into your document.
 
 Keyboarding: 
-Lisu New does not include any keyboarding helps or utilities. If you 
+Bosa Lisu does not include any keyboarding helps or utilities. If you 
 cannot use the built-in keyboards of the operating system, you should 
 install the appropriate keyboard and input method for the characters of the 
 language you wish to use. You will need to install the appropriate keyboard and 

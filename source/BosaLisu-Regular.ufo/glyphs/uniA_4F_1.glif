@@ -1,27 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uniA4F1" format="2">
-  <advance width="490"/>
+  <advance width="476"/>
   <unicode hex="A4F1"/>
   <outline>
     <contour>
-      <point x="62" y="1" type="line"/>
-      <point x="62" y="82" type="line"/>
-      <point x="339" y="82" type="line"/>
-      <point x="339" y="232" type="line"/>
-      <point x="115" y="232" type="line"/>
-      <point x="115" y="315" type="line"/>
-      <point x="339" y="315" type="line"/>
-      <point x="339" y="448" type="line"/>
-      <point x="73" y="448" type="line"/>
-      <point x="73" y="531" type="line"/>
-      <point x="424" y="531" type="line"/>
-      <point x="424" y="1" type="line"/>
+      <point x="52" y="0" type="line"/>
+      <point x="412" y="0" type="line"/>
+      <point x="412" y="530" type="line"/>
+      <point x="62" y="530" type="line"/>
+      <point x="62" y="450" type="line"/>
+      <point x="328" y="450" type="line"/>
+      <point x="328" y="80" type="line"/>
+      <point x="52" y="80" type="line"/>
+    </contour>
+    <contour>
+      <point x="102" y="230" type="line"/>
+      <point x="370" y="230" type="line"/>
+      <point x="370" y="310" type="line"/>
+      <point x="102" y="310" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.adobe.type.autohint</key>
       <string>b''</string>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
     </dict>
   </lib>
 </glyph>
