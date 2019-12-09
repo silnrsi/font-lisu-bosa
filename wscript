@@ -2,16 +2,16 @@
 # this is a smith configuration file
 
 # set the font name, version, licensing and description
-APPNAME = "LisuNew"
+APPNAME = "Bosa"
 fontfamily=APPNAME
 
 DESC_SHORT = "Font for the Lisu (Fraser) script"
-DESC_NAME = "LisuNew"
+DESC_NAME = "BosaLisu"
 
-getufoinfo('source/' + fontfamily + '-Regular' + '.ufo')
+getufoinfo('source/' + fontfamily + 'Lisu-Regular' + '.ufo')
 BUILDLABEL = "alpha"
 
-for dspace in ('Roman', 'Italic'):
+for dspace in ('Upright', ):
     designspace('source/' + fontfamily + dspace + '.designspace',
                 target = "${DS:FILENAME_BASE}.ttf",
                 pdf = fret(params="-r -oi"),
