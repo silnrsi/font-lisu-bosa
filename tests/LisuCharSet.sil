@@ -1,0 +1,15 @@
+\begin[class=fontproof]{document}
+\bidi-off
+\setTestFont[size="18pt"]
+
+%%%%% TESTS
+
+\subsection{CHAR CHART}
+\proof[size="20pt"]{ꓐ ꓑ ꓒ ꓓ ꓔ ꓕ ꓖ ꓗ ꓘ ꓙ ꓚ ꓛ ꓜ ꓝ ꓞ ꓟ}
+\proof[size="20pt"]{ꓠ ꓡ ꓢ ꓣ ꓤ ꓥ ꓦ ꓧ ꓨ ꓩ ꓪ ꓫ ꓬ ꓭ ꓮ ꓯ}
+\proof[size="20pt"]{ꓰ ꓱ ꓲ ꓳ ꓴ ꓵ ꓶ ꓷ ꓸ ꓹ ꓺ ꓻ ꓼ ꓽ ꓾ ꓿}
+
+\subsection{REPERTOIRE}
+\repertoire
+
+\end{document}

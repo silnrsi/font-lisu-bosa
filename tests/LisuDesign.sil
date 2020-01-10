@@ -1,0 +1,42 @@
+\begin[class=fontproof]{document}
+\bidi-off
+\setTestFont[size="16pt"]
+
+%%%%% GROUPS
+
+% Letters
+\patterngroup[name="letters"]{ꓐꓑꓒꓓꓔꓕꓖꓗꓘꓙꓚꓛꓜꓝꓞꓟꓠꓡꓢꓣꓤꓥꓦꓧꓨꓩꓪꓫꓬꓭꓮꓯꓰꓱꓲꓳꓴꓵꓶꓷ}
+\patterngroup[name="lettersa"]{ꓐꓑꓒꓓꓔꓕꓖꓗꓘꓙꓚꓛꓜꓝꓞꓟꓠꓡꓢ}
+\patterngroup[name="lettersb"]{ꓣꓤꓥꓦꓧꓨꓩꓪꓫꓬꓭꓮꓯꓰꓱꓲꓳꓴꓵꓶꓷ}
+\patterngroup[name="consonants"]{ꓐꓑꓒꓓꓔꓕꓖꓗꓘꓙꓚꓛꓜꓝꓞꓟꓠꓡꓢꓣꓤꓥꓦꓧꓨꓩꓪꓫꓬꓭ}
+\patterngroup[name="consonantsa"]{ꓐꓑꓒꓓꓔꓕꓖꓗꓘꓙꓚꓛꓜꓝꓞꓟ}
+\patterngroup[name="consonantsb"]{ꓠꓡꓢꓣꓤꓥꓦꓧꓨꓩꓪꓫꓬꓭ}
+\patterngroup[name="vowels"]{ꓮꓯꓰꓱꓲꓳꓴꓵꓶꓷ}
+
+% Tones
+\patterngroup[name="tones"]{ꓸꓹꓺꓻꓼꓽ}
+
+% Punctuation
+\patterngroup[name="lisupunct"]{꓾꓿}
+
+% General
+\patterngroup[name="numerals"]{1234567890}
+\patterngroup[name="punctuation"]{.,:;!-}
+
+%%%%% TESTS
+
+\subsection{LETTERS IN FRAMES}
+\pattern[chars="@",reps="group_letters",format="list"]{ꓧꓧꓧ@ꓧ@ꓳ@ꓳꓳꓳ ꓧ@ꓐ@ꓑ@ꓔ@ꓕ@ꓡ@ꓥ@ꓦ@ꓲ@ꓧ ꓧ@ꓒ@ꓔ@ꓕ@ꓙ@ꓶ@ꓚ@ꓧ}
+
+\subsection{CONSONANT VOWEL COMBINATIONS}
+\pattern[chars="@,#",reps="group_vowels,group_consonants",format="table"]{#@}
+\pattern[chars="@,#",reps="group_consonantsa,group_vowels",format="table"]{@#}
+\pattern[chars="@,#",reps="group_consonantsb,group_vowels",format="table"]{@#}
+
+\subsection{TONE COMBINATIONS (NOT REAL)}
+\pattern[chars="@,#",reps="group_tones,group_letters",format="table"]{ꓧ#@}
+\pattern[chars="@,#",reps="group_consonantsa,group_tones",format="table"]{ꓧ@#}
+\pattern[chars="@,#",reps="group_consonantsb,group_tones",format="table"]{ꓧ@#}
+\pattern[chars="@,#",reps="group_vowels,group_tones",format="table"]{ꓧ@#}
+
+\end{document}
