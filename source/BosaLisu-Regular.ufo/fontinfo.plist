@@ -7,13 +7,13 @@
   <key>capHeight</key>
   <integer>530</integer>
   <key>copyright</key>
-  <string>Copyright (c) 1998-2019 David Morse (original regular), Copyright (c) 2019 SIL International (revised regular, bold, italic, bold italic)</string>
+  <string>Copyright (c) 1998-2019 David Morse (original regular), Copyright (c) 2020 SIL International (revised regular, bold, italic, bold italic)</string>
   <key>descender</key>
   <integer>-200</integer>
   <key>familyName</key>
   <string>Bosa Lisu</string>
   <key>openTypeHeadCreated</key>
-  <string>2019/12/09 17:07:22</string>
+  <string>2020/01/13 16:41:47</string>
   <key>openTypeHheaAscender</key>
   <integer>800</integer>
   <key>openTypeHheaDescender</key>
@@ -27,7 +27,7 @@
   <key>openTypeNameDesignerURL</key>
   <string>http://scripts.sil.org/</string>
   <key>openTypeNameLicense</key>
-  <string>Copyright (c) 1998-2019 David Morse (original regular) with Reserved Font Name "LisuTzimu", Copyright (c) 2019 SIL International (regular revisions, bold, italic, bold italic) with Reserved Font Name "Bosa".
+  <string>Copyright (c) 1998-2019 David Morse (original regular) with Reserved Font Name "LisuTzimu", Copyright (c) 2020 SIL International (regular revisions, bold, italic, bold italic) with Reserved Font Name "Bosa".
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
 This license is copied below, and is also available with a FAQ at: http://scripts.sil.org/OFL
@@ -82,7 +82,7 @@ THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
   <key>openTypeNamePreferredSubfamilyName</key>
   <string>Regular</string>
   <key>openTypeNameUniqueID</key>
-  <string>SIL International: Bosa Lisu Regular: 2019</string>
+  <string>SIL International: Bosa Lisu Regular: 2020</string>
   <key>openTypeNameVersion</key>
   <string>Version 1.900</string>
   <key>openTypeOS2CodePageRanges</key>

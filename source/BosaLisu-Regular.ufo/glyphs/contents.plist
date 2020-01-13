@@ -16,10 +16,22 @@
   <string>bullet.glif</string>
   <key>comma</key>
   <string>comma.glif</string>
+  <key>eight</key>
+  <string>eight.glif</string>
   <key>exclam</key>
   <string>exclam.glif</string>
+  <key>five</key>
+  <string>five.glif</string>
+  <key>four</key>
+  <string>four.glif</string>
+  <key>hyphen</key>
+  <string>hyphen.glif</string>
+  <key>nine</key>
+  <string>nine.glif</string>
   <key>numbersign</key>
   <string>numbersign.glif</string>
+  <key>one</key>
+  <string>one.glif</string>
   <key>paragraph</key>
   <string>paragraph.glif</string>
   <key>parenleft</key>
@@ -44,10 +56,22 @@
   <string>quoteright.glif</string>
   <key>quotesingle</key>
   <string>quotesingle.glif</string>
+  <key>seven</key>
+  <string>seven.glif</string>
+  <key>six</key>
+  <string>six.glif</string>
   <key>slash</key>
   <string>slash.glif</string>
   <key>space</key>
   <string>space.glif</string>
+  <key>three</key>
+  <string>three.glif</string>
+  <key>two</key>
+  <string>two.glif</string>
+  <key>uni02BC</key>
+  <string>uni02B_C_.glif</string>
+  <key>uni02CD</key>
+  <string>uni02C_D_.glif</string>
   <key>uni2605</key>
   <string>uni2605.glif</string>
   <key>uniA4D0</key>
@@ -146,5 +170,7 @@
   <string>uniA_4F_E_.glif</string>
   <key>uniA4FF</key>
   <string>uniA_4F_F_.glif</string>
+  <key>zero</key>
+  <string>zero.glif</string>
 </dict>
 </plist>
