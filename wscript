@@ -11,7 +11,7 @@ DESC_NAME = "BosaLisu"
 getufoinfo('source/' + fontfamily + 'Lisu-Regular' + '.ufo')
 BUILDLABEL = "alpha"
 
-for dspace in ('Upright', ):
+for dspace in ('Upright', 'Italic'):
     designspace('source/' + fontfamily + dspace + '.designspace',
                 target = "${DS:FILENAME_BASE}.ttf",
                 pdf = fret(params="-r -oi"),
