@@ -1,19 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="quotesingle" format="2">
-  <advance width="162"/>
+  <advance width="141"/>
   <unicode hex="0027"/>
   <outline>
     <contour>
-      <point x="39" y="577" type="line"/>
-      <point x="129" y="577" type="line"/>
-      <point x="103" y="364" type="line"/>
-      <point x="64" y="364" type="line"/>
+      <point x="139" y="305" type="curve" smooth="yes"/>
+      <point x="131" y="298"/>
+      <point x="123" y="295"/>
+      <point x="116" y="295" type="curve" smooth="yes"/>
+      <point x="107" y="295"/>
+      <point x="104" y="304"/>
+      <point x="104" y="313" type="curve" smooth="yes"/>
+      <point x="104" y="317"/>
+      <point x="104" y="322"/>
+      <point x="109" y="339" type="curve" smooth="yes"/>
+      <point x="119" y="368"/>
+      <point x="138" y="437"/>
+      <point x="150" y="482" type="curve" smooth="yes"/>
+      <point x="155" y="498"/>
+      <point x="159" y="512"/>
+      <point x="161" y="520" type="curve" smooth="yes"/>
+      <point x="166" y="533"/>
+      <point x="180" y="537"/>
+      <point x="202" y="537" type="curve" smooth="yes"/>
+      <point x="226" y="537"/>
+      <point x="239" y="525"/>
+      <point x="239" y="511" type="curve" smooth="yes"/>
+      <point x="239" y="480"/>
+      <point x="197" y="394"/>
+      <point x="177" y="359" type="curve" smooth="yes"/>
+      <point x="157" y="323"/>
+      <point x="146" y="312"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.adobe.type.autohint</key>
       <string>b''</string>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
     </dict>
   </lib>
 </glyph>

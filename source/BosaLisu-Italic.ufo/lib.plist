@@ -24,6 +24,8 @@
   </dict>
   <key>com.schriftgestaltung.appVersion</key>
   <string>1284</string>
+  <key>com.schriftgestaltung.customName</key>
+  <string>Italic</string>
   <key>com.schriftgestaltung.customParameter.GSFont.DisplayStrings</key>
   <string/>
   <key>com.schriftgestaltung.customParameter.GSFont.disablesAutomaticAlignment</key>

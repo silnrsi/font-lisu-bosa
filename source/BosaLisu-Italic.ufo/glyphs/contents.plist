@@ -4,6 +4,8 @@
 <dict>
   <key>.notdef</key>
   <string>_notdef.glif</string>
+  <key>ampersand</key>
+  <string>ampersand.glif</string>
   <key>asterisk</key>
   <string>asterisk.glif</string>
   <key>bar</key>
@@ -16,6 +18,8 @@
   <string>bullet.glif</string>
   <key>comma</key>
   <string>comma.glif</string>
+  <key>dollar</key>
+  <string>dollar.glif</string>
   <key>eight</key>
   <string>eight.glif</string>
   <key>exclam</key>
@@ -76,6 +80,8 @@
   <string>uni2605.glif</string>
   <key>uniA4D0</key>
   <string>uniA_4D_0.glif</string>
+  <key>uniA4D0.001</key>
+  <string>uniA_4D_0.001.glif</string>
   <key>uniA4D1</key>
   <string>uniA_4D_1.glif</string>
   <key>uniA4D2</key>
@@ -88,10 +94,14 @@
   <string>uniA_4D_5.glif</string>
   <key>uniA4D6</key>
   <string>uniA_4D_6.glif</string>
+  <key>uniA4D6.001</key>
+  <string>uniA_4D_6.001.glif</string>
   <key>uniA4D7</key>
   <string>uniA_4D_7.glif</string>
   <key>uniA4D8</key>
   <string>uniA_4D_8.glif</string>
+  <key>uniA4D8.001</key>
+  <string>uniA_4D_8.001.glif</string>
   <key>uniA4D9</key>
   <string>uniA_4D_9.glif</string>
   <key>uniA4DA</key>
@@ -100,6 +110,8 @@
   <string>uniA_4D_B_.glif</string>
   <key>uniA4DC</key>
   <string>uniA_4D_C_.glif</string>
+  <key>uniA4DC.001</key>
+  <string>uniA_4D_C_.001.glif</string>
   <key>uniA4DD</key>
   <string>uniA_4D_D_.glif</string>
   <key>uniA4DE</key>
@@ -114,6 +126,8 @@
   <string>uniA_4E_2.glif</string>
   <key>uniA4E3</key>
   <string>uniA_4E_3.glif</string>
+  <key>uniA4E3.001</key>
+  <string>uniA_4E_3.001.glif</string>
   <key>uniA4E4</key>
   <string>uniA_4E_4.glif</string>
   <key>uniA4E5</key>
@@ -124,6 +138,8 @@
   <string>uniA_4E_7.glif</string>
   <key>uniA4E8</key>
   <string>uniA_4E_8.glif</string>
+  <key>uniA4E8.001</key>
+  <string>uniA_4E_8.001.glif</string>
   <key>uniA4E9</key>
   <string>uniA_4E_9.glif</string>
   <key>uniA4EA</key>
