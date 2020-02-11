@@ -2,7 +2,6 @@
 <glyph name="hyphen" format="2">
   <advance width="475"/>
   <unicode hex="002D"/>
-  <guideline x="273" y="315" angle="70.9703"/>
   <outline>
     <contour>
       <point x="40" y="267" type="curve" smooth="yes"/>

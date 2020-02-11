@@ -2,7 +2,6 @@
 <glyph name="uniA4FC" format="2">
   <advance width="246"/>
   <unicode hex="A4FC"/>
-  <guideline x="159" y="315" angle="70.9703"/>
   <outline>
     <contour>
       <point x="-51" y="-95" type="curve" smooth="yes"/>

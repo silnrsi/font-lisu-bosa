@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uniA4F2" format="2">
-  <advance width="287"/>
+  <advance width="303"/>
   <unicode hex="A4F2"/>
-  <guideline x="181" y="315" angle="70.9703"/>
   <outline>
     <contour>
       <point x="56" y="-9" type="curve" smooth="yes"/>

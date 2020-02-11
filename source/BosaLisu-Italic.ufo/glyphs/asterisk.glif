@@ -2,7 +2,6 @@
 <glyph name="asterisk" format="2">
   <advance width="358"/>
   <unicode hex="002A"/>
-  <guideline x="218" y="315" angle="250"/>
   <outline>
     <contour>
       <point x="222" y="362" type="curve" smooth="yes"/>
