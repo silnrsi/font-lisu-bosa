@@ -11,7 +11,7 @@
       <key>com.fontlab.layer.locked</key>
       <integer>0</integer>
       <key>com.fontlab.layer.name</key>
-      <string>Italic</string>
+      <string>Regular</string>
       <key>com.fontlab.layer.opacity</key>
       <integer>1</integer>
       <key>com.fontlab.layer.service</key>
@@ -23,13 +23,14 @@
     </dict>
   </dict>
   <key>com.schriftgestaltung.appVersion</key>
-  <string>1271</string>
+  <string>1286</string>
   <key>com.schriftgestaltung.customName</key>
   <string>Italic</string>
   <key>com.schriftgestaltung.customParameter.GSFont.DisplayStrings</key>
   <array>
-    <string>/uniA4E7/uniA4DF/uniA4E7/uniA4E0/uniA4E7/uniA4F3/uniA4E1/uniA4E7/uniA4F3/uniA4E7/uniA4F3</string>
-    <string>/uniA4EA</string>
+    <string>/uniA4E7/uniA4D7/uniA4E7/uniA4D8/uniA4E0/uniA4E7/uniA4D8.001/uniA4E7/uniA4F3/uniA4F3/uniA4D7/uniA4F3/uniA4F3/uniA4F3/uniA4D8/uniA4F3/uniA4F3/uniA4F3/uniA4D8.001/uniA4F3/uniA4F3/uniA4D9/uniA4E7/uniA4F0/uniA4E1/uniA4E7/uniA4DD/uniA4E7/uniA4F3/uniA4F3/uniA4DF/uniA4F3/uniA4F3/uniA4E0/uniA4F3/uniA4F3/uniA4E1/uniA4F3/uniA4F3/uniA4E7/uniA4DE/uniA4E7/uniA4E9/uniA4E7/uniA4F1/uniA4E7/uniA4F2/uniA4E7/uniA4F4/uniA4E7/uniA4F5/uniA4E7/uniA4F6/uniA4E7/uniA4E7/uniA4F3/uniA4F3/uniA4F3/uniA4F3/uniA4D9/uniA4F3/uniA4F3/uniA4F3/uniA4DD/uniA4F3/uniA4F3/uniA4F3/uniA4DE/uniA4F3/uniA4F3/uniA4F3/uniA4E1/uniA4F3/uniA4F3/uniA4F3/uniA4E7/uniA4F3/uniA4F3/uniA4F3/uniA4E9/uniA4F3/uniA4F3/uniA4F3/uniA4F0/uniA4F3/uniA4F3/uniA4F3/uniA4F1/uniA4F3/uniA4F3/uniA4F3/uniA4F2/uniA4F3/uniA4F3/uniA4F3/uniA4F4/uniA4F3/uniA4F3/uniA4F3/uniA4F5/uniA4F3/uniA4F3/uniA4F3/uniA4F6/uniA4F3/uniA4F3/uniA4F3</string>
+    <string>/uniA4F3/uniA4F3/uniA4F3/uniA4D7/uniA4F3/uniA4F3/uniA4F3/uniA4D8/uniA4F3/uniA4F3/uniA4F3/uniA4D8.001/uniA4F3/uniA4F3/uniA4F3/uniA4D9/uniA4F3/uniA4F3/uniA4F3/uniA4DD/uniA4F3/uniA4F3/uniA4F3/uniA4DE/uniA4F3/uniA4F3/uniA4F3/uniA4E1/uniA4F3/uniA4F3/uniA4F3/uniA4E7/uniA4F3/uniA4F3/uniA4F3/uniA4E9/uniA4F3/uniA4F3/uniA4F3/uniA4F0/uniA4F3/uniA4F3/uniA4F3/uniA4F1/uniA4F3/uniA4F3/uniA4F3/uniA4F2/uniA4F3/uniA4F3/uniA4F3/uniA4F4/uniA4F3/uniA4F3/uniA4F3/uniA4F5/uniA4F3/uniA4F3/uniA4F3/uniA4F6/uniA4F3/uniA4F3/uniA4F3</string>
+    <string>/uniA4E7/uniA4E7/uniA4E7/uniA4E7/uniA4D0/uniA4E7/uniA4E7/uniA4E7/uniA4D1/uniA4E7/uniA4E7/uniA4E7/uniA4D2/uniA4E7/uniA4E7/uniA4E7/uniA4D3/uniA4E7/uniA4E7/uniA4E7/uniA4E3/uniA4E7/uniA4E7/uniA4E7/uniA4E3.001/uniA4E7/uniA4E7/uniA4E7/uniA4E4/uniA4E7/uniA4E7/uniA4E7/uniA4ED/uniA4E7/uniA4E7/uniA4E7/uniA4F7/uniA4E7/uniA4E7/uniA4E7/uniA4D0.001/uniA4E7/uniA4E7/uniA4E7</string>
   </array>
   <key>com.schriftgestaltung.customParameter.GSFont.disablesAutomaticAlignment</key>
   <true/>
