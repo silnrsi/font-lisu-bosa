@@ -29,6 +29,8 @@
   <key>com.schriftgestaltung.customParameter.GSFont.DisplayStrings</key>
   <array>
     <string>/uniA4E7/uniA4F3/uniA4D0/uniA4E7/uniA4D0.001/uniA4D1/uniA4E3/uniA4E7/uniA4E3.001/uniA4E4/uniA4E7/uniA4D2/uniA4D3/uniA4D4/uniA4D2/uniA4D5/uniA4ED/uniA4D4/uniA4F7</string>
+    <string>/uniA4D5/uniA4DD/uniA4DE/uniA4E1/uniA4F0/uniA4DC/uniA4F1/uniA4F6/uniA4DC.001/uniA4D4</string>
+    <string>/uniA4E7/uniA4DF</string>
   </array>
   <key>com.schriftgestaltung.customParameter.GSFont.disablesAutomaticAlignment</key>
   <true/>
