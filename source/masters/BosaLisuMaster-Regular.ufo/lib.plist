@@ -23,7 +23,7 @@
     </dict>
   </dict>
   <key>com.schriftgestaltung.appVersion</key>
-  <string>1284</string>
+  <string>1306</string>
   <key>com.schriftgestaltung.customParameter.GSFont.disablesAutomaticAlignment</key>
   <true/>
   <key>com.schriftgestaltung.customParameter.GSFont.disablesLastChange</key>
@@ -49,7 +49,7 @@
   <key>com.schriftgestaltung.disablesLastChange</key>
   <true/>
   <key>com.schriftgestaltung.fontMasterOrder</key>
-  <integer>0</integer>
+  <integer>1</integer>
   <key>com.schriftgestaltung.keyboardIncrement</key>
   <integer>1</integer>
   <key>com.schriftgestaltung.weight</key>
