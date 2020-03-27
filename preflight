@@ -3,7 +3,7 @@
 # This normalization will also run check and fix routines
 psfnormalize -p checkfix=fix source/masters/BosaLisuMaster-Regular.ufo
 psfnormalize -p checkfix=fix source/masters/BosaLisuMaster-ExtraLight.ufo
-psfnormalize -p checkfix=fix source/masters/BosaLisuMaster-ExtraBold.ufo
+psfnormalize -p checkfix=fix source/masters/BosaLisuMaster-Black.ufo
 #psfnormalize -p checkfix=fix source/BosaLisu-Italic.ufo
 
 # Following sync will copy psnames and glyphorder updates to all fonts

@@ -35,7 +35,7 @@
                 <dimension name="custom" xvalue="0.000000" />
             </location>
         </source>
-        <source familyname="Bosa Lisu Master" filename="masters/BosaLisuMaster-ExtraBold.ufo" name="Bosa Lisu Extra Bold" stylename="Extra Bold">
+        <source familyname="Bosa Lisu Master" filename="masters/BosaLisuMaster-Black.ufo" name="Bosa Lisu Black" stylename="Black">
             <location>
                 <dimension name="weight" xvalue="1000.000000" />
                 <dimension name="width" xvalue="100.000000" />
@@ -55,7 +55,7 @@
         </instance>
         <instance familyname="Bosa Lisu" filename="instances/BosaLisu-Light.ufo" name="Bosa Lisu Light" stylemapfamilyname="Bosa Lisu Light" stylemapstylename="regular" stylename="Regular">
             <location>
-                <dimension name="weight" xvalue="150.000000" />
+                <dimension name="weight" xvalue="250.000000" />
                 <dimension name="width" xvalue="100.000000" />
                 <dimension name="custom" xvalue="0.000000" />
             </location>
@@ -82,14 +82,14 @@
         </instance>
         <instance familyname="Bosa Lisu" filename="instances/BosaLisu-Bold.ufo" name="Bosa Lisu Bold" stylemapfamilyname="Bosa Lisu" stylemapstylename="bold" stylename="Bold">
             <location>
-                <dimension name="weight" xvalue="825.000000" />
+                <dimension name="weight" xvalue="700.000000" />
                 <dimension name="width" xvalue="100.000000" />
                 <dimension name="custom" xvalue="0.000000" />
             </location>
             <info />
             <kerning />
         </instance>
-        <instance familyname="Bosa Lisu" filename="instances/BosaLisu-ExtraBold.ufo" name="Bosa Lisu Extra Bold" stylemapfamilyname="Bosa Lisu Extra Bold" stylemapstylename="bold" stylename="Bold">
+        <instance familyname="Bosa Lisu" filename="instances/BosaLisu-Black.ufo" name="Bosa Lisu Black" stylemapfamilyname="Bosa Lisu Black" stylemapstylename="bold" stylename="Bold">
             <location>
                 <dimension name="weight" xvalue="1000.000000" />
                 <dimension name="width" xvalue="100.000000" />

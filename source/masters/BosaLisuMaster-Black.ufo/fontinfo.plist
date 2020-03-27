@@ -80,9 +80,9 @@ THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
   <key>openTypeNamePreferredFamilyName</key>
   <string>Bosa Lisu Master</string>
   <key>openTypeNamePreferredSubfamilyName</key>
-  <string>Extra Bold</string>
+  <string>Black</string>
   <key>openTypeNameUniqueID</key>
-  <string>SIL International: Bosa Lisu Master Extra Bold: 2020</string>
+  <string>SIL International: Bosa Lisu Master Black: 2020</string>
   <key>openTypeNameVersion</key>
   <string>Version 1.900</string>
   <key>openTypeOS2CodePageRanges</key>
@@ -154,9 +154,9 @@ THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
   <key>openTypeOS2WinDescent</key>
   <integer>200</integer>
   <key>postscriptFontName</key>
-  <string>BosaLisuMaster-ExtraBold</string>
+  <string>BosaLisuMaster-Black</string>
   <key>postscriptFullName</key>
-  <string>Bosa Lisu Master Extra Bold</string>
+  <string>Bosa Lisu Master Black</string>
   <key>postscriptUnderlinePosition</key>
   <integer>-170</integer>
   <key>postscriptUnderlineThickness</key>
@@ -166,7 +166,7 @@ THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
   <key>styleMapStyleName</key>
   <string>bold</string>
   <key>styleName</key>
-  <string>Extra Bold</string>
+  <string>Black</string>
   <key>trademark</key>
   <string>Bosa is a trademark of SIL International.</string>
   <key>unitsPerEm</key>
