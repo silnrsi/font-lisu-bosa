@@ -2,9 +2,21 @@
 <!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+  <key>uniA4D0</key>
+  <string>uniA_4D_0.glif</string>
   <key>uniA4DF</key>
   <string>uniA_4D_F_.glif</string>
+  <key>uniA4E0</key>
+  <string>uniA_4E_0.glif</string>
+  <key>uniA4E7</key>
+  <string>uniA_4E_7.glif</string>
+  <key>uniA4EF</key>
+  <string>uniA_4E_F_.glif</string>
+  <key>uniA4F0</key>
+  <string>uniA_4F_0.glif</string>
   <key>uniA4F3</key>
   <string>uniA_4F_3.glif</string>
+  <key>uniA4F4</key>
+  <string>uniA_4F_4.glif</string>
 </dict>
 </plist>
