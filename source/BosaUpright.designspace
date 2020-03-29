@@ -44,7 +44,7 @@
         </source>
     </sources>
     <instances>
-        <instance familyname="Bosa Lisu" filename="instances/BosaLisu-ExtraLight.ufo" name="Bosa Lisu Extra Light" stylemapfamilyname="Bosa Lisu Extra Light" stylemapstylename="regular" stylename="Regular">
+        <instance familyname="Bosa Lisu Test Extra Light" filename="instances/BosaLisuTestExtraLight-Regular.ufo" name="Bosa Lisu Test Extra Light" stylemapfamilyname="Bosa Lisu Test Extra Light" stylemapstylename="regular" stylename="Regular" postscriptfontname="BosaLisuTestExtraLight-Regular">
             <location>
                 <dimension name="weight" xvalue="0.000000" />
                 <dimension name="width" xvalue="100.000000" />
@@ -53,7 +53,7 @@
             <info />
             <kerning />
         </instance>
-        <instance familyname="Bosa Lisu" filename="instances/BosaLisu-Light.ufo" name="Bosa Lisu Light" stylemapfamilyname="Bosa Lisu Light" stylemapstylename="regular" stylename="Regular">
+        <instance familyname="Bosa Lisu Test Light" filename="instances/BosaLisuTestLight-Regular.ufo" name="Bosa Lisu Test Light" stylemapfamilyname="Bosa Lisu Test Light" stylemapstylename="regular" stylename="Regular" postscriptfontname="BosaLisuTestLight-Regular">
             <location>
                 <dimension name="weight" xvalue="250.000000" />
                 <dimension name="width" xvalue="100.000000" />
@@ -62,7 +62,7 @@
             <info />
             <kerning />
         </instance>
-        <instance familyname="Bosa Lisu" filename="instances/BosaLisu-Regular.ufo" name="Bosa Lisu Regular" stylemapfamilyname="Bosa Lisu" stylemapstylename="regular" stylename="Regular">
+        <instance familyname="Bosa Lisu Test" filename="instances/BosaLisuTest-Regular.ufo" name="Bosa Lisu Test" stylemapfamilyname="Bosa Lisu Test" stylemapstylename="regular" stylename="Regular" postscriptfontname="BosaLisuTest-Regular">
             <location>
                 <dimension name="weight" xvalue="400.000000" />
                 <dimension name="width" xvalue="100.000000" />
@@ -71,7 +71,7 @@
             <info />
             <kerning />
         </instance>
-        <instance familyname="Bosa Lisu" filename="instances/BosaLisu-Semibold.ufo" name="Bosa Lisu Semibold" stylemapfamilyname="Bosa Lisu Light" stylemapstylename="bold" stylename="Bold">
+        <instance familyname="Bosa Lisu Test Light" filename="instances/BosaLisuTestLight-Bold.ufo" name="Bosa Lisu Test Light Bold" stylemapfamilyname="Bosa Lisu Test Light" stylemapstylename="bold" stylename="Bold" postscriptfontname="BosaLisuTestLight-Bold">
             <location>
                 <dimension name="weight" xvalue="600.000000" />
                 <dimension name="width" xvalue="100.000000" />
@@ -80,7 +80,7 @@
             <info />
             <kerning />
         </instance>
-        <instance familyname="Bosa Lisu" filename="instances/BosaLisu-Bold.ufo" name="Bosa Lisu Bold" stylemapfamilyname="Bosa Lisu" stylemapstylename="bold" stylename="Bold">
+        <instance familyname="Bosa Lisu Test" filename="instances/BosaLisuTest-Bold.ufo" name="Bosa Lisu Test Bold" stylemapfamilyname="Bosa Lisu Test" stylemapstylename="bold" stylename="Bold" postscriptfontname="BosaLisuTest-Bold">
             <location>
                 <dimension name="weight" xvalue="700.000000" />
                 <dimension name="width" xvalue="100.000000" />
@@ -89,7 +89,7 @@
             <info />
             <kerning />
         </instance>
-        <instance familyname="Bosa Lisu" filename="instances/BosaLisu-Black.ufo" name="Bosa Lisu Black" stylemapfamilyname="Bosa Lisu Black" stylemapstylename="bold" stylename="Bold">
+        <instance familyname="Bosa Lisu Test Black" filename="instances/BosaLisuTestBlack-Regular.ufo" name="Bosa Lisu Test Black" stylemapfamilyname="Bosa Lisu Test Black" stylemapstylename="regular" stylename="Regular" postscriptfontname="BosaLisuTestBlack-Regular">
             <location>
                 <dimension name="weight" xvalue="1000.000000" />
                 <dimension name="width" xvalue="100.000000" />
