@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uniA4E7" format="2">
-  <advance width="490"/>
+  <advance width="498"/>
   <unicode hex="A4E7"/>
   <outline>
     <contour>
-      <point x="56" y="0" type="line"/>
-      <point x="124" y="0" type="line"/>
-      <point x="124" y="238" type="line"/>
-      <point x="366" y="238" type="line"/>
-      <point x="366" y="0" type="line"/>
-      <point x="434" y="0" type="line"/>
-      <point x="434" y="530" type="line"/>
-      <point x="366" y="530" type="line"/>
-      <point x="366" y="302" type="line"/>
-      <point x="124" y="302" type="line"/>
-      <point x="124" y="530" type="line"/>
-      <point x="56" y="530" type="line"/>
+      <point x="60" y="0" type="line"/>
+      <point x="128" y="0" type="line"/>
+      <point x="128" y="238" type="line"/>
+      <point x="370" y="238" type="line"/>
+      <point x="370" y="0" type="line"/>
+      <point x="438" y="0" type="line"/>
+      <point x="438" y="530" type="line"/>
+      <point x="370" y="530" type="line"/>
+      <point x="370" y="302" type="line"/>
+      <point x="128" y="302" type="line"/>
+      <point x="128" y="530" type="line"/>
+      <point x="60" y="530" type="line"/>
     </contour>
   </outline>
   <lib>
