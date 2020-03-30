@@ -9,7 +9,7 @@ DESC_SHORT = "Font for the Lisu (Fraser) script"
 getufoinfo('source/masters/' + fontfamily + 'LisuMaster-Regular' + '.ufo')
 BUILDLABEL = "alpha"
 
-for dspace in ('Upright', ):
+for dspace in ('Upright', 'Italic'):
     designspace('source/' + fontfamily + dspace + '.designspace',
                 target = "${DS:FILENAME_BASE}.ttf",
                 pdf = fret(params="-r -oi"),
