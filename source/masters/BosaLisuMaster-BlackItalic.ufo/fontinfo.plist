@@ -15,7 +15,7 @@
   <key>italicAngle</key>
   <integer>-19</integer>
   <key>openTypeHeadCreated</key>
-  <string>2020/03/30 11:48:16</string>
+  <string>2020/03/30 21:00:18</string>
   <key>openTypeHheaAscender</key>
   <integer>800</integer>
   <key>openTypeHheaDescender</key>
@@ -164,7 +164,7 @@ THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
   <key>postscriptUnderlineThickness</key>
   <integer>40</integer>
   <key>styleMapFamilyName</key>
-  <string>Bosa Lisu Black</string>
+  <string>Bosa Lisu</string>
   <key>styleMapStyleName</key>
   <string>italic</string>
   <key>styleName</key>

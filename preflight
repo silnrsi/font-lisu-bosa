@@ -4,8 +4,9 @@
 psfnormalize -p checkfix=fix source/masters/BosaLisuMaster-Regular.ufo
 psfnormalize -p checkfix=fix source/masters/BosaLisuMaster-ExtraLight.ufo
 psfnormalize -p checkfix=fix source/masters/BosaLisuMaster-Black.ufo
-#psfnormalize -p checkfix=fix source/BosaLisu-Italic.ufo
+psfnormalize -p checkfix=fix source/masters/BosaLisuMaster-Italic.ufo
+psfnormalize -p checkfix=fix source/masters/BosaLisuMaster-ExtraLightItalic.ufo
+psfnormalize -p checkfix=fix source/masters/BosaLisuMaster-BlackItalic.ufo
 
 # Following sync will copy psnames and glyphorder updates to all fonts
-psfsyncmasters source/BosaUpright.designspace
-#psfsyncmasters source/BosaUpright.designspace source/BosaItalic.designspace
+psfsyncmasters source/BosaUpright.designspace source/BosaItalic.designspace

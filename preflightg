@@ -2,6 +2,6 @@
 
 # Produce individual UFOs from Glyphs files
 psfglyphs2ufo source/masters/BosaUpright.glyphs source/masters
-#psfglyphs2ufo source/BosaItalic.glyphs source
+psfglyphs2ufo source/masters/BosaItalic.glyphs source/masters
 
 ./preflight

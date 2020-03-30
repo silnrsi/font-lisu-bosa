@@ -25,7 +25,7 @@
   <key>com.schriftgestaltung.appVersion</key>
   <string>1306</string>
   <key>com.schriftgestaltung.customName</key>
-  <string>ExtraLight</string>
+  <string>Extra</string>
   <key>com.schriftgestaltung.customParameter.GSFont.DisplayStrings</key>
   <array>
     <string>/uniA4E7/uniA4F3/uniA4D0/uniA4F0/uniA4DF/uniA4F4/uniA4E0/uniA4EF</string>
@@ -59,7 +59,7 @@
   <key>com.schriftgestaltung.keyboardIncrement</key>
   <integer>1</integer>
   <key>com.schriftgestaltung.weight</key>
-  <string>ExtraLight</string>
+  <string>Light</string>
   <key>com.schriftgestaltung.weightValue</key>
   <integer>0</integer>
   <key>com.schriftgestaltung.width</key>
