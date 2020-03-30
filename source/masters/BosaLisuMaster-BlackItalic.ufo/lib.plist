@@ -23,9 +23,9 @@
     </dict>
   </dict>
   <key>com.schriftgestaltung.appVersion</key>
-  <string>1306</string>
+  <string>1286</string>
   <key>com.schriftgestaltung.customName</key>
-  <string>ExtraLight</string>
+  <string>Black</string>
   <key>com.schriftgestaltung.customParameter.GSFont.DisplayStrings</key>
   <array>
     <string>/uniA4E7/uniA4F3/uniA4D0/uniA4F0/uniA4DF/uniA4F4/uniA4E0/uniA4EF</string>
@@ -45,9 +45,9 @@
   <key>com.schriftgestaltung.customParameter.GSFontMaster.customValue3</key>
   <integer>0</integer>
   <key>com.schriftgestaltung.customParameter.GSFontMaster.iconName</key>
-  <string/>
+  <string>Bold</string>
   <key>com.schriftgestaltung.customParameter.GSFontMaster.weightValue</key>
-  <integer>0</integer>
+  <integer>1000</integer>
   <key>com.schriftgestaltung.customParameter.GSFontMaster.widthValue</key>
   <integer>100</integer>
   <key>com.schriftgestaltung.disablesAutomaticAlignment</key>
@@ -55,13 +55,13 @@
   <key>com.schriftgestaltung.disablesLastChange</key>
   <true/>
   <key>com.schriftgestaltung.fontMasterOrder</key>
-  <integer>0</integer>
+  <integer>2</integer>
   <key>com.schriftgestaltung.keyboardIncrement</key>
   <integer>1</integer>
   <key>com.schriftgestaltung.weight</key>
-  <string>ExtraLight</string>
+  <string>Black</string>
   <key>com.schriftgestaltung.weightValue</key>
-  <integer>0</integer>
+  <integer>1000</integer>
   <key>com.schriftgestaltung.width</key>
   <string>Regular</string>
   <key>com.schriftgestaltung.widthValue</key>

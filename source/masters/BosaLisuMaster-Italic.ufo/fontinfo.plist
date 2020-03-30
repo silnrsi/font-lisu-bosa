@@ -11,7 +11,7 @@
   <key>descender</key>
   <integer>-200</integer>
   <key>familyName</key>
-  <string>Bosa Lisu</string>
+  <string>Bosa Lisu Master</string>
   <key>italicAngle</key>
   <integer>-19</integer>
   <key>openTypeHeadCreated</key>
@@ -80,11 +80,11 @@ THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
   <key>openTypeNameManufacturerURL</key>
   <string>http://scripts.sil.org</string>
   <key>openTypeNamePreferredFamilyName</key>
-  <string>Bosa Lisu</string>
+  <string>Bosa Lisu Master</string>
   <key>openTypeNamePreferredSubfamilyName</key>
   <string>Italic</string>
   <key>openTypeNameUniqueID</key>
-  <string>SIL International: Bosa Lisu Italic: 2020</string>
+  <string>SIL International: Bosa Lisu Master Italic: 2020</string>
   <key>openTypeNameVersion</key>
   <string>Version 1.900</string>
   <key>openTypeOS2CodePageRanges</key>
@@ -156,9 +156,9 @@ THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
   <key>openTypeOS2WinDescent</key>
   <integer>200</integer>
   <key>postscriptFontName</key>
-  <string>BosaLisu-Italic</string>
+  <string>BosaLisuMaster-Italic</string>
   <key>postscriptFullName</key>
-  <string>Bosa Lisu Italic</string>
+  <string>Bosa Lisu Master Italic</string>
   <key>postscriptUnderlinePosition</key>
   <integer>-170</integer>
   <key>postscriptUnderlineThickness</key>

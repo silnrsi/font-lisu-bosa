@@ -59,7 +59,7 @@
   <key>com.schriftgestaltung.keyboardIncrement</key>
   <integer>1</integer>
   <key>com.schriftgestaltung.weight</key>
-  <string>Regular</string>
+  <string>Black</string>
   <key>com.schriftgestaltung.weightValue</key>
   <integer>1000</integer>
   <key>com.schriftgestaltung.width</key>

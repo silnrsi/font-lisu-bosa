@@ -12,8 +12,10 @@
   <integer>-200</integer>
   <key>familyName</key>
   <string>Bosa Lisu Master</string>
+  <key>italicAngle</key>
+  <integer>-19</integer>
   <key>openTypeHeadCreated</key>
-  <string>2020/03/29 22:18:54</string>
+  <string>2020/03/30 11:48:16</string>
   <key>openTypeHheaAscender</key>
   <integer>800</integer>
   <key>openTypeHheaDescender</key>
@@ -80,9 +82,9 @@ THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
   <key>openTypeNamePreferredFamilyName</key>
   <string>Bosa Lisu Master</string>
   <key>openTypeNamePreferredSubfamilyName</key>
-  <string>Black</string>
+  <string>Extra Light Italic</string>
   <key>openTypeNameUniqueID</key>
-  <string>SIL International: Bosa Lisu Master Black: 2020</string>
+  <string>SIL International: Bosa Lisu Master Extra Light Italic: 2020</string>
   <key>openTypeNameVersion</key>
   <string>Version 1.900</string>
   <key>openTypeOS2CodePageRanges</key>
@@ -146,7 +148,7 @@ THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
   <key>openTypeOS2VendorID</key>
   <string>SIL </string>
   <key>openTypeOS2WeightClass</key>
-  <integer>1000</integer>
+  <integer>0</integer>
   <key>openTypeOS2WidthClass</key>
   <integer>5</integer>
   <key>openTypeOS2WinAscent</key>
@@ -154,19 +156,19 @@ THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
   <key>openTypeOS2WinDescent</key>
   <integer>200</integer>
   <key>postscriptFontName</key>
-  <string>BosaLisuMaster-Black</string>
+  <string>BosaLisuMaster-ExtraLightItalic</string>
   <key>postscriptFullName</key>
-  <string>Bosa Lisu Master Black</string>
+  <string>Bosa Lisu Master Extra Light Italic</string>
   <key>postscriptUnderlinePosition</key>
   <integer>-170</integer>
   <key>postscriptUnderlineThickness</key>
   <integer>40</integer>
   <key>styleMapFamilyName</key>
-  <string>Bosa Lisu Black</string>
+  <string>Bosa Lisu Extra Light</string>
   <key>styleMapStyleName</key>
-  <string>regular</string>
+  <string>italic</string>
   <key>styleName</key>
-  <string>Black</string>
+  <string>Extra Light Italic</string>
   <key>trademark</key>
   <string>Bosa is a trademark of SIL International.</string>
   <key>unitsPerEm</key>
