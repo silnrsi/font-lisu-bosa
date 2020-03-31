@@ -23,12 +23,14 @@
     </dict>
   </dict>
   <key>com.schriftgestaltung.appVersion</key>
-  <string>1306</string>
+  <string>1310</string>
   <key>com.schriftgestaltung.customName</key>
   <string>Extra</string>
   <key>com.schriftgestaltung.customParameter.GSFont.DisplayStrings</key>
   <array>
-    <string>/uniA4E7/uniA4F3/uniA4D0/uniA4F0/uniA4DF/uniA4F4/uniA4E0/uniA4EF</string>
+    <string>/uniA4E7/uniA4F3/uniA4D0/uniA4F0/uniA4DF/uniA4F4/uniA4E0/uniA4EF 
+0306080900</string>
+    <string>0123456789</string>
   </array>
   <key>com.schriftgestaltung.customParameter.GSFont.disablesAutomaticAlignment</key>
   <true/>
