@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="W" format="2">
+  <advance width="802"/>
+  <unicode hex="0057"/>
+  <anchor x="478" y="635" name="aboveUC"/>
+  <anchor x="376" y="-1" name="belowLC"/>
+  <outline>
+    <contour>
+      <point x="57" y="579" type="line"/>
+      <point x="168" y="565" type="line"/>
+      <point x="185" y="565" type="line"/>
+      <point x="296" y="579" type="line"/>
+      <point x="303" y="616" type="line"/>
+      <point x="64" y="616" type="line"/>
+    </contour>
+    <contour>
+      <point x="181" y="-9" type="line"/>
+      <point x="217" y="-9" type="line"/>
+      <point x="483" y="540" type="line"/>
+      <point x="451" y="518" type="line"/>
+      <point x="520" y="-9" type="line"/>
+      <point x="555" y="-9" type="line"/>
+      <point x="841" y="616" type="line"/>
+      <point x="793" y="616" type="line"/>
+      <point x="554" y="88" type="line"/>
+      <point x="569" y="97" type="line"/>
+      <point x="512" y="616" type="line"/>
+      <point x="473" y="616" type="line"/>
+      <point x="219" y="88" type="line"/>
+      <point x="237" y="97" type="line"/>
+      <point x="207" y="616" type="line"/>
+      <point x="125" y="616" type="line"/>
+    </contour>
+    <contour>
+      <point x="361" y="579" type="line"/>
+      <point x="471" y="565" type="line"/>
+      <point x="489" y="565" type="line"/>
+      <point x="603" y="579" type="line"/>
+      <point x="610" y="616" type="line"/>
+      <point x="368" y="616" type="line"/>
+    </contour>
+    <contour>
+      <point x="690" y="579" type="line"/>
+      <point x="782" y="565" type="line"/>
+      <point x="800" y="565" type="line"/>
+      <point x="896" y="579" type="line"/>
+      <point x="903" y="616" type="line"/>
+      <point x="697" y="616" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+    </dict>
+  </lib>
+</glyph>

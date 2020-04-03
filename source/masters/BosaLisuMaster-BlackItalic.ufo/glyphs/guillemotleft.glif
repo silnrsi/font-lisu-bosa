@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="guillemotleft" format="2">
+  <advance width="541"/>
+  <unicode hex="00AB"/>
+  <outline>
+    <contour>
+      <point x="244" y="34" type="line"/>
+      <point x="277" y="64" type="line"/>
+      <point x="132" y="260" type="line"/>
+      <point x="122" y="204" type="line"/>
+      <point x="325" y="398" type="line"/>
+      <point x="300" y="429" type="line"/>
+      <point x="74" y="260" type="line"/>
+      <point x="64" y="204" type="line"/>
+    </contour>
+    <contour>
+      <point x="447" y="34" type="line"/>
+      <point x="480" y="64" type="line"/>
+      <point x="334" y="260" type="line"/>
+      <point x="323" y="204" type="line"/>
+      <point x="528" y="398" type="line"/>
+      <point x="503" y="429" type="line"/>
+      <point x="276" y="260" type="line"/>
+      <point x="266" y="204" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+    </dict>
+  </lib>
+</glyph>

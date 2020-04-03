@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Zcaron" format="2">
+  <advance width="494"/>
+  <unicode hex="017D"/>
+  <anchor x="370" y="791" name="aboveUC"/>
+  <anchor x="237" y="-20" name="belowLC"/>
+  <outline>
+    <contour>
+      <point x="0" y="0" type="line"/>
+      <point x="75" y="0" type="line"/>
+      <point x="536" y="581" type="line"/>
+      <point x="542" y="614" type="line"/>
+      <point x="467" y="614" type="line"/>
+      <point x="6" y="33" type="line"/>
+    </contour>
+    <contour>
+      <point x="80" y="449" type="line"/>
+      <point x="135" y="449" type="line"/>
+      <point x="194" y="614" type="line"/>
+      <point x="134" y="567" type="line"/>
+      <point x="495" y="567" type="line"/>
+      <point x="506" y="614" type="line"/>
+      <point x="112" y="614" type="line"/>
+    </contour>
+    <contour>
+      <point x="46" y="0" type="line"/>
+      <point x="446" y="0" type="line"/>
+      <point x="479" y="164" type="line"/>
+      <point x="422" y="164" type="line"/>
+      <point x="364" y="0" type="line"/>
+      <point x="424" y="46" type="line"/>
+      <point x="55" y="46" type="line"/>
+    </contour>
+    <contour>
+      <point x="255" y="800" type="line"/>
+      <point x="230" y="781" type="line"/>
+      <point x="322" y="668" type="line"/>
+      <point x="374" y="668" type="line"/>
+      <point x="498" y="781" type="line"/>
+      <point x="480" y="800" type="line"/>
+      <point x="319" y="697" type="line"/>
+      <point x="380" y="697" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+    </dict>
+  </lib>
+</glyph>

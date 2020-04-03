@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="macron" format="2">
+  <advance width="368"/>
+  <unicode hex="00AF"/>
+  <anchor x="184" y="471" name="_aboveLC"/>
+  <anchor x="184" y="625" name="aboveLC"/>
+  <outline>
+    <contour>
+      <point x="46" y="542" type="line"/>
+      <point x="322" y="542" type="line"/>
+      <point x="322" y="616" type="line"/>
+      <point x="46" y="616" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+    </dict>
+  </lib>
+</glyph>

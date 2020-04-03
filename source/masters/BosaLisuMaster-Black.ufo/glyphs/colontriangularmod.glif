@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="colontriangularmod" format="2">
+  <advance width="276"/>
+  <unicode hex="02D0"/>
+  <outline>
+    <contour>
+      <point x="51" y="445" type="line"/>
+      <point x="132" y="305" type="line"/>
+      <point x="143" y="305" type="line"/>
+      <point x="224" y="445" type="line"/>
+      <point x="218" y="455" type="line"/>
+      <point x="57" y="455" type="line"/>
+    </contour>
+    <contour>
+      <point x="51" y="10" type="line"/>
+      <point x="57" y="0" type="line"/>
+      <point x="218" y="0" type="line"/>
+      <point x="224" y="10" type="line"/>
+      <point x="143" y="149" type="line"/>
+      <point x="132" y="149" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+    </dict>
+  </lib>
+</glyph>

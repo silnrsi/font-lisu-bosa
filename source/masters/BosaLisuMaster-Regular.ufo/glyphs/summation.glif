@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="summation" format="2">
+  <advance width="517"/>
+  <unicode hex="2211"/>
+  <outline>
+    <contour>
+      <point x="422" y="449" type="line"/>
+      <point x="480" y="449" type="line"/>
+      <point x="472" y="614" type="line"/>
+      <point x="68" y="614" type="line"/>
+      <point x="68" y="567" type="line"/>
+      <point x="440" y="567" type="line"/>
+      <point x="387" y="614" type="line"/>
+    </contour>
+    <contour>
+      <point x="18" y="-118" type="line"/>
+      <point x="492" y="-118" type="line"/>
+      <point x="499" y="78" type="line"/>
+      <point x="440" y="78" type="line"/>
+      <point x="405" y="-86" type="line"/>
+      <point x="460" y="-39" type="line"/>
+      <point x="66" y="-39" type="line"/>
+      <point x="80" y="-62" type="line"/>
+      <point x="328" y="267" type="line"/>
+      <point x="108" y="614" type="line"/>
+      <point x="23" y="614" type="line"/>
+      <point x="23" y="572" type="line"/>
+      <point x="265" y="192" type="line"/>
+      <point x="285" y="298" type="line"/>
+      <point x="18" y="-59" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+    </dict>
+  </lib>
+</glyph>
