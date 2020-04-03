@@ -23,7 +23,7 @@
     </dict>
   </dict>
   <key>com.schriftgestaltung.appVersion</key>
-  <string>1312</string>
+  <string>1286</string>
   <key>com.schriftgestaltung.customName</key>
   <string>Extra Italic</string>
   <key>com.schriftgestaltung.customParameter.GSFont.DisplayStrings</key>
@@ -409,5 +409,22 @@
     <string>uniFFFC</string>
     <string>uniFFFD</string>
   </array>
+  <key>public.postscriptNames</key>
+  <dict>
+    <key>Delta</key>
+    <string>uni0394</string>
+    <key>Omega</key>
+    <string>uni03A9</string>
+    <key>bulletoperator</key>
+    <string>uni2219</string>
+    <key>colontriangularmod</key>
+    <string>uni02D0</string>
+    <key>figurespace</key>
+    <string>uni2007</string>
+    <key>horizontalbar</key>
+    <string>uni2015</string>
+    <key>mu</key>
+    <string>uni03BC</string>
+  </dict>
 </dict>
 </plist>
