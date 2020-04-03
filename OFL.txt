@@ -2,6 +2,8 @@ Copyright (c) 1998-2019 David Morse (original regular)
 with Reserved Font Name "LisuTzimu".
 Copyright (c) 2019 SIL International (regular revisions, bold, italic, bold italic)
 with Reserved Font Name "Bosa".
+Copyright (c) 2014-2019 Adobe (http://www.adobe.com/) (Latin glyphs)
+with Reserved Font Name "Source".
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
 This license is copied below, and is also available with a FAQ at:

@@ -7,7 +7,7 @@
   <key>capHeight</key>
   <integer>530</integer>
   <key>copyright</key>
-  <string>Copyright (c) 1998-2019 David Morse (original regular), Copyright (c) 2020 SIL International (revised regular, bold, italic, bold italic)</string>
+  <string>Copyright (c) 1998-2019 David Morse (original regular), Copyright (c) 2020 SIL International (revised regular, bold, italic, bold italic), Copyright (c) 2014-2019 Adobe (http://www.adobe.com/) (Latin glyphs)</string>
   <key>descender</key>
   <integer>-200</integer>
   <key>familyName</key>
@@ -23,11 +23,11 @@
   <key>openTypeNameDescription</key>
   <string>A font for the Lisu (Fraser) script</string>
   <key>openTypeNameDesigner</key>
-  <string>David Morse, Annie Olsen, Victor Gaultney</string>
+  <string>David Morse, Annie Olsen, Victor Gaultney, Frank Grießhammer (Latin)</string>
   <key>openTypeNameDesignerURL</key>
   <string>http://scripts.sil.org/</string>
   <key>openTypeNameLicense</key>
-  <string>Copyright (c) 1998-2019 David Morse (original regular) with Reserved Font Name "LisuTzimu", Copyright (c) 2020 SIL International (regular revisions, bold, italic, bold italic) with Reserved Font Name "Bosa".
+  <string>Copyright (c) 1998-2019 David Morse (original regular) with Reserved Font Name "LisuTzimu", Copyright (c) 2020 SIL International (regular revisions, bold, italic, bold italic) with Reserved Font Name "Bosa", Copyright (c) 2014-2019 Adobe (http://www.adobe.com/) (Latin glyphs), with Reserved Font Name "Source".
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
 This license is copied below, and is also available with a FAQ at: http://scripts.sil.org/OFL
@@ -84,7 +84,7 @@ THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
   <key>openTypeNameUniqueID</key>
   <string>SIL International: Bosa Lisu Master Regular: 2020</string>
   <key>openTypeNameVersion</key>
-  <string>Version 1.900</string>
+  <string>Version 1.910</string>
   <key>openTypeOS2CodePageRanges</key>
   <array>
     <integer>0</integer>
@@ -174,7 +174,7 @@ THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
   <key>versionMajor</key>
   <integer>1</integer>
   <key>versionMinor</key>
-  <integer>900</integer>
+  <integer>910</integer>
   <key>xHeight</key>
   <integer>425</integer>
 </dict>
