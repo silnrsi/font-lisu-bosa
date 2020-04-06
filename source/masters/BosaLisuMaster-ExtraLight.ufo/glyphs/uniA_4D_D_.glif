@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uniA4DD" format="2">
-  <advance width="456"/>
+  <advance width="422"/>
   <unicode hex="A4DD"/>
   <outline>
     <contour>
-      <point x="64" y="0" type="line"/>
-      <point x="148" y="0" type="line"/>
-      <point x="148" y="450" type="line"/>
-      <point x="404" y="450" type="line"/>
-      <point x="404" y="530" type="line"/>
-      <point x="64" y="530" type="line"/>
+      <point x="60" y="0" type="line"/>
+      <point x="128" y="0" type="line"/>
+      <point x="128" y="466" type="line"/>
+      <point x="374" y="466" type="line"/>
+      <point x="374" y="530" type="line"/>
+      <point x="60" y="530" type="line"/>
     </contour>
     <contour>
-      <point x="106" y="230" type="line"/>
-      <point x="372" y="230" type="line"/>
-      <point x="372" y="310" type="line"/>
-      <point x="106" y="310" type="line"/>
+      <point x="92" y="238" type="line"/>
+      <point x="342" y="238" type="line"/>
+      <point x="342" y="302" type="line"/>
+      <point x="92" y="302" type="line"/>
     </contour>
   </outline>
   <lib>
