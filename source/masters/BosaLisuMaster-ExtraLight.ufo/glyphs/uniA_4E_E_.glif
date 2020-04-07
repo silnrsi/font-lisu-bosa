@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uniA4EE" format="2">
-  <advance width="590"/>
+  <advance width="562"/>
   <unicode hex="A4EE"/>
   <outline>
     <contour>
-      <point x="48" y="0" type="line"/>
-      <point x="138" y="0" type="line"/>
-      <point x="183" y="122" type="line"/>
-      <point x="130" y="100" type="line"/>
-      <point x="460" y="100" type="line"/>
-      <point x="407" y="122" type="line"/>
-      <point x="452" y="0" type="line"/>
-      <point x="542" y="0" type="line"/>
-      <point x="340" y="530" type="line"/>
-      <point x="250" y="530" type="line"/>
+      <point x="44" y="0" type="line"/>
+      <point x="118" y="0" type="line"/>
+      <point x="163" y="122" type="line"/>
+      <point x="116" y="108" type="line"/>
+      <point x="446" y="108" type="line"/>
+      <point x="399" y="122" type="line"/>
+      <point x="444" y="0" type="line"/>
+      <point x="518" y="0" type="line"/>
+      <point x="316" y="530" type="line"/>
+      <point x="246" y="530" type="line"/>
     </contour>
     <contour>
-      <point x="195" y="153" type="line"/>
-      <point x="311" y="464" type="line"/>
-      <point x="279" y="464" type="line"/>
-      <point x="395" y="153" type="line"/>
-      <point x="432" y="175" type="line"/>
-      <point x="158" y="175" type="line"/>
+      <point x="175" y="153" type="line"/>
+      <point x="291" y="464" type="line"/>
+      <point x="271" y="464" type="line"/>
+      <point x="387" y="153" type="line"/>
+      <point x="418" y="167" type="line"/>
+      <point x="144" y="167" type="line"/>
     </contour>
   </outline>
   <lib>

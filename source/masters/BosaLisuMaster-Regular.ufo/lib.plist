@@ -26,8 +26,7 @@
   <string>1286</string>
   <key>com.schriftgestaltung.customParameter.GSFont.DisplayStrings</key>
   <array>
-    <string>/uniA4E7/uniA4F3/uniA4D0/uniA4F0/uniA4DF/uniA4F4 ?/uniA4E0/uniA4EF</string>
-    <string>/uniA4D6/uniA4E8/uniA4F3/uniA4D9/uniA4DA/uniA4DB/uniA4E9/uniA4F3/uniA4F4/uniA4E2 ?</string>
+    <string>/uniA4E7/uniA4F3/uniA4D0/uniA4F0/uniA4DF/uniA4F4 ? /uniA4E0/uniA4EF</string>
   </array>
   <key>com.schriftgestaltung.customParameter.GSFont.disablesAutomaticAlignment</key>
   <true/>

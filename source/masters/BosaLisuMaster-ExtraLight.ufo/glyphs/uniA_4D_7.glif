@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uniA4D7" format="2">
-  <advance width="520"/>
+  <advance width="492"/>
   <unicode hex="A4D7"/>
   <outline>
     <contour>
-      <point x="106" y="116" type="line"/>
-      <point x="466" y="530" type="line"/>
-      <point x="360" y="530" type="line"/>
-      <point x="106" y="239" type="line"/>
+      <point x="82" y="116" type="line"/>
+      <point x="442" y="530" type="line"/>
+      <point x="352" y="530" type="line"/>
+      <point x="98" y="239" type="line"/>
     </contour>
     <contour>
-      <point x="64" y="0" type="line"/>
-      <point x="148" y="0" type="line"/>
-      <point x="148" y="530" type="line"/>
-      <point x="64" y="530" type="line"/>
+      <point x="60" y="0" type="line"/>
+      <point x="128" y="0" type="line"/>
+      <point x="128" y="530" type="line"/>
+      <point x="60" y="530" type="line"/>
     </contour>
     <contour>
-      <point x="372" y="0" type="line"/>
-      <point x="472" y="0" type="line"/>
-      <point x="243" y="334" type="line"/>
-      <point x="187" y="270" type="line"/>
+      <point x="364" y="0" type="line"/>
+      <point x="448" y="0" type="line"/>
+      <point x="219" y="334" type="line"/>
+      <point x="179" y="270" type="line"/>
     </contour>
   </outline>
   <lib>
