@@ -4,10 +4,10 @@
   <unicode hex="A4FE"/>
   <outline>
     <contour>
-      <point x="72" y="210" type="line"/>
-      <point x="350" y="210" type="line"/>
-      <point x="350" y="290" type="line"/>
-      <point x="72" y="290" type="line"/>
+      <point x="72" y="218" type="line"/>
+      <point x="350" y="218" type="line"/>
+      <point x="350" y="282" type="line"/>
+      <point x="72" y="282" type="line"/>
     </contour>
     <component base="uniA4F8" xOffset="310"/>
   </outline>
