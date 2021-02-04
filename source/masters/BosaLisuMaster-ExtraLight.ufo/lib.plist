@@ -26,6 +26,24 @@
   <string>1286</string>
   <key>com.schriftgestaltung.customName</key>
   <string>Extra</string>
+  <key>com.schriftgestaltung.customParameter.GSFont.Axis Mappings</key>
+  <dict>
+    <key>XXXX</key>
+    <dict>
+      <key>0</key>
+      <integer>0</integer>
+    </dict>
+    <key>wdth</key>
+    <dict>
+      <key>100</key>
+      <integer>100</integer>
+    </dict>
+    <key>wght</key>
+    <dict>
+      <key>200</key>
+      <integer>0</integer>
+    </dict>
+  </dict>
   <key>com.schriftgestaltung.customParameter.GSFont.DisplayStrings</key>
   <array>
     <string>/uniA4E7/uniA4F3/uniA4F9/uniA4F8  /uniA4D0/uniA4F0/uniA4F8 ? /uniA4DF/uniA4F4/uniA4FE  /uniA4E0/uniA4EF/uniA4EE/uniA4DC/uniA4EB/uniA4EC/uniA4E1/uniA4F3 ?/uniA4FF</string>

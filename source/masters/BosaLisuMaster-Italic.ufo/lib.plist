@@ -4,6 +4,8 @@
 <dict>
   <key>com.schriftgestaltung.Glyphs.fontUserData</key>
   <dict>
+    <key>GSDontShowVersionAlert</key>
+    <integer>1</integer>
     <key>com.schriftgestaltung.Glyphs.groupsNotInFeature</key>
     <array/>
     <key>com.schriftgestaltung.Glyphs.layerLib.public.default</key>
@@ -23,17 +25,46 @@
     </dict>
   </dict>
   <key>com.schriftgestaltung.appVersion</key>
-  <string>1286</string>
+  <string>3049</string>
   <key>com.schriftgestaltung.customName</key>
   <string>Italic</string>
+  <key>com.schriftgestaltung.customParameter.GSFont.Axis Mappings</key>
+  <dict>
+    <key>XXXX</key>
+    <dict>
+      <key>0</key>
+      <integer>0</integer>
+    </dict>
+    <key>wdth</key>
+    <dict>
+      <key>100</key>
+      <integer>100</integer>
+    </dict>
+    <key>wght</key>
+    <dict>
+      <key>200</key>
+      <integer>0</integer>
+      <key>400</key>
+      <integer>400</integer>
+      <key>900</key>
+      <integer>1000</integer>
+    </dict>
+  </dict>
   <key>com.schriftgestaltung.customParameter.GSFont.DisplayStrings</key>
   <array>
     <string>/uniA4E7/uniA4F3/uniA4D0/uniA4F0/uniA4DF/uniA4F4/uniA4E0/uniA4EF</string>
+    <string>/uniA4D0/uniA4D1/uniA4D2/uniA4D3/uniA4D4/uniA4D5/uniA4D6/uniA4D7/uniA4D8/uniA4D9/uniA4DA/uniA4DB/uniA4DC/uniA4DD/uniA4DE/uniA4DF/uniA4E0/uniA4E1/uniA4E2/uniA4E3/uniA4E4/uniA4E5/uniA4E6/uniA4E7/uniA4E8/uniA4E9/uniA4EA/uniA4EB/uniA4EC/uniA4ED/uniA4EE/uniA4EF/uniA4F0/uniA4F1/uniA4F2/uniA4F3/uniA4F4/uniA4F5/uniA4F6/uniA4F7</string>
+    <string>/uniA4D0/uniA4D1/uniA4D2/uniA4F7/uniA4D3/uniA4E3/space/uniA4E4/space/uniA4ED</string>
+    <string>/uniA4D6/uniA4E8/uniA4DB/uniA4D9/uniA4E9/uniA4DA/uniA4DB/uniA4E2/uniA4D6.001/uniA4E8.001</string>
+    <string>/uniA4D7/uniA4D8/uniA4D4/uniA4D5/uniA4DD/uniA4DE/uniA4E7/uniA4EE/uniA4EF/uniA4DD/uniA4F0/uniA4F1</string>
+    <string>/uniA4E5/uniA4E6/uniA4EA/uniA4EB/uniA4EC/uniA4DF/uniA4E0/uniA4EE/uniA4EF</string>
   </array>
   <key>com.schriftgestaltung.customParameter.GSFont.disablesAutomaticAlignment</key>
   <true/>
   <key>com.schriftgestaltung.customParameter.GSFont.disablesLastChange</key>
   <true/>
+  <key>com.schriftgestaltung.customParameter.GSFont.uniqueID</key>
+  <string>SIL International: Bosa Lisu Master Extra Light Italic: 2020</string>
   <key>com.schriftgestaltung.customParameter.GSFont.useNiceNames</key>
   <integer>0</integer>
   <key>com.schriftgestaltung.customParameter.GSFontMaster.customValue</key>
