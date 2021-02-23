@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="uniA4F7" format="2">
-  <advance width="535"/>
-  <unicode hex="A4F7"/>
+<glyph name="uniA4F7.002" format="2">
   <outline>
     <contour>
       <point x="352" y="538" type="curve" smooth="yes"/>
@@ -69,12 +67,4 @@
       <point x="472" y="538"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.adobe.type.autohint</key>
-      <string>b''</string>
-      <key>public.markColor</key>
-      <string>0,0.67,0.91,1</string>
-    </dict>
-  </lib>
 </glyph>

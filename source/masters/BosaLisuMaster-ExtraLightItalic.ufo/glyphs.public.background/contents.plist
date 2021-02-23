@@ -4,8 +4,10 @@
 <dict>
   <key>uniA4D0</key>
   <string>uniA_4D_0.glif</string>
-  <key>uniA4D0.oo1</key>
-  <string>uniA_4D_0.oo1.glif</string>
+  <key>uniA4D0.001</key>
+  <string>uniA_4D_0.001.glif</string>
+  <key>uniA4D0.002</key>
+  <string>uniA_4D_0.002.glif</string>
   <key>uniA4D1</key>
   <string>uniA_4D_1.glif</string>
   <key>uniA4D2</key>
@@ -60,6 +62,8 @@
   <string>uniA_4E_D_.glif</string>
   <key>uniA4ED.001</key>
   <string>uniA_4E_D_.001.glif</string>
+  <key>uniA4ED.002</key>
+  <string>uniA_4E_D_.002.glif</string>
   <key>uniA4EE</key>
   <string>uniA_4E_E_.glif</string>
   <key>uniA4EF</key>
@@ -72,5 +76,7 @@
   <string>uniA_4F_7.glif</string>
   <key>uniA4F7.001</key>
   <string>uniA_4F_7.001.glif</string>
+  <key>uniA4F7.002</key>
+  <string>uniA_4F_7.002.glif</string>
 </dict>
 </plist>

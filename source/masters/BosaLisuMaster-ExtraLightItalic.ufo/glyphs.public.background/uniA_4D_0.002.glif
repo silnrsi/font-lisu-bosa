@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="uniA4D0" format="2">
-  <advance width="510"/>
-  <unicode hex="A4D0"/>
+<glyph name="uniA4D0.002" format="2">
   <outline>
     <contour>
       <point x="85" y="86" type="curve" smooth="yes"/>
@@ -100,10 +98,4 @@
       <point x="185" y="313" type="curve"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0,0.67,0.91,1</string>
-    </dict>
-  </lib>
 </glyph>
