@@ -4,6 +4,8 @@
 <dict>
   <key>hyphen</key>
   <string>hyphen.glif</string>
+  <key>uni02CD</key>
+  <string>uni02C_D_.glif</string>
   <key>uniA4D0</key>
   <string>uniA_4D_0.glif</string>
   <key>uniA4D0.001</key>
