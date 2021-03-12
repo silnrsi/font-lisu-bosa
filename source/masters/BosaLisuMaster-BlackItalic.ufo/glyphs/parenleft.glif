@@ -1,29 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="parenleft" format="2">
-  <advance width="294"/>
+  <advance width="254"/>
   <unicode hex="0028"/>
   <outline>
     <contour>
-      <point x="252" y="-137" type="curve"/>
-      <point x="252" y="-182" type="line"/>
-      <point x="81" y="-91"/>
-      <point x="31" y="27"/>
-      <point x="31" y="208" type="curve" smooth="yes"/>
-      <point x="31" y="387"/>
-      <point x="81" y="509"/>
-      <point x="252" y="597" type="curve"/>
-      <point x="252" y="552" type="line"/>
-      <point x="128" y="482"/>
-      <point x="118" y="335"/>
-      <point x="118" y="208" type="curve" smooth="yes"/>
-      <point x="118" y="80"/>
-      <point x="128" y="-67"/>
+      <point x="160" y="-37" type="curve"/>
+      <point x="148" y="-82" type="line"/>
+      <point x="49" y="-14"/>
+      <point x="13" y="64"/>
+      <point x="13" y="163" type="curve" smooth="yes"/>
+      <point x="13" y="211"/>
+      <point x="19" y="264"/>
+      <point x="35" y="323" type="curve" smooth="yes"/>
+      <point x="89" y="520"/>
+      <point x="162" y="619"/>
+      <point x="356" y="697" type="curve"/>
+      <point x="344" y="652" type="line"/>
+      <point x="202" y="592"/>
+      <point x="161" y="469"/>
+      <point x="122" y="323" type="curve" smooth="yes"/>
+      <point x="105" y="260"/>
+      <point x="91" y="191"/>
+      <point x="91" y="128" type="curve" smooth="yes"/>
+      <point x="91" y="63"/>
+      <point x="106" y="4"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.adobe.type.autohint</key>
       <string>b''</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
     </dict>
   </lib>
 </glyph>

@@ -23,7 +23,7 @@
     </dict>
   </dict>
   <key>com.schriftgestaltung.appVersion</key>
-  <string>1286</string>
+  <string>3068</string>
   <key>com.schriftgestaltung.customName</key>
   <string>Black</string>
   <key>com.schriftgestaltung.customParameter.GSFont.Axis Mappings</key>
@@ -42,16 +42,22 @@
     <dict>
       <key>200</key>
       <integer>0</integer>
+      <key>400</key>
+      <integer>400</integer>
+      <key>900</key>
+      <integer>1000</integer>
     </dict>
   </dict>
   <key>com.schriftgestaltung.customParameter.GSFont.DisplayStrings</key>
   <array>
-    <string>/uniA4E7/uniA4F3/uniA4F9/uniA4F8  /uniA4D0/uniA4F0/uniA4F8 ? /uniA4DF/uniA4F4/uniA4FE  /uniA4E0/uniA4EF/uniA4EE/uniA4DC/uniA4EB/uniA4EC/uniA4E1/uniA4F3 ?/uniA4FF</string>
+    <string>/uniA4E7/uniA4F3/uniA4F9/uniA4F8/space/uniA4D0/uniA4F0/uniA4F8 ?/space/uniA4DF/uniA4F4/uniA4FE/space/uniA4E0/uniA4EF/uniA4EE/uniA4DC/uniA4EB/uniA4EC/uniA4E1/uniA4F3 ?/uniA4FF</string>
   </array>
   <key>com.schriftgestaltung.customParameter.GSFont.disablesAutomaticAlignment</key>
   <true/>
   <key>com.schriftgestaltung.customParameter.GSFont.disablesLastChange</key>
   <true/>
+  <key>com.schriftgestaltung.customParameter.GSFont.uniqueID</key>
+  <string>SIL International: Bosa Lisu Master Extra Light: 2021</string>
   <key>com.schriftgestaltung.customParameter.GSFont.useNiceNames</key>
   <integer>0</integer>
   <key>com.schriftgestaltung.customParameter.GSFontMaster.customValue</key>
