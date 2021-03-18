@@ -2,8 +2,12 @@
 <!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+  <key>exclam</key>
+  <string>exclam.glif</string>
   <key>hyphen</key>
   <string>hyphen.glif</string>
+  <key>question</key>
+  <string>question.glif</string>
   <key>uni02CD</key>
   <string>uni02C_D_.glif</string>
   <key>uniA4D0</key>

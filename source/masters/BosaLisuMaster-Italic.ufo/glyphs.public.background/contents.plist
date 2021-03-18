@@ -4,6 +4,14 @@
 <dict>
   <key>question</key>
   <string>question.glif</string>
+  <key>quotedblleft</key>
+  <string>quotedblleft.glif</string>
+  <key>quoteleft</key>
+  <string>quoteleft.glif</string>
+  <key>quoteright</key>
+  <string>quoteright.glif</string>
+  <key>uni02BC</key>
+  <string>uni02B_C_.glif</string>
   <key>uni02CD</key>
   <string>uni02C_D_.glif</string>
   <key>uniA4D0</key>
