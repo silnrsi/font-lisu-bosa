@@ -25,7 +25,7 @@
     </dict>
   </dict>
   <key>com.schriftgestaltung.appVersion</key>
-  <string>3068</string>
+  <string>3073</string>
   <key>com.schriftgestaltung.customName</key>
   <string>Extra Italic</string>
   <key>com.schriftgestaltung.customParameter.GSFont.Axis Mappings</key>
@@ -53,11 +53,16 @@
   <key>com.schriftgestaltung.customParameter.GSFont.DisplayStrings</key>
   <array>
     <string>/uniA4D0/uniA4D1/uniA4D2/uniA4D3/uniA4D4/uniA4D5/uniA4D6/uniA4D7/uniA4D8/uniA4D9/uniA4DA/uniA4DB/uniA4DC/uniA4DD/uniA4DE/uniA4DF/uniA4E0/uniA4E1/uniA4E2/uniA4E3/uniA4E4/uniA4E5/uniA4E6/uniA4E7/uniA4E8/uniA4E9/uniA4EA/uniA4EB/uniA4EC/uniA4ED/uniA4EE/uniA4EF/uniA4F0/uniA4F1/uniA4F2/uniA4F3/uniA4F4/uniA4F5/uniA4F6/uniA4F7</string>
-    <string>-/uni02CD/uniA4FE/uniA4FF</string>
-    <string>/uniA4D0/uniA4D1/uniA4D2/uniA4D3/uniA4D6/uniA4DA/uniA4DB/uniA4E8/uniA4ED/uniA4F3/uniA4F7/uniA4D9/uniA4E9</string>
-    <string>/uniA4E2 $0/uniA4F2 1/space 2/uniA4E1 ?345/uniA4D0 6789</string>
+    <string>$0123456789
+716
+532
+840
+194
+</string>
     <string>/uniA4F2 mXi/space/uniA4F3/uniA4DB &amp;?/uniA4EC ?!/uniA4F3 !/space i?/space ;/uniA4F9/uni02BC '"/space #(/uniA4F3 )(I)+,./space B/uniA4F2///uniA4F5 ?/space [/uniA4F7 ]/space dB/uniA4F0 ¶/space/quoteleft/quoteright/quotedblleft/quotedblright/bullet/uni2605</string>
     <string>"',/quotesinglbase/quoteleft/quotedblleft/quoteleft/uniA4E7/quoteright/quotedblright/quoteright/quotedblbase/quotedblleft</string>
+    <string>/uniA4D0 '*</string>
+    <string>*</string>
   </array>
   <key>com.schriftgestaltung.customParameter.GSFont.disablesAutomaticAlignment</key>
   <true/>
