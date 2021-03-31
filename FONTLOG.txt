@@ -1,5 +1,5 @@
 -----
-FONTLOG for the Lisu New fonts
+FONTLOG for the Bosa Lisu Test A fonts
 
 This file provides detailed information on the Bosa Lisu Test A Font Software. This information should be distributed along with the Bosa Lisu Test A fonts and any derivative works.
 
