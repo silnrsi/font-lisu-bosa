@@ -1,10 +1,10 @@
 
-Thank you for your interest in the Bosa Lisu Test A font.
+Thank you for your interest in the Bosa Lisu Test B font.
 We hope you find it useful!
 
-Bosa Lisu Test A is a Unicode font that provides support for the Lisu script.
+Bosa Lisu Test B is a Unicode font that provides support for the Lisu script.
 
-Bosa Lisu Test A is released under the SIL Open Font License.
+Bosa Lisu Test B is released under the SIL Open Font License.
 See the OFL and OFL-FAQ for details of the SIL Open Font License.
 See the FONTLOG for information on this and previous releases.
 

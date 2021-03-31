@@ -1,13 +1,13 @@
 -----
-FONTLOG for the Bosa Lisu Test A fonts
+FONTLOG for the Bosa Lisu Test B fonts
 
-This file provides detailed information on the Bosa Lisu Test A Font Software. This information should be distributed along with the Bosa Lisu Test A fonts and any derivative works.
+This file provides detailed information on the Bosa Lisu Test B Font Software. This information should be distributed along with the Bosa Lisu Test B fonts and any derivative works.
 
 Note that this font is a work in progress and is only suitable for testing. We do not recommend that derivative works be created at this time.
 
 Basic Font Information
 
-Bosa Lisu Test A is a Unicode typeface family that supports all languages that use the Lisu script and its variants.
+Bosa Lisu Test B is a Unicode typeface family that supports all languages that use the Lisu script and its variants.
 
 ChangeLog
 
