@@ -1,13 +1,21 @@
 -----
 FONTLOG for the Lisu New fonts
 
-This file provides detailed information on the Lisu New Font Software. This information should be distributed along with the Lisu New fonts and any derivative works.
+This file provides detailed information on the Bosa Lisu Test A Font Software. This information should be distributed along with the Bosa Lisu Test A fonts and any derivative works.
+
+Note that this font is a work in progress and is only suitable for testing. We do not recommend that derivative works be created at this time.
 
 Basic Font Information
 
-Lisu New is a Unicode typeface family that supports all languages that use the Lisu script and its variants, and could be expanded to support other scripts.
+Bosa Lisu Test A is a Unicode typeface family that supports all languages that use the Lisu script and its variants.
 
 ChangeLog
+
+31 Mar 2021 (SIL WSTech Team) Bosa Lisu Test A version 1.910
+- Initial test version of only normal Regular and Italic weights
+- New design and production workflow based on fully open source toolkit
+- New italic prototype for review
+- Italic punctuation not fully drafted
 
 17 Jul 2019 (SIL WSTech Team) Lisu New version 1.900
 - Started new project based on LisuTzimu Regular
@@ -35,4 +43,4 @@ D: Enhancements and additions
 N: SIL font engineers
 E: http://scripts.sil.org/support
 W: http://scripts.sil.org/
-D: Graphite, OpenType, and TypeTuner code, and build support
+D: Tool development and production support

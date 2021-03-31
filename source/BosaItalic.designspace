@@ -44,7 +44,7 @@
         </source>
     </sources>
     <instances>
-        <instance familyname="Bosa Lisu Test Extra Light" filename="instances/BosaLisuTestExtraLight-Italic.ufo" name="Bosa Lisu Test Extra Light Italic" stylemapfamilyname="Bosa Lisu Test Extra Light" stylemapstylename="italic" stylename="Italic" postscriptfontname="BosaLisuTestExtraLight-Italic">
+        <instance familyname="Bosa Lisu Test A Extra Light" filename="instances/BosaLisuTestAExtraLight-Italic.ufo" name="Bosa Lisu Test A Extra Light Italic" stylemapfamilyname="Bosa Lisu Test A Extra Light" stylemapstylename="italic" stylename="Italic" postscriptfontname="BosaLisuTestAExtraLight-Italic">
             <location>
                 <dimension name="weight" xvalue="0.000000" />
                 <dimension name="width" xvalue="100.000000" />
@@ -53,7 +53,7 @@
             <info />
             <kerning />
         </instance>
-        <instance familyname="Bosa Lisu Test Light" filename="instances/BosaLisuTestLight-Italic.ufo" name="Bosa Lisu Test Light Italic" stylemapfamilyname="Bosa Lisu Test Light" stylemapstylename="italic" stylename="Italic" postscriptfontname="BosaLisuTestLight-Italic">
+        <instance familyname="Bosa Lisu Test A Light" filename="instances/BosaLisuTestALight-Italic.ufo" name="Bosa Lisu Test A Light Italic" stylemapfamilyname="Bosa Lisu Test A Light" stylemapstylename="italic" stylename="Italic" postscriptfontname="BosaLisuTestALight-Italic">
             <location>
                 <dimension name="weight" xvalue="250.000000" />
                 <dimension name="width" xvalue="100.000000" />
@@ -62,7 +62,7 @@
             <info />
             <kerning />
         </instance>
-        <instance familyname="Bosa Lisu Test" filename="instances/BosaLisuTest-Italic.ufo" name="Bosa Lisu Test Italic" stylemapfamilyname="Bosa Lisu Test" stylemapstylename="italic" stylename="Italic" postscriptfontname="BosaLisuTest-Italic">
+        <instance familyname="Bosa Lisu Test A" filename="instances/BosaLisuTestA-Italic.ufo" name="Bosa Lisu Test A Italic" stylemapfamilyname="Bosa Lisu Test A" stylemapstylename="italic" stylename="Italic" postscriptfontname="BosaLisuTestA-Italic">
             <location>
                 <dimension name="weight" xvalue="400.000000" />
                 <dimension name="width" xvalue="100.000000" />
@@ -71,7 +71,7 @@
             <info />
             <kerning />
         </instance>
-        <instance familyname="Bosa Lisu Test Light" filename="instances/BosaLisuTestLight-BoldItalic.ufo" name="Bosa Lisu Test Light Bold Italic" stylemapfamilyname="Bosa Lisu Test Light" stylemapstylename="bold italic" stylename="BoldItalic" postscriptfontname="BosaLisuTestLight-BoldItalic">
+        <instance familyname="Bosa Lisu Test A Light" filename="instances/BosaLisuTestALight-BoldItalic.ufo" name="Bosa Lisu Test A Light Bold Italic" stylemapfamilyname="Bosa Lisu Test A Light" stylemapstylename="bold italic" stylename="BoldItalic" postscriptfontname="BosaLisuTestALight-BoldItalic">
             <location>
                 <dimension name="weight" xvalue="600.000000" />
                 <dimension name="width" xvalue="100.000000" />
@@ -80,7 +80,7 @@
             <info />
             <kerning />
         </instance>
-        <instance familyname="Bosa Lisu Test" filename="instances/BosaLisuTest-BoldItalic.ufo" name="Bosa Lisu Test Bold Italic" stylemapfamilyname="Bosa Lisu Test" stylemapstylename="bold italic" stylename="BoldItalic" postscriptfontname="BosaLisuTest-BoldItalic">
+        <instance familyname="Bosa Lisu Test A" filename="instances/BosaLisuTestA-BoldItalic.ufo" name="Bosa Lisu Test A Bold Italic" stylemapfamilyname="Bosa Lisu Test A" stylemapstylename="bold italic" stylename="BoldItalic" postscriptfontname="BosaLisuTestA-BoldItalic">
             <location>
                 <dimension name="weight" xvalue="700.000000" />
                 <dimension name="width" xvalue="100.000000" />
@@ -89,7 +89,7 @@
             <info />
             <kerning />
         </instance>
-        <instance familyname="Bosa Lisu Test Black" filename="instances/BosaLisuTestBlack-Italic.ufo" name="Bosa Lisu Test Black Italic" stylemapfamilyname="Bosa Lisu Test Black" stylemapstylename="italic" stylename="Italic" postscriptfontname="BosaLisuTestBlack-Italic">
+        <instance familyname="Bosa Lisu Test A Black" filename="instances/BosaLisuTestABlack-Italic.ufo" name="Bosa Lisu Test A Black Italic" stylemapfamilyname="Bosa Lisu Test A Black" stylemapstylename="italic" stylename="Italic" postscriptfontname="BosaLisuTestABlack-Italic">
             <location>
                 <dimension name="weight" xvalue="1000.000000" />
                 <dimension name="width" xvalue="100.000000" />
