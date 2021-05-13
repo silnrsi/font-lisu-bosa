@@ -1,4 +1,4 @@
 #!/bin/sh
 
-psfufo2glyphs source/BosaUpright.designspace source/masters/BosaUpright.glyphs
-psfufo2glyphs source/BosaItalic.designspace source/masters/BosaItalic.glyphs
+psfufo2glyphs source/LisuBosaUpright.designspace source/masters/LisuBosaUpright.glyphs
+psfufo2glyphs source/LisuBosaItalic.designspace source/masters/LisuBosaItalic.glyphs

@@ -1,12 +1,12 @@
 #!/usr/bin/python3
 # -*- coding: utf-8 -*-
 
-APPNAME = "Bosa"
+APPNAME = "LisuBosa"
 fontfamily=APPNAME
 
 DESC_SHORT = "Font for the Lisu (Fraser) script"
 
-getufoinfo('source/masters/' + fontfamily + 'LisuMaster-Regular' + '.ufo')
+getufoinfo('source/masters/' + fontfamily + 'Master-Regular' + '.ufo')
 BUILDLABEL = "alpha"
 
 for dspace in ('Upright', 'Italic'):

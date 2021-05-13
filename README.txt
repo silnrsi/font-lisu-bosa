@@ -1,10 +1,10 @@
 
-Thank you for your interest in the Bosa Lisu Test B font.
+Thank you for your interest in the Lisu Bosa Test C font.
 We hope you find it useful!
 
-Bosa Lisu Test B is a Unicode font that provides support for the Lisu script.
+Lisu Bosa Test C is a Unicode font that provides support for the Lisu script.
 
-Bosa Lisu Test B is released under the SIL Open Font License.
+Lisu Bosa Test C is released under the SIL Open Font License.
 See the OFL and OFL-FAQ for details of the SIL Open Font License.
 See the FONTLOG for information on this and previous releases.
 
@@ -27,7 +27,7 @@ Most Windows applications provide basic Unicode support. You will, however,
 need some way of entering Unicode text into your document.
 
 Keyboarding: 
-Bosa Lisu does not include any keyboarding helps or utilities. If you 
+Lisu Bosa does not include any keyboarding helps or utilities. If you 
 cannot use the built-in keyboards of the operating system, you should 
 install the appropriate keyboard and input method for the characters of the 
 language you wish to use. You will need to install the appropriate keyboard and 

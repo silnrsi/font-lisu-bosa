@@ -17,14 +17,14 @@
         </axis>
     </axes>
     <sources>
-        <source familyname="Bosa Lisu Master" filename="masters/BosaLisuMaster-ExtraLightItalic.ufo" name="Bosa Lisu Extra Light" stylename="Extra Light Italic">
+        <source familyname="Lisu Bosa Master" filename="masters/LisuBosaMaster-ExtraLightItalic.ufo" name="Lisu Bosa Extra Light" stylename="Extra Light Italic">
             <location>
                 <dimension name="weight" xvalue="0.000000" />
                 <dimension name="width" xvalue="100.000000" />
                 <dimension name="custom" xvalue="0.000000" />
             </location>
         </source>
-        <source familyname="Bosa Lisu Master" filename="masters/BosaLisuMaster-Italic.ufo" name="Bosa Lisu Regular" stylename="Italic">
+        <source familyname="Lisu Bosa Master" filename="masters/LisuBosaMaster-Italic.ufo" name="Lisu Bosa Regular" stylename="Italic">
             <lib copy="1" />
             <groups copy="1" />
             <features copy="1" />
@@ -35,7 +35,7 @@
                 <dimension name="custom" xvalue="0.000000" />
             </location>
         </source>
-        <source familyname="Bosa Lisu Master" filename="masters/BosaLisuMaster-BlackItalic.ufo" name="Bosa Lisu Black" stylename="Black Italic">
+        <source familyname="Lisu Bosa Master" filename="masters/LisuBosaMaster-BlackItalic.ufo" name="Lisu Bosa Black" stylename="Black Italic">
             <location>
                 <dimension name="weight" xvalue="1000.000000" />
                 <dimension name="width" xvalue="100.000000" />
@@ -44,7 +44,7 @@
         </source>
     </sources>
     <instances>
-        <instance familyname="Bosa Lisu Test A" filename="instances/BosaLisuTestA-Italic.ufo" name="Bosa Lisu Test A Italic" stylemapfamilyname="Bosa Lisu Test A" stylemapstylename="italic" stylename="Italic" postscriptfontname="BosaLisuTestA-Italic">
+        <instance familyname="Lisu Bosa Test A" filename="instances/LisuBosaTestA-Italic.ufo" name="Lisu Bosa Test A Italic" stylemapfamilyname="Lisu Bosa Test A" stylemapstylename="italic" stylename="Italic" postscriptfontname="LisuBosaTestA-Italic">
             <location>
                 <dimension name="weight" xvalue="400.000000" />
                 <dimension name="width" xvalue="100.000000" />

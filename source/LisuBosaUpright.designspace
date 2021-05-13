@@ -17,14 +17,14 @@
         </axis>
     </axes>
     <sources>
-        <source familyname="Bosa Lisu Master" filename="masters/BosaLisuMaster-ExtraLight.ufo" name="Bosa Lisu Extra Light" stylename="Extra Light">
+        <source familyname="Lisu Bosa Master" filename="masters/LisuBosaMaster-ExtraLight.ufo" name="Lisu Bosa Extra Light" stylename="Extra Light">
             <location>
                 <dimension name="weight" xvalue="0.000000" />
                 <dimension name="width" xvalue="100.000000" />
                 <dimension name="custom" xvalue="0.000000" />
             </location>
         </source>
-        <source familyname="Bosa Lisu Master" filename="masters/BosaLisuMaster-Regular.ufo" name="Bosa Lisu Regular" stylename="Regular">
+        <source familyname="Lisu Bosa Master" filename="masters/LisuBosaMaster-Regular.ufo" name="Lisu Bosa Regular" stylename="Regular">
             <lib copy="1" />
             <groups copy="1" />
             <features copy="1" />
@@ -35,7 +35,7 @@
                 <dimension name="custom" xvalue="0.000000" />
             </location>
         </source>
-        <source familyname="Bosa Lisu Master" filename="masters/BosaLisuMaster-Black.ufo" name="Bosa Lisu Black" stylename="Black">
+        <source familyname="Lisu Bosa Master" filename="masters/LisuBosaMaster-Black.ufo" name="Lisu Bosa Black" stylename="Black">
             <location>
                 <dimension name="weight" xvalue="1000.000000" />
                 <dimension name="width" xvalue="100.000000" />
@@ -44,7 +44,7 @@
         </source>
     </sources>
     <instances>
-        <instance familyname="Bosa Lisu Test B Extra Light" filename="instances/BosaLisuTestBExtraLight-Regular.ufo" name="Bosa Lisu Test B Extra Light" stylemapfamilyname="Bosa Lisu Test B Extra Light" stylemapstylename="regular" stylename="Regular" postscriptfontname="BosaLisuTestBExtraLight-Regular">
+        <instance familyname="Lisu Bosa Test B Extra Light" filename="instances/LisuBosaTestBExtraLight-Regular.ufo" name="Lisu Bosa Test B Extra Light" stylemapfamilyname="Lisu Bosa Test B Extra Light" stylemapstylename="regular" stylename="Regular" postscriptfontname="LisuBosaTestBExtraLight-Regular">
             <location>
                 <dimension name="weight" xvalue="0.000000" />
                 <dimension name="width" xvalue="100.000000" />
@@ -53,7 +53,7 @@
             <info />
             <kerning />
         </instance>
-        <instance familyname="Bosa Lisu Test B Light" filename="instances/BosaLisuTestBLight-Regular.ufo" name="Bosa Lisu Test B Light" stylemapfamilyname="Bosa Lisu Test B Light" stylemapstylename="regular" stylename="Regular" postscriptfontname="BosaLisuTestBLight-Regular">
+        <instance familyname="Lisu Bosa Test B Light" filename="instances/LisuBosaTestBLight-Regular.ufo" name="Lisu Bosa Test B Light" stylemapfamilyname="Lisu Bosa Test B Light" stylemapstylename="regular" stylename="Regular" postscriptfontname="LisuBosaTestBLight-Regular">
             <location>
                 <dimension name="weight" xvalue="250.000000" />
                 <dimension name="width" xvalue="100.000000" />
@@ -62,7 +62,7 @@
             <info />
             <kerning />
         </instance>
-        <instance familyname="Bosa Lisu Test B" filename="instances/BosaLisuTestB-Regular.ufo" name="Bosa Lisu Test B" stylemapfamilyname="Bosa Lisu Test B" stylemapstylename="regular" stylename="Regular" postscriptfontname="BosaLisuTestB-Regular">
+        <instance familyname="Lisu Bosa Test B" filename="instances/LisuBosaTestB-Regular.ufo" name="Lisu Bosa Test B" stylemapfamilyname="Lisu Bosa Test B" stylemapstylename="regular" stylename="Regular" postscriptfontname="LisuBosaTestB-Regular">
             <location>
                 <dimension name="weight" xvalue="400.000000" />
                 <dimension name="width" xvalue="100.000000" />
@@ -71,7 +71,7 @@
             <info />
             <kerning />
         </instance>
-        <instance familyname="Bosa Lisu Test B Light" filename="instances/BosaLisuTestBLight-Bold.ufo" name="Bosa Lisu Test B Light Bold" stylemapfamilyname="Bosa Lisu Test B Light" stylemapstylename="bold" stylename="Bold" postscriptfontname="BosaLisuTestBLight-Bold">
+        <instance familyname="Lisu Bosa Test B Light" filename="instances/LisuBosaTestBLight-Bold.ufo" name="Lisu Bosa Test B Light Bold" stylemapfamilyname="Lisu Bosa Test B Light" stylemapstylename="bold" stylename="Bold" postscriptfontname="LisuBosaTestBLight-Bold">
             <location>
                 <dimension name="weight" xvalue="600.000000" />
                 <dimension name="width" xvalue="100.000000" />
@@ -80,7 +80,7 @@
             <info />
             <kerning />
         </instance>
-        <instance familyname="Bosa Lisu Test B" filename="instances/BosaLisuTestB-Bold.ufo" name="Bosa Lisu Test B Bold" stylemapfamilyname="Bosa Lisu Test B" stylemapstylename="bold" stylename="Bold" postscriptfontname="BosaLisuTestB-Bold">
+        <instance familyname="Lisu Bosa Test B" filename="instances/LisuBosaTestB-Bold.ufo" name="Lisu Bosa Test B Bold" stylemapfamilyname="Lisu Bosa Test B" stylemapstylename="bold" stylename="Bold" postscriptfontname="LisuBosaTestB-Bold">
             <location>
                 <dimension name="weight" xvalue="700.000000" />
                 <dimension name="width" xvalue="100.000000" />
@@ -89,7 +89,7 @@
             <info />
             <kerning />
         </instance>
-        <instance familyname="Bosa Lisu Test B Black" filename="instances/BosaLisuTestBBlack-Regular.ufo" name="Bosa Lisu Test B Black" stylemapfamilyname="Bosa Lisu Test B Black" stylemapstylename="regular" stylename="Regular" postscriptfontname="BosaLisuTestBBlack-Regular">
+        <instance familyname="Lisu Bosa Test B Black" filename="instances/LisuBosaTestBBlack-Regular.ufo" name="Lisu Bosa Test B Black" stylemapfamilyname="Lisu Bosa Test B Black" stylemapstylename="regular" stylename="Regular" postscriptfontname="LisuBosaTestBBlack-Regular">
             <location>
                 <dimension name="weight" xvalue="1000.000000" />
                 <dimension name="width" xvalue="100.000000" />

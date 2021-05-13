@@ -17,14 +17,14 @@
         </axis>
     </axes>
     <sources>
-        <source familyname="Bosa Lisu Master" filename="masters/BosaLisuMaster-ExtraLight.ufo" name="Bosa Lisu Extra Light" stylename="Extra Light">
+        <source familyname="Lisu Bosa Master" filename="masters/LisuBosaMaster-ExtraLight.ufo" name="Lisu Bosa Extra Light" stylename="Extra Light">
             <location>
                 <dimension name="weight" xvalue="0.000000" />
                 <dimension name="width" xvalue="100.000000" />
                 <dimension name="custom" xvalue="0.000000" />
             </location>
         </source>
-        <source familyname="Bosa Lisu Master" filename="masters/BosaLisuMaster-Regular.ufo" name="Bosa Lisu Regular" stylename="Regular">
+        <source familyname="Lisu Bosa Master" filename="masters/LisuBosaMaster-Regular.ufo" name="Lisu Bosa Regular" stylename="Regular">
             <lib copy="1" />
             <groups copy="1" />
             <features copy="1" />
@@ -35,7 +35,7 @@
                 <dimension name="custom" xvalue="0.000000" />
             </location>
         </source>
-        <source familyname="Bosa Lisu Master" filename="masters/BosaLisuMaster-Black.ufo" name="Bosa Lisu Black" stylename="Black">
+        <source familyname="Lisu Bosa Master" filename="masters/LisuBosaMaster-Black.ufo" name="Lisu Bosa Black" stylename="Black">
             <location>
                 <dimension name="weight" xvalue="1000.000000" />
                 <dimension name="width" xvalue="100.000000" />
@@ -44,7 +44,7 @@
         </source>
     </sources>
     <instances>
-        <instance familyname="Bosa Lisu Test A" filename="instances/BosaLisuTestA-Regular.ufo" name="Bosa Lisu Test A" stylemapfamilyname="Bosa Lisu Test A" stylemapstylename="regular" stylename="Regular" postscriptfontname="BosaLisuTestA-Regular">
+        <instance familyname="Lisu Bosa Test A" filename="instances/LisuBosaTestA-Regular.ufo" name="Lisu Bosa Test A" stylemapfamilyname="Lisu Bosa Test A" stylemapstylename="regular" stylename="Regular" postscriptfontname="LisuBosaTestA-Regular">
             <location>
                 <dimension name="weight" xvalue="400.000000" />
                 <dimension name="width" xvalue="100.000000" />

@@ -1,7 +1,7 @@
 #!/bin/sh
 
 # Produce individual UFOs from Glyphs files
-psfglyphs2ufo source/masters/BosaUpright.glyphs source/masters
-psfglyphs2ufo source/masters/BosaItalic.glyphs source/masters
+psfglyphs2ufo source/masters/LisuBosaUpright.glyphs source/masters
+psfglyphs2ufo source/masters/LisuBosaItalic.glyphs source/masters
 
 ./preflight
