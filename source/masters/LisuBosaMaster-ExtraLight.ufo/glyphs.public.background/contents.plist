@@ -2,6 +2,24 @@
 <!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+  <key>eight</key>
+  <string>eight.glif</string>
+  <key>five</key>
+  <string>five.glif</string>
+  <key>four</key>
+  <string>four.glif</string>
+  <key>nine</key>
+  <string>nine.glif</string>
+  <key>one</key>
+  <string>one.glif</string>
+  <key>seven</key>
+  <string>seven.glif</string>
+  <key>six</key>
+  <string>six.glif</string>
+  <key>three</key>
+  <string>three.glif</string>
+  <key>two</key>
+  <string>two.glif</string>
   <key>uniA4D0</key>
   <string>uniA_4D_0.glif</string>
   <key>uniA4DF</key>
@@ -18,5 +36,7 @@
   <string>uniA_4F_3.glif</string>
   <key>uniA4F4</key>
   <string>uniA_4F_4.glif</string>
+  <key>zero</key>
+  <string>zero.glif</string>
 </dict>
 </plist>
