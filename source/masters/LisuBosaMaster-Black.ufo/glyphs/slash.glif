@@ -4,16 +4,18 @@
   <unicode hex="002F"/>
   <outline>
     <contour>
-      <point x="217" y="573" type="line"/>
-      <point x="267" y="573" type="line"/>
-      <point x="55" y="-43" type="line"/>
-      <point x="4" y="-43" type="line"/>
+      <point x="229" y="650" type="line"/>
+      <point x="309" y="650" type="line"/>
+      <point x="50" y="-100" type="line"/>
+      <point x="-31" y="-100" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.adobe.type.autohint</key>
       <string>b''</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
     </dict>
   </lib>
 </glyph>

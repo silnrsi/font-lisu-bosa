@@ -10,9 +10,9 @@
       <point x="204" y="0" type="curve"/>
       <point x="123" y="0" type="line"/>
       <point x="136" y="171"/>
-      <point x="189" y="318"/>
-      <point x="283" y="449" type="curve"/>
-      <point x="55" y="449" type="line"/>
+      <point x="189" y="319"/>
+      <point x="283" y="450" type="curve"/>
+      <point x="55" y="450" type="line"/>
       <point x="55" y="531" type="line"/>
       <point x="393" y="531" type="line"/>
     </contour>

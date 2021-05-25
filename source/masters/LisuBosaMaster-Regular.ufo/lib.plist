@@ -49,9 +49,8 @@
   <key>com.schriftgestaltung.customParameter.GSFont.DisplayStrings</key>
   <array>
     <string>/uniA4E7/uniA4F3 ,.'"/uniA4F9/uniA4F8/space/uniA4D0/uniA4F0/uniA4F8 ?/space/uniA4DF/uniA4F4/uniA4FE/space/uniA4E0/uniA4EF/uniA4EE/uniA4DC/uniA4EB/uniA4EC/uniA4E1/uniA4F3 !?/uniA4FF</string>
-    <string>"',/quotesinglbase/quoteleft/quotedblleft/quoteleft/uniA4E7/quoteright/quotedblright/quoteright/quotedblbase</string>
-    <string>Ox¶A(&amp;)</string>
-    <string>/uniA4F2/uniA4D4/uniA4F3 0123457869/space</string>
+    <string>(/uniA4F3 )'"//?/uniA4E1 !'"///uniA4E7 '!i</string>
+    <string>"',./quoteleft H/quoteright/quotesinglbase/quotedblleft/quotedblright/quotedblbase</string>
   </array>
   <key>com.schriftgestaltung.customParameter.GSFont.disablesAutomaticAlignment</key>
   <true/>

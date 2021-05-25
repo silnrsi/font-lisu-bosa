@@ -4,22 +4,24 @@
   <unicode hex="0022"/>
   <outline>
     <contour>
-      <point x="45" y="582" type="line"/>
-      <point x="135" y="582" type="line"/>
-      <point x="109" y="379" type="line"/>
-      <point x="71" y="379" type="line"/>
+      <point x="55" y="582" type="line"/>
+      <point x="125" y="582" type="line"/>
+      <point x="114" y="379" type="line"/>
+      <point x="66" y="379" type="line"/>
     </contour>
     <contour>
-      <point x="199" y="582" type="line"/>
-      <point x="290" y="582" type="line"/>
-      <point x="263" y="379" type="line"/>
-      <point x="225" y="379" type="line"/>
+      <point x="209" y="582" type="line"/>
+      <point x="280" y="582" type="line"/>
+      <point x="268" y="379" type="line"/>
+      <point x="220" y="379" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.adobe.type.autohint</key>
       <string>b''</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
     </dict>
   </lib>
 </glyph>

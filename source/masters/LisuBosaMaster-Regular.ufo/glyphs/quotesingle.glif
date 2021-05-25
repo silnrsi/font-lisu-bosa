@@ -6,14 +6,16 @@
     <contour>
       <point x="39" y="577" type="line"/>
       <point x="129" y="577" type="line"/>
-      <point x="103" y="364" type="line"/>
-      <point x="64" y="364" type="line"/>
+      <point x="113" y="364" type="line"/>
+      <point x="54" y="364" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.adobe.type.autohint</key>
       <string>b''</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
     </dict>
   </lib>
 </glyph>

@@ -1,15 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="quotedblright" format="2">
-  <advance width="364"/>
+  <advance width="461"/>
   <unicode hex="201D"/>
   <outline>
-    <component base="quoteright" xOffset="-15"/>
-    <component base="quoteright" xOffset="150"/>
+    <component base="quoteright"/>
+    <component base="quoteright" xOffset="188"/>
   </outline>
   <lib>
     <dict>
       <key>com.adobe.type.autohint</key>
       <string>b''</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
     </dict>
   </lib>
 </glyph>

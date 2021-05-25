@@ -12,6 +12,12 @@
   <string>nine.glif</string>
   <key>one</key>
   <string>one.glif</string>
+  <key>quotedblbase</key>
+  <string>quotedblbase.glif</string>
+  <key>quoteright</key>
+  <string>quoteright.glif</string>
+  <key>quotesinglbase</key>
+  <string>quotesinglbase.glif</string>
   <key>seven</key>
   <string>seven.glif</string>
   <key>six</key>
