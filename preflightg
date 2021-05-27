@@ -1,7 +1,11 @@
 #!/bin/sh
-
 # Produce individual UFOs from Glyphs files
 psfglyphs2ufo source/masters/LisuBosaUpright.glyphs source/masters
 psfglyphs2ufo source/masters/LisuBosaItalic.glyphs source/masters
-
+psfremovegliflibkeys source/masters/LisuBosaMaster-Regular.ufo public.verticalOrigin
+psfremovegliflibkeys source/masters/LisuBosaMaster-ExtraLight.ufo public.verticalOrigin
+psfremovegliflibkeys source/masters/LisuBosaMaster-Black.ufo public.verticalOrigin
+psfremovegliflibkeys source/masters/LisuBosaMaster-Italic.ufo public.verticalOrigin
+psfremovegliflibkeys source/masters/LisuBosaMaster-ExtraLightItalic.ufo public.verticalOrigin
+psfremovegliflibkeys source/masters/LisuBosaMaster-BlackItalic.ufo public.verticalOrigin
 ./preflight
