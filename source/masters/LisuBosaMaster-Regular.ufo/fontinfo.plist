@@ -13,7 +13,7 @@
   <key>familyName</key>
   <string>Lisu Bosa Master</string>
   <key>openTypeHeadCreated</key>
-  <string>2021/05/25 16:58:43</string>
+  <string>2021/05/27 14:15:31</string>
   <key>openTypeHheaAscender</key>
   <integer>800</integer>
   <key>openTypeHheaDescender</key>
@@ -103,8 +103,6 @@ THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
     <integer>2</integer>
     <integer>1</integer>
   </array>
-  <key>openTypeOS2Selection</key>
-  <array/>
   <key>openTypeOS2StrikeoutPosition</key>
   <integer>250</integer>
   <key>openTypeOS2StrikeoutSize</key>
@@ -153,6 +151,12 @@ THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
   <integer>800</integer>
   <key>openTypeOS2WinDescent</key>
   <integer>200</integer>
+  <key>openTypeVheaVertTypoAscender</key>
+  <integer>500</integer>
+  <key>openTypeVheaVertTypoDescender</key>
+  <integer>-500</integer>
+  <key>openTypeVheaVertTypoLineGap</key>
+  <integer>1000</integer>
   <key>postscriptFontName</key>
   <string>LisuBosaMaster-Regular</string>
   <key>postscriptFullName</key>
