@@ -200,6 +200,8 @@
   <string>colontriangularmod.glif</string>
   <key>comma</key>
   <string>comma.glif</string>
+  <key>comma.001</key>
+  <string>comma.001.glif</string>
   <key>copyright</key>
   <string>copyright.glif</string>
   <key>currency</key>
@@ -414,6 +416,8 @@
   <string>quoteright.glif</string>
   <key>quotesinglbase</key>
   <string>quotesinglbase.glif</string>
+  <key>quotesinglbase.001</key>
+  <string>quotesinglbase.001.glif</string>
   <key>quotesingle</key>
   <string>quotesingle.glif</string>
   <key>r</key>

@@ -8,6 +8,10 @@
   <string>hyphen.glif</string>
   <key>question</key>
   <string>question.glif</string>
+  <key>quotedbl</key>
+  <string>quotedbl.glif</string>
+  <key>quotesingle</key>
+  <string>quotesingle.glif</string>
   <key>uni02CD</key>
   <string>uni02C_D_.glif</string>
   <key>uniA4D0</key>

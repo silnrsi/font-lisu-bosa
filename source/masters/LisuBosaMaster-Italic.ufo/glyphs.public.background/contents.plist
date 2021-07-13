@@ -4,6 +4,10 @@
 <dict>
   <key>asterisk</key>
   <string>asterisk.glif</string>
+  <key>comma</key>
+  <string>comma.glif</string>
+  <key>comma.001</key>
+  <string>comma.001.glif</string>
   <key>five</key>
   <string>five.glif</string>
   <key>four</key>
@@ -18,6 +22,10 @@
   <string>quoteleft.glif</string>
   <key>quoteright</key>
   <string>quoteright.glif</string>
+  <key>quotesinglbase</key>
+  <string>quotesinglbase.glif</string>
+  <key>quotesinglbase.001</key>
+  <string>quotesinglbase.001.glif</string>
   <key>seven</key>
   <string>seven.glif</string>
   <key>six</key>
