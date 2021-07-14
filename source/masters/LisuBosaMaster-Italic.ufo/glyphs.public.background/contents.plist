@@ -6,16 +6,18 @@
   <string>asterisk.glif</string>
   <key>comma</key>
   <string>comma.glif</string>
-  <key>comma.001</key>
-  <string>comma.001.glif</string>
   <key>five</key>
   <string>five.glif</string>
   <key>four</key>
   <string>four.glif</string>
   <key>nine</key>
   <string>nine.glif</string>
+  <key>parenright</key>
+  <string>parenright.glif</string>
   <key>question</key>
   <string>question.glif</string>
+  <key>quotedbl</key>
+  <string>quotedbl.glif</string>
   <key>quotedblleft</key>
   <string>quotedblleft.glif</string>
   <key>quoteleft</key>
@@ -24,8 +26,8 @@
   <string>quoteright.glif</string>
   <key>quotesinglbase</key>
   <string>quotesinglbase.glif</string>
-  <key>quotesinglbase.001</key>
-  <string>quotesinglbase.001.glif</string>
+  <key>quotesingle</key>
+  <string>quotesingle.glif</string>
   <key>seven</key>
   <string>seven.glif</string>
   <key>six</key>
