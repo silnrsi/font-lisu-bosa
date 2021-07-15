@@ -1,4 +1,4 @@
-\begin[class=fontproof][papersize=letter]{document}
+\begin[class=fontproof]{document}
 \bidi-off
 \setTestFont[size="18pt"]
 
@@ -116,10 +116,9 @@ Lisu Health book!
 1857780532 1712268066 1300192787 6611195909 2164201989
 
 
-$214,637,092,581.94 #1 #2 #3 #4 #5 #6 #7 #8 #9 #0
-100
+$214,637,092,581.94    #1 #2 #3 #4 #5 #6 #7 #8 #9 #0   100%%
 
-$1$2$3$4$5$6$7$8$9$0$ 25 - 1 = 24; 67 + 8 = 75
+$1$2$3$4$5$6$7$8$9$0$       25 - 1 = 24    67 + 8 = 75
 }
 
 \end{document}
