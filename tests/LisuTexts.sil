@@ -1,4 +1,4 @@
-\begin[class=fontproof]{document}
+\begin[class=fontproof,papersize=letter]{document}
 \bidi-off
 \setTestFont[size="18pt"]
 
@@ -88,6 +88,8 @@ Lisu Health book!
 ꓪꓴ-ꓢ ꓒꓽ꓾ ꓪꓴ-ꓢ ꓟ꓾ ꓐꓯ ꓟꓽ ꓓ꓿
 }
 
+\break
+
 \subsection{LOREM IPSUM (test standard punctuation w/Latin script)}
 \proof[size="14pt"]{"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore ¶ et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud “exercitation” ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu (fugiat) nulla pariatur. Excepteur sint ‘occaecat’ cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Suspendisse eu odio quam. Praesent vitae enim nisi. Mauris ultrices porttitor sem [at malesuada aliquam] quis. Donec quis turpis ac sapien facilisis fermentum! Cras pharetra & nisi, quis pulvinar felis aliquam vel. *Sed elementum elit quis nisi posuere consequat. Nunc efficitur ligula non risus lobortis sollicitudin. Proin facilisis massa a finibus ornare? Morbi posuere dictum magna sit amet euismod."}
 
@@ -115,10 +117,9 @@ Lisu Health book!
 5982534904 2875546873 1159562863 8823537875 9375195778 
 1857780532 1712268066 1300192787 6611195909 2164201989
 
+$214,637,092,581.94 \quad #1 #2 #3 #4 #5 #6 #7 #8 #9 #0 \quad 100\%
 
-$214,637,092,581.94    #1 #2 #3 #4 #5 #6 #7 #8 #9 #0   100%%
-
-$1$2$3$4$5$6$7$8$9$0$       25 - 1 = 24    67 + 8 = 75
+$1$2$3$4$5$6$7$8$9$0$ \quad 25 - 1 = 24 \quad 67 + 8 = 75
 }
 
 \end{document}
