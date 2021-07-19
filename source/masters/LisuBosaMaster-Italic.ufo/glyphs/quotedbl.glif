@@ -5,15 +5,15 @@
   <outline>
     <contour>
       <point x="149" y="582" type="line"/>
-      <point x="123" y="379" type="line"/>
-      <point x="187" y="379" type="line"/>
       <point x="241" y="582" type="line"/>
+      <point x="183" y="359" type="line"/>
+      <point x="119" y="359" type="line"/>
     </contour>
     <contour>
       <point x="301" y="582" type="line"/>
-      <point x="275" y="379" type="line"/>
-      <point x="339" y="379" type="line"/>
       <point x="394" y="582" type="line"/>
+      <point x="335" y="359" type="line"/>
+      <point x="271" y="359" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -21,7 +21,7 @@
       <key>com.adobe.type.autohint</key>
       <string>b''</string>
       <key>public.markColor</key>
-      <string>0.04,0.57,0.04,1</string>
+      <string>0.67,0.95,0.38,1</string>
     </dict>
   </lib>
 </glyph>
