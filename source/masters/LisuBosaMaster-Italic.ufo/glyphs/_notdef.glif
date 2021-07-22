@@ -1,5 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name=".notdef" format="2">
   <advance width="1000"/>
-  <outline/>
+  <outline>
+    <contour>
+      <point x="745" y="45" type="line"/>
+      <point x="745" y="694" type="line"/>
+      <point x="295" y="694" type="line"/>
+      <point x="295" y="45" type="line"/>
+    </contour>
+    <contour>
+      <point x="790" y="0" type="line"/>
+      <point x="250" y="0" type="line"/>
+      <point x="250" y="739" type="line"/>
+      <point x="790" y="739" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
 </glyph>

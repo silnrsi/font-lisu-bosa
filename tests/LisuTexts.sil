@@ -88,10 +88,14 @@ Lisu Health book!
 ꓪꓴ-ꓢ ꓒꓽ꓾ ꓪꓴ-ꓢ ꓟ꓾ ꓐꓯ ꓟꓽ ꓓ꓿
 }
 
+\subsection{QUESTION}
+\proof[size="14pt"]{ꓐ? ꓑ? ꓒ? ꓓ? ꓔ? ꓕ? ꓖ? ꓗ? ꓘ? ꓙ? ꓚ? ꓛ? ꓜ? ꓝ? ꓞ? ꓟ? ꓠ? ꓡ? ꓢ? ꓣ? ꓤ? ꓥ? ꓦ? ꓧ? ꓨ? ꓩ? ꓪ? ꓫ? ꓬ? ꓭ? ꓮ? ꓯ? ꓰ? ꓱ? ꓲ? ꓳ? ꓴ? ꓵ? ꓶ? ꓷ?
+}
+
 \break
 
 \subsection{LOREM IPSUM (test standard punctuation w/Latin script)}
-\proof[size="14pt"]{"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore ¶ et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud “exercitation” ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu (fugiat) nulla pariatur. Excepteur sint ‘occaecat’ cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Suspendisse eu odio quam. Praesent vitae enim nisi. Mauris ultrices porttitor sem [at malesuada aliquam] quis. Donec quis turpis ac sapien facilisis fermentum! Cras pharetra & nisi, quis pulvinar felis aliquam vel. *Sed elementum elit quis nisi posuere consequat. Nunc efficitur ligula non risus lobortis sollicitudin. Proin facilisis massa a finibus ornare? Morbi posuere dictum magna sit amet euismod."}
+\proof[size="14pt"]{"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore ¶ et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud “exercitation” ullamco /laboris nisi ut aliquip/ ex ea commodo consequat. Duis aute irure dolor/ in reprehenderit in voluptate velit esse cillum dolore eu (fugiat) nulla pariatur. Excepteur sint ‘occaecat’ cupidatat non proident, sunt in culpa qui officia deserunt /mollit anim id/ est laborum. Suspendisse eu odio quam. Praesent vitae enim nisi. Mauris ultrices porttitor sem [at malesuada aliquam] quis. Donec quis turpis ac sapien facilisis fermentum! Cras pharetra & nisi, quis pulvinar felis aliquam vel. *Sed elementum elit quis nisi posuere consequat. Nunc efficitur ligula non risus lobortis sollicitudin. Proin facilisis massa a finibus ornare? Morbi posuere dictum magna sit amet euismod."}
 
 \subsection{PI & DOLLAR}
 \proof[size="14pt"]{3.
