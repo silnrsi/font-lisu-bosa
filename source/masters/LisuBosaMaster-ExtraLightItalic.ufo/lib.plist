@@ -2,6 +2,17 @@
 <!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+  <key>com.github.googlei18n.ufo2ft.filters</key>
+  <array>
+    <dict>
+      <key>name</key>
+      <string>eraseOpenCorners</string>
+      <key>namespace</key>
+      <string>glyphsLib.filters</string>
+      <key>pre</key>
+      <true/>
+    </dict>
+  </array>
   <key>com.schriftgestaltung.Glyphs.fontUserData</key>
   <dict>
     <key>GSDontShowVersionAlert</key>
@@ -56,6 +67,7 @@
     <string>!"#//8$&amp;'
 ()*+,;:n./uniA4E7 n!/uniA4F3 n?/uniA4E7 ?
 //[]¶</string>
+    <string>/uniA4E2/uniA4E3/uniA4E5/uniA4E6/uniA4E7/uniA4F4/uniA4F5/uniA4F7</string>
   </array>
   <key>com.schriftgestaltung.customParameter.GSFont.disablesAutomaticAlignment</key>
   <true/>
