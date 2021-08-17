@@ -25,7 +25,7 @@
     </dict>
   </dict>
   <key>com.schriftgestaltung.appVersion</key>
-  <string>3091</string>
+  <string>3097</string>
   <key>com.schriftgestaltung.customName</key>
   <string>Extra Italic</string>
   <key>com.schriftgestaltung.customParameter.GSFont.Axis Mappings</key>
@@ -44,6 +44,10 @@
     <dict>
       <key>200</key>
       <integer>0</integer>
+      <key>400</key>
+      <integer>400</integer>
+      <key>900</key>
+      <integer>1000</integer>
     </dict>
   </dict>
   <key>com.schriftgestaltung.customParameter.GSFont.DisplayStrings</key>
@@ -52,6 +56,7 @@
     <string>!"#//8$&amp;'
 ()*+,;:n./uniA4E7 n!/uniA4F3 n?/uniA4E7 ?
 //[]¶</string>
+    <string>/uniA4FD</string>
   </array>
   <key>com.schriftgestaltung.customParameter.GSFont.disablesAutomaticAlignment</key>
   <true/>
