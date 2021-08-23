@@ -24,28 +24,6 @@
   </dict>
   <key>com.schriftgestaltung.appVersion</key>
   <string>3097</string>
-  <key>com.schriftgestaltung.customParameter.GSFont.Axis Mappings</key>
-  <dict>
-    <key>XXXX</key>
-    <dict>
-      <key>0</key>
-      <integer>0</integer>
-    </dict>
-    <key>wdth</key>
-    <dict>
-      <key>100</key>
-      <integer>100</integer>
-    </dict>
-    <key>wght</key>
-    <dict>
-      <key>200</key>
-      <integer>0</integer>
-      <key>400</key>
-      <integer>400</integer>
-      <key>900</key>
-      <integer>1000</integer>
-    </dict>
-  </dict>
   <key>com.schriftgestaltung.customParameter.GSFont.DisplayStrings</key>
   <array>
     <string>!"'#//$%&amp;'
