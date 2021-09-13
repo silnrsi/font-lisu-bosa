@@ -24,8 +24,6 @@
   <string>uniA_4D_6.glif</string>
   <key>uniA4D7</key>
   <string>uniA_4D_7.glif</string>
-  <key>uniA4D8</key>
-  <string>uniA_4D_8.glif</string>
   <key>uniA4D9</key>
   <string>uniA_4D_9.glif</string>
   <key>uniA4DA</key>
@@ -36,16 +34,12 @@
   <string>uniA_4D_D_.glif</string>
   <key>uniA4DE</key>
   <string>uniA_4D_E_.glif</string>
-  <key>uniA4DF</key>
-  <string>uniA_4D_F_.glif</string>
-  <key>uniA4E0</key>
-  <string>uniA_4E_0.glif</string>
+  <key>uniA4E1</key>
+  <string>uniA_4E_1.glif</string>
   <key>uniA4E3</key>
   <string>uniA_4E_3.glif</string>
   <key>uniA4E4</key>
   <string>uniA_4E_4.glif</string>
-  <key>uniA4E7</key>
-  <string>uniA_4E_7.glif</string>
   <key>uniA4E8</key>
   <string>uniA_4E_8.glif</string>
   <key>uniA4E9</key>
@@ -62,6 +56,8 @@
   <string>uniA_4F_0.glif</string>
   <key>uniA4F1</key>
   <string>uniA_4F_1.glif</string>
+  <key>uniA4F6</key>
+  <string>uniA_4F_6.glif</string>
   <key>uniA4F7</key>
   <string>uniA_4F_7.glif</string>
 </dict>
