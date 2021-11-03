@@ -2,6 +2,7 @@
 <glyph name="uniA4E3" format="2">
   <advance width="503"/>
   <unicode hex="A4E3"/>
+  <guideline x="458" y="284" angle="71"/>
   <outline>
     <contour>
       <point x="383" y="-9" type="curve" smooth="yes"/>

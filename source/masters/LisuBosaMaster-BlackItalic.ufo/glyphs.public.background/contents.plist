@@ -10,10 +10,12 @@
   <string>quotesingle.glif</string>
   <key>uniA4D0</key>
   <string>uniA_4D_0.glif</string>
+  <key>uniA4D1</key>
+  <string>uniA_4D_1.glif</string>
+  <key>uniA4D3</key>
+  <string>uniA_4D_3.glif</string>
   <key>uniA4D8</key>
   <string>uniA_4D_8.glif</string>
-  <key>uniA4DD</key>
-  <string>uniA_4D_D_.glif</string>
   <key>uniA4DF</key>
   <string>uniA_4D_F_.glif</string>
   <key>uniA4E1</key>
@@ -36,5 +38,7 @@
   <string>uniA_4F_1.glif</string>
   <key>uniA4F4</key>
   <string>uniA_4F_4.glif</string>
+  <key>uniA4F7</key>
+  <string>uniA_4F_7.glif</string>
 </dict>
 </plist>
