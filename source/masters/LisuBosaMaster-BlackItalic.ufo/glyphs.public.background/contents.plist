@@ -12,10 +12,14 @@
   <string>uniA_4D_0.glif</string>
   <key>uniA4D1</key>
   <string>uniA_4D_1.glif</string>
+  <key>uniA4D2</key>
+  <string>uniA_4D_2.glif</string>
   <key>uniA4D3</key>
   <string>uniA_4D_3.glif</string>
   <key>uniA4D6</key>
   <string>uniA_4D_6.glif</string>
+  <key>uniA4D7</key>
+  <string>uniA_4D_7.glif</string>
   <key>uniA4D8</key>
   <string>uniA_4D_8.glif</string>
   <key>uniA4DA</key>
@@ -26,6 +30,8 @@
   <string>uniA_4E_1.glif</string>
   <key>uniA4E2</key>
   <string>uniA_4E_2.glif</string>
+  <key>uniA4E4</key>
+  <string>uniA_4E_4.glif</string>
   <key>uniA4E5</key>
   <string>uniA_4E_5.glif</string>
   <key>uniA4E6</key>
