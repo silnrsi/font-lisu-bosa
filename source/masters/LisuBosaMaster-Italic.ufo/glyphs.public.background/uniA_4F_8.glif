@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uniA4F8" format="2">
-  <advance width="214"/>
-  <unicode hex="A4F8"/>
-  <guideline x="102" y="198" angle="71"/>
   <outline>
     <contour>
       <point x="116" y="76" type="curve" smooth="yes"/>
@@ -19,12 +16,4 @@
       <point x="116" y="36"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.adobe.type.autohint</key>
-      <string>b''</string>
-      <key>public.markColor</key>
-      <string>0.04,0.57,0.04,1</string>
-    </dict>
-  </lib>
 </glyph>

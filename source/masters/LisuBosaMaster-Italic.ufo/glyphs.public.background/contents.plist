@@ -34,8 +34,6 @@
   <string>six.glif</string>
   <key>uni02BC</key>
   <string>uni02B_C_.glif</string>
-  <key>uni02CD</key>
-  <string>uni02C_D_.glif</string>
   <key>uniA4D1</key>
   <string>uniA_4D_1.glif</string>
   <key>uniA4D2</key>
@@ -70,5 +68,7 @@
   <string>uniA_4E_C_.glif</string>
   <key>uniA4F1</key>
   <string>uniA_4F_1.glif</string>
+  <key>uniA4F8</key>
+  <string>uniA_4F_8.glif</string>
 </dict>
 </plist>
