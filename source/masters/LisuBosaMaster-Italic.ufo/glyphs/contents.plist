@@ -234,6 +234,8 @@
   <string>egrave.glif</string>
   <key>eight</key>
   <string>eight.glif</string>
+  <key>eight.alt</key>
+  <string>eight.alt.glif</string>
   <key>ellipsis</key>
   <string>ellipsis.glif</string>
   <key>emdash</key>
@@ -552,8 +554,6 @@
   <string>uniA_4D_A_.glif</string>
   <key>uniA4DB</key>
   <string>uniA_4D_B_.glif</string>
-  <key>uniA4DC</key>
-  <string>uniA_4D_C_.glif</string>
   <key>uniA4DD</key>
   <string>uniA_4D_D_.glif</string>
   <key>uniA4DE</key>

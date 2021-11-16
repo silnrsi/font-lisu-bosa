@@ -2,6 +2,7 @@
 <glyph name="two" format="2">
   <advance width="474"/>
   <unicode hex="0032"/>
+  <guideline x="373" y="217" angle="71"/>
   <outline>
     <contour>
       <point x="379" y="18" type="curve" smooth="yes"/>
@@ -36,9 +37,9 @@
       <point x="206" y="449"/>
       <point x="184" y="426" type="curve" smooth="yes"/>
       <point x="166" y="408"/>
-      <point x="155" y="383"/>
-      <point x="142" y="383" type="curve" smooth="yes"/>
-      <point x="124" y="383"/>
+      <point x="155" y="382"/>
+      <point x="141" y="382" type="curve" smooth="yes"/>
+      <point x="120" y="382"/>
       <point x="91" y="398"/>
       <point x="91" y="417" type="curve" smooth="yes"/>
       <point x="91" y="427"/>

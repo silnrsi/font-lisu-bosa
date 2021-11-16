@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="eight" format="2">
-  <advance width="474"/>
-  <unicode hex="0038"/>
+<glyph name="eight.alt" format="2">
+  <advance width="474" height="1000"/>
   <outline>
     <contour>
       <point x="179" y="-8" type="curve" smooth="yes"/>
@@ -58,10 +57,4 @@
       <point x="314" y="215"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
-    </dict>
-  </lib>
 </glyph>

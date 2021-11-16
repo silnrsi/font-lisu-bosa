@@ -4,10 +4,20 @@
 <dict>
   <key>asterisk</key>
   <string>asterisk.glif</string>
+  <key>eight.alt</key>
+  <string>eight.alt.glif</string>
+  <key>four</key>
+  <string>four.glif</string>
+  <key>nine</key>
+  <string>nine.glif</string>
+  <key>one</key>
+  <string>one.glif</string>
   <key>question</key>
   <string>question.glif</string>
   <key>quotesingle</key>
   <string>quotesingle.glif</string>
+  <key>two</key>
+  <string>two.glif</string>
   <key>uniA4D0</key>
   <string>uniA_4D_0.glif</string>
   <key>uniA4D1</key>

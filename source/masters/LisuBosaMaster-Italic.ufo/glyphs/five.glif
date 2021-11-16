@@ -83,9 +83,9 @@
       <point x="463" y="480"/>
       <point x="463" y="493" type="curve" smooth="yes"/>
       <point x="463" y="520"/>
-      <point x="441" y="532"/>
-      <point x="394" y="532" type="curve" smooth="yes"/>
-      <point x="332" y="532"/>
+      <point x="441" y="533"/>
+      <point x="394" y="533" type="curve" smooth="yes"/>
+      <point x="332" y="533"/>
       <point x="291" y="531"/>
     </contour>
   </outline>
