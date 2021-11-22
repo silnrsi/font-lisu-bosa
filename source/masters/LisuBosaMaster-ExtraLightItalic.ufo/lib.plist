@@ -4,6 +4,11 @@
 <dict>
   <key>com.schriftgestaltung.Glyphs.fontUserData</key>
   <dict>
+    <key>GSDimensionPlugin.Dimensions</key>
+    <dict>
+      <key>5DFD210C-AA77-4E45-86CB-07057A0D1E7F</key>
+      <dict/>
+    </dict>
     <key>GSDontShowVersionAlert</key>
     <integer>1</integer>
     <key>com.schriftgestaltung.Glyphs.groupsNotInFeature</key>
@@ -30,8 +35,8 @@
   <string>Extra Italic</string>
   <key>com.schriftgestaltung.customParameter.GSFont.DisplayStrings</key>
   <array>
-    <string>/uniA4E7/uniA4F3/uniA4D0/uniA4F0/uniA4F1/uniA4F2/uniA4DF/uniA4F4/uniA4E0/uniA4EF</string>
-    <string>0123456789</string>
+    <string>/uniA4E7/uniA4F3/uniA4D0/uniA4F0/uniA4F1/uniA4F2/space &amp;/space/uniA4DF/uniA4F4/uniA4E0/uniA4EF</string>
+    <string>0123&amp;/uniA4D6 64$561789</string>
   </array>
   <key>com.schriftgestaltung.customParameter.GSFont.disablesAutomaticAlignment</key>
   <true/>
