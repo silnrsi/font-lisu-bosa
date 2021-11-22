@@ -36,7 +36,7 @@
   <key>com.schriftgestaltung.customParameter.GSFont.DisplayStrings</key>
   <array>
     <string>/uniA4E7/uniA4F3/uniA4D0/uniA4F0/uniA4F1/uniA4F2/space &amp;/space/uniA4DF/uniA4F4/uniA4E0/uniA4EF</string>
-    <string>0123&amp;/uniA4D6 64$561789</string>
+    <string>0123456789/space &amp;/space/uniA4D6 $</string>
   </array>
   <key>com.schriftgestaltung.customParameter.GSFont.disablesAutomaticAlignment</key>
   <true/>
