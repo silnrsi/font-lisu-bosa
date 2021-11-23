@@ -14,6 +14,7 @@ ChangeLog
 23 Nov 2021 (SIL WSTech Team) Lisu Bosa Test D version 1.930 (beta)
 - Revised name
 - Full set of weights in both Upright and Italic styles
+- Spacing of italic weights still needs refinement
 - Test version only
 
 31 Mar 2021 (SIL WSTech Team) Bosa Lisu Test A version 1.910

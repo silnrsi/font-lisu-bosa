@@ -84,7 +84,7 @@ THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
   <key>openTypeNameUniqueID</key>
   <string>SIL International: Lisu Bosa Master Regular: 2021</string>
   <key>openTypeNameVersion</key>
-  <string>Version 1.930</string>
+  <string>Version 1.930 beta</string>
   <key>openTypeOS2CodePageRanges</key>
   <array>
     <integer>0</integer>
