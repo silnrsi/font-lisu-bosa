@@ -7,8 +7,8 @@ fontfamily=APPNAME
 DESC_SHORT = "Font for the Lisu (Fraser) script"
 
 getufoinfo('source/masters/' + fontfamily + 'Master-Regular' + '.ufo')
-BUILDLABEL = "beta"
-BUILDVERSION = BUILDLABEL
+#BUILDLABEL = "beta"
+#BUILDVERSION = BUILDLABEL
 
 for dspace in ('Upright', 'Italic'):
     designspace('source/' + fontfamily + dspace + '.designspace',
