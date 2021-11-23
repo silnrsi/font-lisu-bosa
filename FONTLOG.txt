@@ -1,15 +1,20 @@
 -----
-FONTLOG for the Lisu Bosa Test C fonts
+FONTLOG for the Lisu Bosa Test D fonts
 
-This file provides detailed information on the Lisu Bosa Test C Font Software. This information should be distributed along with the Lisu Bosa Test C fonts and any derivative works.
+This file provides detailed information on the Lisu Bosa Test D Font Software. This information should be distributed along with the Lisu Bosa Test D fonts and any derivative works.
 
 Note that this font is a work in progress and is only suitable for testing. We do not recommend that derivative works be created at this time.
 
 Basic Font Information
 
-Lisu Bosa Test C is a Unicode typeface family that supports all languages that use the Lisu script and its variants.
+Lisu Bosa Test D is a Unicode typeface family that supports all languages that use the Lisu script and its variants.
 
 ChangeLog
+
+23 Nov 2021 (SIL WSTech Team) Lisu Bosa Test D version 1.930 (beta)
+- Revised name
+- Full set of weights in both Upright and Italic styles
+- Test version only
 
 31 Mar 2021 (SIL WSTech Team) Bosa Lisu Test A version 1.910
 - Initial test version of only normal Regular and Italic weights

@@ -1,10 +1,10 @@
 
-Thank you for your interest in the Lisu Bosa Test C font.
+Thank you for your interest in the Lisu Bosa Test D font.
 We hope you find it useful!
 
-Lisu Bosa Test C is a Unicode font that provides support for the Lisu script.
+Lisu Bosa Test D is a Unicode font that provides support for the Lisu script.
 
-Lisu Bosa Test C is released under the SIL Open Font License.
+Lisu Bosa Test D is released under the SIL Open Font License.
 See the OFL and OFL-FAQ for details of the SIL Open Font License.
 See the FONTLOG for information on this and previous releases.
 
