@@ -30,13 +30,13 @@
     </dict>
   </dict>
   <key>com.schriftgestaltung.appVersion</key>
-  <string>3099</string>
+  <string>3104</string>
   <key>com.schriftgestaltung.customName</key>
   <string>Black Italic</string>
   <key>com.schriftgestaltung.customParameter.GSFont.DisplayStrings</key>
   <array>
     <string>/uniA4E7/uniA4F3/uniA4D0/uniA4F0/uniA4F1/uniA4F2/space &amp;/space/uniA4DF/uniA4F4/uniA4E0/uniA4EF</string>
-    <string>0123456789/space &amp;/space/uniA4D6 $</string>
+    <string>/uniA4D0/uniA4D1/uniA4D3/uniA4E3/space/uniA4DD/uniA4F0/uniA4D4/uniA4D5/space/uniA4DE/uniA4F1/space/uniA4E4/uniA4D2/uniA4ED/uniA4F7/space/uniA4E8/space/uniA4F6</string>
   </array>
   <key>com.schriftgestaltung.customParameter.GSFont.disablesAutomaticAlignment</key>
   <true/>
