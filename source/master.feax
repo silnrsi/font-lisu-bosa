@@ -1,0 +1,9 @@
+
+lookup kernpairs {
+    lookupflag IgnoreMarks;
+    kernpairs;
+} kernpairs;
+
+feature kern {
+    lookup kernpairs;
+} kern;
