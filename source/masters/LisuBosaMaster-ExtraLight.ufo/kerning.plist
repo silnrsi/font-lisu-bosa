@@ -9,6 +9,8 @@
   </dict>
   <key>uni02BC</key>
   <dict>
+    <key>public.kern2.uniA4F8</key>
+    <integer>-100</integer>
     <key>uni02CD</key>
     <integer>-100</integer>
   </dict>
@@ -19,11 +21,19 @@
   </dict>
   <key>uniA4D0</key>
   <dict>
+    <key>uniA4EF</key>
+    <integer>-100</integer>
     <key>uniA4F6</key>
     <integer>-100</integer>
   </dict>
   <key>uniA4D1</key>
   <dict>
+    <key>public.kern2.uniA4F8</key>
+    <integer>-100</integer>
+    <key>public.kern2.uniA4FC</key>
+    <integer>-100</integer>
+    <key>uni02CD</key>
+    <integer>-100</integer>
     <key>uniA4EE</key>
     <integer>-100</integer>
   </dict>
@@ -31,504 +41,253 @@
   <dict>
     <key>public.kern2.uniA4F8</key>
     <integer>-100</integer>
+    <key>uni02CD</key>
+    <integer>-100</integer>
+    <key>uniA4EF</key>
+    <integer>-100</integer>
+    <key>uniA4F6</key>
+    <integer>-100</integer>
   </dict>
   <key>uniA4D4</key>
   <dict>
     <key>hyphen</key>
     <integer>-100</integer>
-  </dict>
-  <key>uniA4D5</key>
-  <dict>
-    <key>uniA4F4</key>
+    <key>public.kern2.uniA4F8</key>
     <integer>-100</integer>
-  </dict>
-  <key>uniA4D7</key>
-  <dict>
-    <key>uniA4F3</key>
-    <integer>-100</integer>
-  </dict>
-  <key>uniA4DB</key>
-  <dict>
-    <key>uni02CD</key>
-    <integer>-100</integer>
-  </dict>
-  <key>uniA4DC</key>
-  <dict>
-    <key>uniA4F3</key>
-    <integer>-100</integer>
-  </dict>
-  <key>uniA4DD</key>
-  <dict>
-    <key>uniA4F3</key>
-    <integer>-100</integer>
-  </dict>
-  <key>uniA4E1</key>
-  <dict>
-    <key>uniA4EA</key>
-    <integer>-100</integer>
-  </dict>
-  <key>uniA4E2</key>
-  <dict>
-    <key>uniA4F6</key>
-    <integer>-100</integer>
-  </dict>
-  <key>uniA4E5</key>
-  <dict>
-    <key>uniA4EA</key>
-    <integer>-100</integer>
-  </dict>
-  <key>uniA4E6</key>
-  <dict>
-    <key>uniA4F3</key>
-    <integer>-100</integer>
-  </dict>
-  <key>uniA4E9</key>
-  <dict>
-    <key>hyphen</key>
-    <integer>-100</integer>
-  </dict>
-  <key>uniA4EA</key>
-  <dict>
     <key>public.kern2.uniA4FC</key>
     <integer>-100</integer>
-  </dict>
-  <key>uniA4EB</key>
-  <dict>
+    <key>uni02CD</key>
+    <integer>-100</integer>
     <key>uniA4F3</key>
     <integer>-100</integer>
-  </dict>
-  <key>uniA4EC</key>
-  <dict>
-    <key>uniA4F3</key>
+    <key>uniA4F7</key>
     <integer>-100</integer>
-  </dict>
-  <key>uniA4EE</key>
-  <dict>
-    <key>uniA4F4</key>
-    <integer>-100</integer>
-  </dict>
-  <key>uniA4EF</key>
-  <dict>
-    <key>hyphen</key>
-    <integer>-100</integer>
-  </dict>
-  <key>uniA4F3</key>
-  <dict>
     <key>uniA4FE</key>
     <integer>-100</integer>
-  </dict>
-  <key>uniA4F4</key>
-  <dict>
-    <key>uni02CD</key>
+    <key>uniA4FF</key>
     <integer>-100</integer>
   </dict>
   <key>uniA4D5</key>
   <dict>
-    <key>uniA4F4</key>
-    <integer>-100</integer>
-  </dict>
-  <key>uniA4D7</key>
-  <dict>
-    <key>uniA4F7</key>
-    <integer>-100</integer>
-  </dict>
-  <key>uniA4D7</key>
-  <dict>
-    <key>uniA4F3</key>
-    <integer>-100</integer>
-  </dict>
-  <key>uniA4DB</key>
-  <dict>
-    <key>uniA4EF</key>
-    <integer>-100</integer>
-  </dict>
-  <key>uniA4DB</key>
-  <dict>
-    <key>uniA4F6</key>
-    <integer>-100</integer>
-  </dict>
-  <key>uniA4DB</key>
-  <dict>
-    <key>uni02CD</key>
-    <integer>-100</integer>
-  </dict>
-  <key>uniA4DC</key>
-  <dict>
-    <key>uniA4F7</key>
-    <integer>-100</integer>
-  </dict>
-  <key>uniA4DC</key>
-  <dict>
-    <key>uniA4F3</key>
-    <integer>-100</integer>
-  </dict>
-  <key>uniA4DD</key>
-  <dict>
-    <key>public.kern2.uniA4F8</key>
-    <integer>-100</integer>
-  </dict>
-  <key>uniA4DD</key>
-  <dict>
-    <key>public.kern2.uniA4FC</key>
-    <integer>-100</integer>
-  </dict>
-  <key>uniA4DD</key>
-  <dict>
-    <key>uni02CD</key>
-    <integer>-100</integer>
-  </dict>
-  <key>uniA4DD</key>
-  <dict>
-    <key>hyphen</key>
-    <integer>-100</integer>
-  </dict>
-  <key>uniA4DD</key>
-  <dict>
-    <key>uniA4F3</key>
-    <integer>-100</integer>
-  </dict>
-  <key>uniA4E1</key>
-  <dict>
     <key>uni02BC</key>
     <integer>-100</integer>
-  </dict>
-  <key>uniA4E1</key>
-  <dict>
-    <key>hyphen</key>
-    <integer>-100</integer>
-  </dict>
-  <key>uniA4E1</key>
-  <dict>
     <key>uniA4EF</key>
     <integer>-100</integer>
+    <key>uniA4F3</key>
+    <integer>-100</integer>
+    <key>uniA4F4</key>
+    <integer>-100</integer>
+    <key>uniA4F6</key>
+    <integer>-100</integer>
+    <key>uniA4F7</key>
+    <integer>-100</integer>
+    <key>uniA4FE</key>
+    <integer>-100</integer>
   </dict>
-  <key>uniA4E1</key>
+  <key>uniA4D7</key>
   <dict>
+    <key>uniA4F3</key>
+    <integer>-100</integer>
     <key>uniA4F7</key>
     <integer>-100</integer>
   </dict>
-  <key>uniA4E1</key>
+  <key>uniA4DB</key>
   <dict>
+    <key>uni02CD</key>
+    <integer>-100</integer>
+    <key>uniA4EF</key>
+    <integer>-100</integer>
     <key>uniA4F6</key>
     <integer>-100</integer>
   </dict>
-  <key>uniA4E1</key>
+  <key>uniA4DC</key>
   <dict>
+    <key>uniA4F3</key>
+    <integer>-100</integer>
+    <key>uniA4F7</key>
+    <integer>-100</integer>
+  </dict>
+  <key>uniA4DD</key>
+  <dict>
+    <key>hyphen</key>
+    <integer>-100</integer>
+    <key>public.kern2.uniA4F8</key>
+    <integer>-100</integer>
+    <key>public.kern2.uniA4FC</key>
+    <integer>-100</integer>
+    <key>uni02CD</key>
+    <integer>-100</integer>
     <key>uniA4F3</key>
     <integer>-100</integer>
   </dict>
   <key>uniA4E1</key>
   <dict>
+    <key>hyphen</key>
+    <integer>-100</integer>
+    <key>uni02BC</key>
+    <integer>-100</integer>
+    <key>uniA4EA</key>
+    <integer>-100</integer>
+    <key>uniA4EF</key>
+    <integer>-100</integer>
+    <key>uniA4F3</key>
+    <integer>-100</integer>
     <key>uniA4F4</key>
     <integer>-100</integer>
-  </dict>
-  <key>uniA4E1</key>
-  <dict>
-    <key>uniA4EA</key>
+    <key>uniA4F6</key>
+    <integer>-100</integer>
+    <key>uniA4F7</key>
     <integer>-100</integer>
   </dict>
   <key>uniA4E2</key>
   <dict>
     <key>uni02BC</key>
     <integer>-100</integer>
-  </dict>
-  <key>uniA4E2</key>
-  <dict>
     <key>uniA4F6</key>
-    <integer>-100</integer>
-  </dict>
-  <key>uniA4E5</key>
-  <dict>
-    <key>uni02BC</key>
     <integer>-100</integer>
   </dict>
   <key>uniA4E5</key>
   <dict>
     <key>hyphen</key>
     <integer>-100</integer>
-  </dict>
-  <key>uniA4E5</key>
-  <dict>
-    <key>uniA4EF</key>
+    <key>uni02BC</key>
     <integer>-100</integer>
-  </dict>
-  <key>uniA4E5</key>
-  <dict>
-    <key>uniA4F7</key>
-    <integer>-100</integer>
-  </dict>
-  <key>uniA4E5</key>
-  <dict>
-    <key>uniA4FE</key>
-    <integer>-100</integer>
-  </dict>
-  <key>uniA4E5</key>
-  <dict>
-    <key>uniA4F6</key>
-    <integer>-100</integer>
-  </dict>
-  <key>uniA4E5</key>
-  <dict>
-    <key>uniA4F3</key>
-    <integer>-100</integer>
-  </dict>
-  <key>uniA4E5</key>
-  <dict>
-    <key>uniA4F4</key>
-    <integer>-100</integer>
-  </dict>
-  <key>uniA4E5</key>
-  <dict>
     <key>uniA4EA</key>
     <integer>-100</integer>
-  </dict>
-  <key>uniA4E6</key>
-  <dict>
-    <key>public.kern2.uniA4F8</key>
-    <integer>-100</integer>
-  </dict>
-  <key>uniA4E6</key>
-  <dict>
-    <key>hyphen</key>
-    <integer>-100</integer>
-  </dict>
-  <key>uniA4E6</key>
-  <dict>
-    <key>uni02CD</key>
-    <integer>-100</integer>
-  </dict>
-  <key>uniA4E6</key>
-  <dict>
-    <key>uniA4FE</key>
-    <integer>-100</integer>
-  </dict>
-  <key>uniA4E6</key>
-  <dict>
-    <key>uniA4F5</key>
-    <integer>-100</integer>
-  </dict>
-  <key>uniA4E6</key>
-  <dict>
-    <key>public.kern2.uniA4FC</key>
-    <integer>-100</integer>
-  </dict>
-  <key>uniA4E6</key>
-  <dict>
-    <key>uniA4FF</key>
-    <integer>-100</integer>
-  </dict>
-  <key>uniA4E6</key>
-  <dict>
-    <key>uniA4F7</key>
-    <integer>-100</integer>
-  </dict>
-  <key>uniA4E6</key>
-  <dict>
-    <key>uniA4F3</key>
-    <integer>-100</integer>
-  </dict>
-  <key>uniA4E9</key>
-  <dict>
-    <key>public.kern2.uniA4F8</key>
-    <integer>-100</integer>
-  </dict>
-  <key>uniA4E9</key>
-  <dict>
-    <key>public.kern2.uniA4FC</key>
-    <integer>-100</integer>
-  </dict>
-  <key>uniA4E9</key>
-  <dict>
-    <key>uni02CD</key>
-    <integer>-100</integer>
-  </dict>
-  <key>uniA4E9</key>
-  <dict>
-    <key>uniA4FE</key>
-    <integer>-100</integer>
-  </dict>
-  <key>uniA4E9</key>
-  <dict>
-    <key>uniA4FF</key>
-    <integer>-100</integer>
-  </dict>
-  <key>uniA4E9</key>
-  <dict>
-    <key>hyphen</key>
-    <integer>-100</integer>
-  </dict>
-  <key>uniA4EA</key>
-  <dict>
-    <key>public.kern2.uniA4F8</key>
-    <integer>-100</integer>
-  </dict>
-  <key>uniA4EA</key>
-  <dict>
-    <key>uni02CD</key>
-    <integer>-100</integer>
-  </dict>
-  <key>uniA4EA</key>
-  <dict>
     <key>uniA4EF</key>
     <integer>-100</integer>
-  </dict>
-  <key>uniA4EA</key>
-  <dict>
-    <key>uniA4F7</key>
-    <integer>-100</integer>
-  </dict>
-  <key>uniA4EA</key>
-  <dict>
-    <key>public.kern2.uniA4FC</key>
-    <integer>-100</integer>
-  </dict>
-  <key>uniA4EB</key>
-  <dict>
-    <key>uniA4F7</key>
-    <integer>-100</integer>
-  </dict>
-  <key>uniA4EB</key>
-  <dict>
-    <key>uniA4FE</key>
-    <integer>-100</integer>
-  </dict>
-  <key>uniA4EB</key>
-  <dict>
-    <key>uniA4F5</key>
-    <integer>-100</integer>
-  </dict>
-  <key>uniA4EB</key>
-  <dict>
     <key>uniA4F3</key>
     <integer>-100</integer>
-  </dict>
-  <key>uniA4EC</key>
-  <dict>
-    <key>public.kern2.uniA4F8</key>
-    <integer>-100</integer>
-  </dict>
-  <key>uniA4EC</key>
-  <dict>
-    <key>public.kern2.uniA4FC</key>
-    <integer>-100</integer>
-  </dict>
-  <key>uniA4EC</key>
-  <dict>
-    <key>uni02CD</key>
-    <integer>-100</integer>
-  </dict>
-  <key>uniA4EC</key>
-  <dict>
-    <key>uniA4FE</key>
-    <integer>-100</integer>
-  </dict>
-  <key>uniA4EC</key>
-  <dict>
-    <key>uniA4FF</key>
-    <integer>-100</integer>
-  </dict>
-  <key>uniA4EC</key>
-  <dict>
-    <key>hyphen</key>
-    <integer>-100</integer>
-  </dict>
-  <key>uniA4EC</key>
-  <dict>
-    <key>uniA4F7</key>
-    <integer>-100</integer>
-  </dict>
-  <key>uniA4EC</key>
-  <dict>
-    <key>uniA4F3</key>
-    <integer>-100</integer>
-  </dict>
-  <key>uniA4EE</key>
-  <dict>
-    <key>uni02BC</key>
-    <integer>-100</integer>
-  </dict>
-  <key>uniA4EE</key>
-  <dict>
-    <key>uniA4FE</key>
-    <integer>-100</integer>
-  </dict>
-  <key>uniA4EE</key>
-  <dict>
-    <key>public.kern2.uniA4FC</key>
-    <integer>-100</integer>
-  </dict>
-  <key>uniA4EE</key>
-  <dict>
-    <key>uniA4EF</key>
-    <integer>-100</integer>
-  </dict>
-  <key>uniA4EE</key>
-  <dict>
-    <key>uniA4F7</key>
-    <integer>-100</integer>
-  </dict>
-  <key>uniA4EE</key>
-  <dict>
-    <key>uniA4F6</key>
-    <integer>-100</integer>
-  </dict>
-  <key>uniA4EE</key>
-  <dict>
-    <key>uniA4F3</key>
-    <integer>-100</integer>
-  </dict>
-  <key>uniA4EE</key>
-  <dict>
     <key>uniA4F4</key>
     <integer>-100</integer>
-  </dict>
-  <key>uniA4EF</key>
-  <dict>
-    <key>public.kern2.uniA4F8</key>
+    <key>uniA4F6</key>
     <integer>-100</integer>
-  </dict>
-  <key>uniA4EF</key>
-  <dict>
-    <key>public.kern2.uniA4FC</key>
+    <key>uniA4F7</key>
     <integer>-100</integer>
-  </dict>
-  <key>uniA4EF</key>
-  <dict>
-    <key>uni02CD</key>
-    <integer>-100</integer>
-  </dict>
-  <key>uniA4EF</key>
-  <dict>
     <key>uniA4FE</key>
     <integer>-100</integer>
   </dict>
-  <key>uniA4EF</key>
+  <key>uniA4E6</key>
   <dict>
+    <key>hyphen</key>
+    <integer>-100</integer>
+    <key>public.kern2.uniA4F8</key>
+    <integer>-100</integer>
+    <key>public.kern2.uniA4FC</key>
+    <integer>-100</integer>
+    <key>uni02CD</key>
+    <integer>-100</integer>
+    <key>uniA4F3</key>
+    <integer>-100</integer>
+    <key>uniA4F5</key>
+    <integer>-100</integer>
+    <key>uniA4F7</key>
+    <integer>-100</integer>
+    <key>uniA4FE</key>
+    <integer>-100</integer>
     <key>uniA4FF</key>
+    <integer>-100</integer>
+  </dict>
+  <key>uniA4E9</key>
+  <dict>
+    <key>hyphen</key>
+    <integer>-100</integer>
+    <key>public.kern2.uniA4F8</key>
+    <integer>-100</integer>
+    <key>public.kern2.uniA4FC</key>
+    <integer>-100</integer>
+    <key>uni02CD</key>
+    <integer>-100</integer>
+    <key>uniA4FE</key>
+    <integer>-100</integer>
+    <key>uniA4FF</key>
+    <integer>-100</integer>
+  </dict>
+  <key>uniA4EA</key>
+  <dict>
+    <key>public.kern2.uniA4F8</key>
+    <integer>-100</integer>
+    <key>public.kern2.uniA4FC</key>
+    <integer>-100</integer>
+    <key>uni02CD</key>
+    <integer>-100</integer>
+    <key>uniA4EF</key>
+    <integer>-100</integer>
+    <key>uniA4F7</key>
+    <integer>-100</integer>
+  </dict>
+  <key>uniA4EB</key>
+  <dict>
+    <key>uniA4F3</key>
+    <integer>-100</integer>
+    <key>uniA4F5</key>
+    <integer>-100</integer>
+    <key>uniA4F7</key>
+    <integer>-100</integer>
+    <key>uniA4FE</key>
+    <integer>-100</integer>
+  </dict>
+  <key>uniA4EC</key>
+  <dict>
+    <key>hyphen</key>
+    <integer>-100</integer>
+    <key>public.kern2.uniA4F8</key>
+    <integer>-100</integer>
+    <key>public.kern2.uniA4FC</key>
+    <integer>-100</integer>
+    <key>uni02CD</key>
+    <integer>-100</integer>
+    <key>uniA4F3</key>
+    <integer>-100</integer>
+    <key>uniA4F7</key>
+    <integer>-100</integer>
+    <key>uniA4FE</key>
+    <integer>-100</integer>
+    <key>uniA4FF</key>
+    <integer>-100</integer>
+  </dict>
+  <key>uniA4EE</key>
+  <dict>
+    <key>public.kern2.uniA4FC</key>
+    <integer>-100</integer>
+    <key>uni02BC</key>
+    <integer>-100</integer>
+    <key>uniA4EF</key>
+    <integer>-100</integer>
+    <key>uniA4F3</key>
+    <integer>-100</integer>
+    <key>uniA4F4</key>
+    <integer>-100</integer>
+    <key>uniA4F6</key>
+    <integer>-100</integer>
+    <key>uniA4F7</key>
+    <integer>-100</integer>
+    <key>uniA4FE</key>
     <integer>-100</integer>
   </dict>
   <key>uniA4EF</key>
   <dict>
     <key>hyphen</key>
     <integer>-100</integer>
+    <key>public.kern2.uniA4F8</key>
+    <integer>-100</integer>
+    <key>public.kern2.uniA4FC</key>
+    <integer>-100</integer>
+    <key>uni02CD</key>
+    <integer>-100</integer>
+    <key>uniA4FE</key>
+    <integer>-100</integer>
+    <key>uniA4FF</key>
+    <integer>-100</integer>
   </dict>
   <key>uniA4F3</key>
   <dict>
     <key>public.kern2.uniA4F8</key>
     <integer>-100</integer>
-  </dict>
-  <key>uniA4F3</key>
-  <dict>
     <key>public.kern2.uniA4FC</key>
     <integer>-100</integer>
-  </dict>
-  <key>uniA4F3</key>
-  <dict>
     <key>uni02CD</key>
     <integer>-100</integer>
-  </dict>
-  <key>uniA4F3</key>
-  <dict>
     <key>uniA4FE</key>
     <integer>-100</integer>
   </dict>
@@ -536,30 +295,7 @@
   <dict>
     <key>public.kern2.uniA4F8</key>
     <integer>-100</integer>
-  </dict>
-  <key>uniA4F4</key>
-  <dict>
     <key>uni02CD</key>
-    <integer>-100</integer>
-  </dict>
-  <key>uni02BC</key>
-  <dict>
-    <key>public.kern2.uniA4F8</key>
-    <integer>-100</integer>
-  </dict>
-  <key>uni02BC</key>
-  <dict>
-    <key>uni02CD</key>
-    <integer>-100</integer>
-  </dict>
-  <key>public.kern1.uniA4F8</key>
-  <dict>
-    <key>space</key>
-    <integer>-100</integer>
-  </dict>
-  <key>uni02CD</key>
-  <dict>
-    <key>space</key>
     <integer>-100</integer>
   </dict>
 </dict>
