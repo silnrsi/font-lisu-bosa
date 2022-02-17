@@ -16,5 +16,10 @@
     <string>uniA4FA</string>
     <string>uniA4FB</string>
   </array>
+  <key>public.kern2.uniA4FC</key>
+  <array>
+    <string>uniA4FC</string>
+    <string>uniA4FD</string>
+  </array>
 </dict>
 </plist>
