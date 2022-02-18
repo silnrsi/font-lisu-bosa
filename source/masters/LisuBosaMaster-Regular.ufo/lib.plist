@@ -23,12 +23,13 @@
     </dict>
   </dict>
   <key>com.schriftgestaltung.appVersion</key>
-  <string>3097</string>
+  <string>3112</string>
   <key>com.schriftgestaltung.customParameter.GSFont.DisplayStrings</key>
   <array>
     <string>!"'#//$%&amp;'
 ()*+-;:n./uniA4E7 n!/uniA4F3 n?/uniA4E7 ?
 //[]¶</string>
+    <string>/uniA4E7/space/uniA4D0/uniA4E0/uniA4EE/uniA4EF/uniA4F0/uniA4F4/uniA4D1/uniA4F8</string>
   </array>
   <key>com.schriftgestaltung.customParameter.GSFont.disablesAutomaticAlignment</key>
   <true/>
