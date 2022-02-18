@@ -10,9 +10,9 @@
   <key>uni02BC</key>
   <dict>
     <key>public.kern2.uniA4F8</key>
-    <integer>-170</integer>
+    <integer>-60</integer>
     <key>uni02CD</key>
-    <integer>-170</integer>
+    <integer>-60</integer>
   </dict>
   <key>uni02CD</key>
   <dict>
@@ -22,83 +22,83 @@
   <key>uniA4D0</key>
   <dict>
     <key>uniA4EF</key>
-    <integer>-40</integer>
+    <integer>-10</integer>
     <key>uniA4F6</key>
     <integer>-40</integer>
   </dict>
   <key>uniA4D1</key>
   <dict>
     <key>public.kern2.uniA4F8</key>
-    <integer>-110</integer>
+    <integer>-60</integer>
     <key>public.kern2.uniA4FC</key>
-    <integer>-10</integer>
+    <integer>20</integer>
     <key>uni02CD</key>
-    <integer>-130</integer>
+    <integer>-80</integer>
     <key>uniA4EE</key>
-    <integer>-95</integer>
+    <integer>-25</integer>
   </dict>
   <key>uniA4D3</key>
   <dict>
     <key>public.kern2.uniA4F8</key>
-    <integer>-20</integer>
+    <integer>20</integer>
     <key>uni02CD</key>
-    <integer>-60</integer>
+    <integer>-20</integer>
     <key>uniA4EF</key>
-    <integer>-35</integer>
+    <integer>-20</integer>
     <key>uniA4F6</key>
-    <integer>-40</integer>
+    <integer>-60</integer>
   </dict>
   <key>uniA4D4</key>
   <dict>
     <key>hyphen</key>
-    <integer>-110</integer>
+    <integer>-60</integer>
     <key>public.kern2.uniA4F8</key>
-    <integer>-120</integer>
+    <integer>-80</integer>
     <key>public.kern2.uniA4FC</key>
-    <integer>-50</integer>
+    <integer>-20</integer>
     <key>uni02CD</key>
-    <integer>-110</integer>
+    <integer>-90</integer>
     <key>uniA4F3</key>
-    <integer>-50</integer>
+    <integer>-10</integer>
     <key>uniA4F7</key>
-    <integer>-50</integer>
+    <integer>-1</integer>
     <key>uniA4FE</key>
-    <integer>-110</integer>
+    <integer>-70</integer>
     <key>uniA4FF</key>
-    <integer>-110</integer>
+    <integer>-30</integer>
   </dict>
   <key>uniA4D5</key>
   <dict>
     <key>uni02BC</key>
-    <integer>-110</integer>
+    <integer>-80</integer>
     <key>uniA4EF</key>
-    <integer>-100</integer>
+    <integer>-70</integer>
     <key>uniA4F3</key>
-    <integer>-30</integer>
+    <integer>-40</integer>
     <key>uniA4F4</key>
-    <integer>-30</integer>
+    <integer>-40</integer>
     <key>uniA4F6</key>
-    <integer>-130</integer>
+    <integer>-90</integer>
     <key>uniA4F7</key>
-    <integer>-30</integer>
+    <integer>-60</integer>
     <key>uniA4FE</key>
-    <integer>-110</integer>
+    <integer>-50</integer>
   </dict>
   <key>uniA4D7</key>
   <dict>
     <key>uniA4F3</key>
-    <integer>-50</integer>
+    <integer>-10</integer>
     <key>uniA4F7</key>
-    <integer>-50</integer>
+    <integer>-10</integer>
   </dict>
   <key>uniA4DB</key>
   <dict>
     <key>uni02CD</key>
-    <integer>-40</integer>
+    <integer>-30</integer>
     <key>uniA4EF</key>
-    <integer>-30</integer>
+    <integer>-10</integer>
     <key>uniA4F6</key>
-    <integer>-30</integer>
+    <integer>-40</integer>
   </dict>
   <key>uniA4DC</key>
   <dict>
@@ -110,34 +110,34 @@
   <key>uniA4DD</key>
   <dict>
     <key>hyphen</key>
-    <integer>-20</integer>
+    <integer>10</integer>
     <key>public.kern2.uniA4F8</key>
-    <integer>-80</integer>
+    <integer>-30</integer>
     <key>public.kern2.uniA4FC</key>
-    <integer>-20</integer>
+    <integer>-10</integer>
     <key>uni02CD</key>
-    <integer>-110</integer>
+    <integer>-100</integer>
     <key>uniA4F3</key>
-    <integer>-20</integer>
+    <integer>-10</integer>
   </dict>
   <key>uniA4E1</key>
   <dict>
     <key>hyphen</key>
-    <integer>-110</integer>
+    <integer>-80</integer>
     <key>uni02BC</key>
-    <integer>-140</integer>
+    <integer>-110</integer>
     <key>uniA4EA</key>
-    <integer>-70</integer>
+    <integer>-50</integer>
     <key>uniA4EF</key>
-    <integer>-120</integer>
+    <integer>-90</integer>
     <key>uniA4F3</key>
     <integer>-40</integer>
     <key>uniA4F4</key>
-    <integer>-20</integer>
+    <integer>-50</integer>
     <key>uniA4F6</key>
-    <integer>-160</integer>
+    <integer>-150</integer>
     <key>uniA4F7</key>
-    <integer>-40</integer>
+    <integer>-60</integer>
   </dict>
   <key>uniA4E2</key>
   <dict>
@@ -149,152 +149,152 @@
   <key>uniA4E5</key>
   <dict>
     <key>hyphen</key>
-    <integer>-60</integer>
+    <integer>-10</integer>
     <key>uni02BC</key>
-    <integer>-90</integer>
-    <key>uniA4EA</key>
-    <integer>-70</integer>
-    <key>uniA4EF</key>
-    <integer>-100</integer>
-    <key>uniA4F3</key>
     <integer>-40</integer>
+    <key>uniA4EA</key>
+    <integer>-50</integer>
+    <key>uniA4EF</key>
+    <integer>-50</integer>
+    <key>uniA4F3</key>
+    <integer>-30</integer>
     <key>uniA4F4</key>
     <integer>-30</integer>
     <key>uniA4F6</key>
-    <integer>-120</integer>
+    <integer>-80</integer>
     <key>uniA4F7</key>
-    <integer>-40</integer>
+    <integer>-20</integer>
     <key>uniA4FE</key>
-    <integer>-50</integer>
+    <integer>-10</integer>
   </dict>
   <key>uniA4E6</key>
   <dict>
     <key>hyphen</key>
-    <integer>-60</integer>
+    <integer>-10</integer>
     <key>public.kern2.uniA4F8</key>
-    <integer>-100</integer>
-    <key>public.kern2.uniA4FC</key>
-    <integer>-30</integer>
-    <key>uni02CD</key>
-    <integer>-130</integer>
-    <key>uniA4F3</key>
-    <integer>-50</integer>
-    <key>uniA4F5</key>
     <integer>-40</integer>
+    <key>public.kern2.uniA4FC</key>
+    <integer>10</integer>
+    <key>uni02CD</key>
+    <integer>-80</integer>
+    <key>uniA4F3</key>
+    <integer>-1</integer>
+    <key>uniA4F5</key>
+    <integer>-1</integer>
     <key>uniA4F7</key>
-    <integer>-50</integer>
+    <integer>-1</integer>
     <key>uniA4FE</key>
-    <integer>-50</integer>
+    <integer>-10</integer>
     <key>uniA4FF</key>
-    <integer>-50</integer>
+    <integer>30</integer>
   </dict>
   <key>uniA4E9</key>
   <dict>
     <key>hyphen</key>
-    <integer>-40</integer>
-    <key>public.kern2.uniA4F8</key>
-    <integer>-130</integer>
-    <key>public.kern2.uniA4FC</key>
     <integer>-10</integer>
+    <key>public.kern2.uniA4F8</key>
+    <integer>-80</integer>
+    <key>public.kern2.uniA4FC</key>
+    <integer>20</integer>
     <key>uni02CD</key>
-    <integer>-120</integer>
+    <integer>-110</integer>
     <key>uniA4FE</key>
-    <integer>-40</integer>
+    <integer>-10</integer>
     <key>uniA4FF</key>
-    <integer>-20</integer>
+    <integer>30</integer>
   </dict>
   <key>uniA4EA</key>
   <dict>
     <key>public.kern2.uniA4F8</key>
-    <integer>-50</integer>
+    <integer>-10</integer>
     <key>public.kern2.uniA4FC</key>
-    <integer>-20</integer>
+    <integer>10</integer>
     <key>uni02CD</key>
-    <integer>-70</integer>
+    <integer>-40</integer>
     <key>uniA4EF</key>
-    <integer>-20</integer>
+    <integer>-1</integer>
     <key>uniA4F7</key>
-    <integer>-30</integer>
+    <integer>-1</integer>
   </dict>
   <key>uniA4EB</key>
   <dict>
     <key>uniA4F3</key>
-    <integer>-50</integer>
+    <integer>-10</integer>
     <key>uniA4F5</key>
-    <integer>-20</integer>
+    <integer>-1</integer>
     <key>uniA4F7</key>
-    <integer>-50</integer>
+    <integer>-20</integer>
     <key>uniA4FE</key>
-    <integer>-60</integer>
+    <integer>-20</integer>
   </dict>
   <key>uniA4EC</key>
   <dict>
     <key>hyphen</key>
-    <integer>-110</integer>
+    <integer>-20</integer>
     <key>public.kern2.uniA4F8</key>
-    <integer>-110</integer>
-    <key>public.kern2.uniA4FC</key>
-    <integer>-40</integer>
-    <key>uni02CD</key>
-    <integer>-120</integer>
-    <key>uniA4F3</key>
-    <integer>-60</integer>
-    <key>uniA4F7</key>
-    <integer>-60</integer>
-    <key>uniA4FE</key>
-    <integer>-100</integer>
-    <key>uniA4FF</key>
     <integer>-70</integer>
+    <key>public.kern2.uniA4FC</key>
+    <integer>-10</integer>
+    <key>uni02CD</key>
+    <integer>-90</integer>
+    <key>uniA4F3</key>
+    <integer>-10</integer>
+    <key>uniA4F7</key>
+    <integer>-10</integer>
+    <key>uniA4FE</key>
+    <integer>-20</integer>
+    <key>uniA4FF</key>
+    <integer>20</integer>
   </dict>
   <key>uniA4EE</key>
   <dict>
     <key>public.kern2.uniA4FC</key>
-    <integer>-10</integer>
+    <integer>60</integer>
     <key>uni02BC</key>
-    <integer>-90</integer>
+    <integer>-40</integer>
     <key>uniA4EF</key>
-    <integer>-100</integer>
+    <integer>-40</integer>
     <key>uniA4F3</key>
-    <integer>-40</integer>
+    <integer>-10</integer>
     <key>uniA4F4</key>
-    <integer>-30</integer>
+    <integer>-10</integer>
     <key>uniA4F6</key>
-    <integer>-110</integer>
+    <integer>-60</integer>
     <key>uniA4F7</key>
-    <integer>-40</integer>
+    <integer>-10</integer>
     <key>uniA4FE</key>
-    <integer>-50</integer>
+    <integer>-10</integer>
   </dict>
   <key>uniA4EF</key>
   <dict>
     <key>hyphen</key>
-    <integer>-60</integer>
+    <integer>-10</integer>
     <key>public.kern2.uniA4F8</key>
-    <integer>-100</integer>
+    <integer>-50</integer>
     <key>public.kern2.uniA4FC</key>
-    <integer>-30</integer>
+    <integer>10</integer>
     <key>uni02CD</key>
-    <integer>-130</integer>
+    <integer>-70</integer>
     <key>uniA4FE</key>
-    <integer>-50</integer>
+    <integer>-10</integer>
     <key>uniA4FF</key>
-    <integer>-50</integer>
+    <integer>30</integer>
   </dict>
   <key>uniA4F3</key>
   <dict>
     <key>public.kern2.uniA4F8</key>
-    <integer>-20</integer>
+    <integer>20</integer>
     <key>public.kern2.uniA4FC</key>
-    <integer>0</integer>
+    <integer>30</integer>
     <key>uni02CD</key>
-    <integer>-50</integer>
-    <key>uniA4FE</key>
     <integer>-10</integer>
+    <key>uniA4FE</key>
+    <integer>30</integer>
   </dict>
   <key>uniA4F4</key>
   <dict>
     <key>public.kern2.uniA4F8</key>
-    <integer>-10</integer>
+    <integer>0</integer>
     <key>uni02CD</key>
     <integer>-30</integer>
   </dict>

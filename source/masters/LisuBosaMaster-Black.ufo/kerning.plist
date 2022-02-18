@@ -17,7 +17,7 @@
   <key>uni02CD</key>
   <dict>
     <key>space</key>
-    <integer>-90</integer>
+    <integer>-100</integer>
   </dict>
   <key>uniA4D0</key>
   <dict>
@@ -29,7 +29,7 @@
   <key>uniA4D1</key>
   <dict>
     <key>public.kern2.uniA4F8</key>
-    <integer>-110</integer>
+    <integer>-130</integer>
     <key>public.kern2.uniA4FC</key>
     <integer>-10</integer>
     <key>uni02CD</key>
@@ -65,7 +65,7 @@
     <key>uniA4FE</key>
     <integer>-110</integer>
     <key>uniA4FF</key>
-    <integer>-110</integer>
+    <integer>-70</integer>
   </dict>
   <key>uniA4D5</key>
   <dict>
@@ -232,15 +232,15 @@
     <key>hyphen</key>
     <integer>-110</integer>
     <key>public.kern2.uniA4F8</key>
-    <integer>-110</integer>
+    <integer>-120</integer>
     <key>public.kern2.uniA4FC</key>
     <integer>-40</integer>
     <key>uni02CD</key>
     <integer>-120</integer>
     <key>uniA4F3</key>
-    <integer>-60</integer>
+    <integer>-70</integer>
     <key>uniA4F7</key>
-    <integer>-60</integer>
+    <integer>-80</integer>
     <key>uniA4FE</key>
     <integer>-100</integer>
     <key>uniA4FF</key>
