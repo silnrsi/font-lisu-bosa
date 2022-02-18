@@ -37,7 +37,7 @@
   <array>
     <string>/uniA4E7/uniA4F3/uniA4D0/uni02BC/uni02CD/uniA4DF/uniA4F4/uniA4D1/uniA4F8</string>
     <string>/uniA4D0/uniA4D1/uniA4D3/uniA4E3/space/uniA4DD/uniA4F0/uniA4D4/uniA4D5/space/uniA4DE/uniA4F1/space/uniA4E4/uniA4D2/uniA4ED/uniA4F7/space/uniA4E8/space/uniA4F6</string>
-    <string>/uniA4E7/uniA4F3/uniA4D0/uniA4E0/uni02CD/uniA4F8/uniA4DF/uniA4F4/uniA4D1/uniA4D1/uni02CD</string>
+    <string>/uniA4E7/uniA4F3/uniA4D0/uniA4E0/uniA4E9 -/uniA4D1/uniA4D1/uni02CD</string>
   </array>
   <key>com.schriftgestaltung.customParameter.GSFont.disablesAutomaticAlignment</key>
   <true/>
