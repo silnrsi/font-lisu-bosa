@@ -49,7 +49,7 @@
         </source>
     </sources>
     <instances>
-        <instance familyname="Lisu Bosa Test E" filename="instances/LisuBosaTestE-ExtraLight.ufo" name="Lisu Bosa Test E ExtraLight" stylemapfamilyname="Lisu Bosa Test E ExtraLight" stylemapstylename="italic" stylename="ExtraLight Italic" postscriptfontname="LisuBosaTestE-ExtraLightItalic">
+        <instance familyname="Lisu Bosa Test E" filename="instances/LisuBosaTestE-ExtraLightItalic.ufo" name="Lisu Bosa Test E ExtraLight" stylemapfamilyname="Lisu Bosa Test E ExtraLight" stylemapstylename="italic" stylename="ExtraLight Italic" postscriptfontname="LisuBosaTestE-ExtraLightItalic">
             <location>
                 <dimension name="weight" xvalue="0.000000" />
                 <dimension name="width" xvalue="100.000000" />
