@@ -6,7 +6,7 @@ fontfamily=APPNAME
 
 DESC_SHORT = "Font for the Lisu (Fraser) script"
 
-getufoinfo('source/masters/' + fontfamily + 'Master-Regular' + '.ufo')
+getufoinfo('source/masters/' + fontfamily + '-Regular' + '.ufo')
 #BUILDLABEL = "beta"
 #BUILDVERSION = BUILDLABEL
 

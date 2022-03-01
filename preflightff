@@ -1,12 +1,12 @@
 #!/bin/sh
 
 # Fix up glifs in files touched by FontForge and normalize
-psffixffglifs -p checkfix=fix source/masters/LisuBosaMaster-Regular.ufo
-psffixffglifs -p checkfix=fix source/masters/LisuBosaMaster-ExtraLight.ufo
-psffixffglifs -p checkfix=fix source/masters/LisuBosaMaster-Black.ufo
-psffixffglifs -p checkfix=fix source/masters/LisuBosaMaster-Italic.ufo
-psffixffglifs -p checkfix=fix source/masters/LisuBosaMaster-ExtraLightItalic.ufo
-psffixffglifs -p checkfix=fix source/masters/LisuBosaMaster-BlackItalic.ufo
+psffixffglifs -p checkfix=fix source/masters/LisuBosa-Regular.ufo
+psffixffglifs -p checkfix=fix source/masters/LisuBosa-ExtraLight.ufo
+psffixffglifs -p checkfix=fix source/masters/LisuBosa-Black.ufo
+psffixffglifs -p checkfix=fix source/masters/LisuBosa-Italic.ufo
+psffixffglifs -p checkfix=fix source/masters/LisuBosa-ExtraLightItalic.ufo
+psffixffglifs -p checkfix=fix source/masters/LisuBosa-BlackItalic.ufo
 
 # Following sync will copy psnames and glyphorder updates to all fonts
 psfsyncmasters --complex source/LisuBosaUpright.designspace source/LisuBosaItalic.designspace

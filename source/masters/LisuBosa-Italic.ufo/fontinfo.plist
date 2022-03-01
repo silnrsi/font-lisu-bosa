@@ -11,9 +11,11 @@
   <key>descender</key>
   <integer>-200</integer>
   <key>familyName</key>
-  <string>Lisu Bosa Master</string>
+  <string>Lisu Bosa</string>
+  <key>italicAngle</key>
+  <integer>-19</integer>
   <key>openTypeHeadCreated</key>
-  <string>2022/02/18 17:15:09</string>
+  <string>2022/03/01 14:34:46</string>
   <key>openTypeHheaAscender</key>
   <integer>800</integer>
   <key>openTypeHheaDescender</key>
@@ -78,13 +80,13 @@ THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
   <key>openTypeNameManufacturerURL</key>
   <string>http://scripts.sil.org</string>
   <key>openTypeNamePreferredFamilyName</key>
-  <string>Lisu Bosa Master</string>
+  <string>Lisu Bosa</string>
   <key>openTypeNamePreferredSubfamilyName</key>
-  <string>Regular</string>
+  <string>Italic</string>
   <key>openTypeNameUniqueID</key>
-  <string>SIL International: Lisu Bosa Master Regular: 2022</string>
+  <string>SIL International: Lisu Bosa Italic: 2022</string>
   <key>openTypeNameVersion</key>
-  <string>Version 1.940</string>
+  <string>Version 1.950</string>
   <key>openTypeOS2CodePageRanges</key>
   <array>
     <integer>0</integer>
@@ -156,19 +158,13 @@ THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
   <key>openTypeOS2WinDescent</key>
   <integer>200</integer>
   <key>postscriptFontName</key>
-  <string>LisuBosaMaster-Regular</string>
-  <key>postscriptFullName</key>
-  <string>Lisu Bosa Master Regular</string>
+  <string>LisuBosa-Italic</string>
   <key>postscriptUnderlinePosition</key>
   <integer>-170</integer>
   <key>postscriptUnderlineThickness</key>
   <integer>40</integer>
-  <key>styleMapFamilyName</key>
-  <string>Lisu Bosa</string>
-  <key>styleMapStyleName</key>
-  <string>regular</string>
   <key>styleName</key>
-  <string>Regular</string>
+  <string>Italic</string>
   <key>trademark</key>
   <string>Bosa is a trademark of SIL International.</string>
   <key>unitsPerEm</key>
@@ -176,7 +172,7 @@ THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
   <key>versionMajor</key>
   <integer>1</integer>
   <key>versionMinor</key>
-  <integer>940</integer>
+  <integer>950</integer>
   <key>xHeight</key>
   <integer>425</integer>
 </dict>
