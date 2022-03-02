@@ -30,7 +30,7 @@
     </dict>
   </dict>
   <key>com.schriftgestaltung.appVersion</key>
-  <string>3112</string>
+  <string>3115</string>
   <key>com.schriftgestaltung.customName</key>
   <string>Extra Italic</string>
   <key>com.schriftgestaltung.customParameter.GSFont.DisplayStrings</key>
@@ -58,7 +58,7 @@
   <key>com.schriftgestaltung.customParameter.GSFontMaster.iconName</key>
   <string/>
   <key>com.schriftgestaltung.customParameter.GSFontMaster.weightValue</key>
-  <integer>0</integer>
+  <integer>1</integer>
   <key>com.schriftgestaltung.customParameter.GSFontMaster.widthValue</key>
   <integer>100</integer>
   <key>com.schriftgestaltung.fontMasterOrder</key>
@@ -68,7 +68,7 @@
   <key>com.schriftgestaltung.weight</key>
   <string>Light</string>
   <key>com.schriftgestaltung.weightValue</key>
-  <integer>0</integer>
+  <integer>1</integer>
   <key>com.schriftgestaltung.width</key>
   <string>Regular</string>
   <key>com.schriftgestaltung.widthValue</key>

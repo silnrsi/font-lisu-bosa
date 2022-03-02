@@ -13,7 +13,7 @@
   <key>familyName</key>
   <string>Lisu Bosa</string>
   <key>openTypeHeadCreated</key>
-  <string>2022/03/01 14:38:12</string>
+  <string>2022/03/02 15:08:58</string>
   <key>openTypeHheaAscender</key>
   <integer>800</integer>
   <key>openTypeHheaDescender</key>
@@ -144,11 +144,12 @@ THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
     <integer>45</integer>
     <integer>46</integer>
     <integer>48</integer>
+    <integer>57</integer>
   </array>
   <key>openTypeOS2VendorID</key>
   <string>SIL </string>
   <key>openTypeOS2WeightClass</key>
-  <integer>0</integer>
+  <integer>1</integer>
   <key>openTypeOS2WidthClass</key>
   <integer>5</integer>
   <key>openTypeOS2WinAscent</key>

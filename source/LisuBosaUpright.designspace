@@ -2,7 +2,7 @@
 <designspace format="3">
     <axes>
         <axis default="400.0" maximum="900.0" minimum="200.0" name="weight" tag="wght">
-            <map input="200.0" output="0.0" />
+            <map input="200.0" output="1.0" />
             <map input="300.0" output="250.0" />
             <map input="400.0" output="400.0" />
             <map input="500.0" output="500.0" />
@@ -24,7 +24,7 @@
     <sources>
         <source familyname="Lisu Bosa" filename="masters/LisuBosa-ExtraLight.ufo" name="Lisu Bosa ExtraLight" stylename="ExtraLight">
             <location>
-                <dimension name="weight" xvalue="0.000000" />
+                <dimension name="weight" xvalue="1.000000" />
                 <dimension name="width" xvalue="100.000000" />
                 <dimension name="custom" xvalue="0.000000" />
             </location>
@@ -51,7 +51,7 @@
     <instances>
         <instance familyname="Lisu Bosa Test E" filename="instances/LisuBosaTestE-ExtraLight.ufo" name="Lisu Bosa Test E ExtraLight" stylemapfamilyname="Lisu Bosa Test E ExtraLight" stylemapstylename="regular" stylename="ExtraLight" postscriptfontname="LisuBosaTestE-ExtraLight">
             <location>
-                <dimension name="weight" xvalue="0.000000" />
+                <dimension name="weight" xvalue="1.000000" />
                 <dimension name="width" xvalue="100.000000" />
                 <dimension name="custom" xvalue="0.000000" />
             </location>

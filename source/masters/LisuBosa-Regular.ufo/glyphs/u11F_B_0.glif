@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="u11FB0" format="2">
+  <advance width="560"/>
+  <unicode hex="11FB0"/>
+  <outline>
+    <contour>
+      <point x="322" y="530" type="line"/>
+      <point x="238" y="530" type="line"/>
+      <point x="238" y="307" type="line"/>
+      <point x="48" y="0" type="line"/>
+      <point x="147" y="0" type="line"/>
+      <point x="303" y="260" type="line"/>
+      <point x="257" y="260" type="line"/>
+      <point x="413" y="0" type="line"/>
+      <point x="512" y="0" type="line"/>
+      <point x="322" y="307" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <string>b''</string>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

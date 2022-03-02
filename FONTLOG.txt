@@ -14,7 +14,7 @@ ChangeLog
 2 Mar 2022 (SIL WSTech Team) Lisu Bosa Test E version 1.950 (beta)
 - Improved spacing and new kerning
 - Revised to be an axis-based single family
-- Added U+11F80 LISU LETTER YHA
+- Added U+11FB0 LISU LETTER YHA
 - Test version only
 
 23 Nov 2021 (SIL WSTech Team) Lisu Bosa Test D version 1.930 (beta)
