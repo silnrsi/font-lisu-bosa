@@ -1,15 +1,21 @@
 -----
-FONTLOG for the Lisu Bosa Test D fonts
+FONTLOG for the Lisu Bosa fonts
 
-This file provides detailed information on the Lisu Bosa Test D Font Software. This information should be distributed along with the Lisu Bosa Test D fonts and any derivative works.
+This file provides detailed information on the Lisu Bosa Font Software. This information should be distributed along with the Lisu Bosa fonts and any derivative works.
 
 Note that this font is a work in progress and is only suitable for testing. We do not recommend that derivative works be created at this time.
 
 Basic Font Information
 
-Lisu Bosa Test D is a Unicode typeface family that supports all languages that use the Lisu script and its variants.
+The Lisu Bosa fonts are Unicode fonts that support all languages that use the Lisu script and its variants.
 
 ChangeLog
+
+2 Mar 2022 (SIL WSTech Team) Lisu Bosa Test E version 1.950 (beta)
+- Improved spacing and new kerning
+- Revised to be an axis-based single family
+- Added U+11F80 LISU LETTER YHA
+- Test version only
 
 23 Nov 2021 (SIL WSTech Team) Lisu Bosa Test D version 1.930 (beta)
 - Revised name
@@ -37,16 +43,16 @@ N: David Morse
 D: Designer
 
 N: Victor Gaultney
-E: http://scripts.sil.org/support
-W: http://www.gaultney.org/jvgtype/
+E: https://scripts.sil.org/support
+W: https://www.gaultney.org/jvgtype/
 D: Enhancements and additions
 
 N: Annie Olsen
-E: http://scripts.sil.org/support
-W: http://scripts.sil.org/
+E: https://scripts.sil.org/support
+W: https://scripts.sil.org/
 D: Enhancements and additions
 
 N: SIL font engineers
-E: http://scripts.sil.org/support
-W: http://scripts.sil.org/
+E: https://scripts.sil.org/support
+W: https://scripts.sil.org/
 D: Tool development and production support
