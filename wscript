@@ -6,9 +6,6 @@ sourcefontfamily = "LisuBosa"
 
 DESC_SHORT = "Font for the Lisu (Fraser) script"
 
-#BUILDLABEL = "beta"
-#BUILDVERSION = BUILDLABEL
-
 # build axis-based family
 getufoinfo('source/masters/' + sourcefontfamily + '-Regular' + '.ufo')
 
