@@ -14,7 +14,8 @@ for dspace in ('Upright', 'Italic'):
                 target = "${DS:FILENAME_BASE}.ttf",
                 pdf = fret(params="-r -oi"),
                 opentype = fea("generated/${DS:FILENAME_BASE}.fea", master="source/master.feax", to_ufo = 'True'),
-                woff = woff()
+                woff = woff('web/${DS:FILENAME_BASE}',
+                    metadata = f'../source/{sourcefontfamily}-WOFF-metadata.xml'),
     )
 
 # build auxiliary 'Lt' RIBBI family
