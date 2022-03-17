@@ -11,13 +11,14 @@ The Lisu Bosa fonts are Unicode fonts that support all languages that use the Li
 
 ChangeLog
 
-3 Mar 2022 (SIL WSTech Team) Lisu Bosa Test E version 1.950 (beta2)
+17 Mar 2022 (SIL WSTech Team) Lisu Bosa Test E version 1.950 (beta2)
 - Improved spacing and added kerning
 - Made bold weights bolder
 - Revised to be an axis-based single family
-- Added separately-packaged lighter-weight 'Lt' family with only R and B weights
+- Added separately-packaged lighter-weight "Lt" family with only R and B weights
 - Added U+11FB0 LISU LETTER YHA
 - Includes WOFF/WOFF2 versions of axis-based family
+- Draft of updated documentation
 - Test version only
 
 23 Nov 2021 (SIL WSTech Team) Lisu Bosa Test D version 1.930 (beta)
@@ -36,7 +37,7 @@ ChangeLog
 - Started new project based on LisuTzimu Regular
 
 20 Feb 2018 (Martin Hosken) LisuTzimu version 1.400
-- Publish on github
+- Published on github
 
 Acknowledgements
 
