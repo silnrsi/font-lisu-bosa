@@ -17,7 +17,7 @@ The main family font package is also available in the [SIL software repository f
 
 ## Change history
 
-### 17 Mar 2022 (SIL WSTech Team) Lisu Bosa Test E version 1.950 (beta2)
+### 25 Mar 2022 (SIL WSTech Team) Lisu Bosa Test E version 1.950 (beta2)
 
 - Improved spacing and added kerning
 - Made bold weights bolder
