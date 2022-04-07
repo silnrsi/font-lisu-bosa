@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 # -*- coding: utf-8 -*-
 
-APPNAME = "LisuBosaTestE"
+APPNAME = "LisuBosa"
 sourcefontfamily = "LisuBosa"
 
 DESC_SHORT = "Font for the Lisu (Fraser) script"
@@ -19,7 +19,7 @@ for dspace in ('Upright', 'Italic'):
     )
 
 # build auxiliary 'Lt' RIBBI family
-ribbipackage = package(appname = "LisuBosaLtTestE")
+ribbipackage = package(appname = "LisuBosaLt")
 
 getufoinfo('source/masters/' + sourcefontfamily + '-Regular' + '.ufo', ribbipackage)
 

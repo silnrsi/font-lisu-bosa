@@ -15,7 +15,7 @@
   <key>italicAngle</key>
   <integer>-19</integer>
   <key>openTypeHeadCreated</key>
-  <string>2022/03/08 12:27:08</string>
+  <string>2022/04/07 13:48:36</string>
   <key>openTypeHheaAscender</key>
   <integer>800</integer>
   <key>openTypeHheaDescender</key>
@@ -86,7 +86,7 @@ THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
   <key>openTypeNameUniqueID</key>
   <string>SIL International: Lisu Bosa Black Italic: 2022</string>
   <key>openTypeNameVersion</key>
-  <string>Version 1.950</string>
+  <string>Version 1.970</string>
   <key>openTypeOS2CodePageRanges</key>
   <array>
     <integer>0</integer>
@@ -107,6 +107,7 @@ THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
   </array>
   <key>openTypeOS2Selection</key>
   <array>
+    <integer>8</integer>
     <integer>7</integer>
   </array>
   <key>openTypeOS2StrikeoutPosition</key>
@@ -173,7 +174,7 @@ THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
   <key>versionMajor</key>
   <integer>1</integer>
   <key>versionMinor</key>
-  <integer>950</integer>
+  <integer>970</integer>
   <key>woffMetadataCredits</key>
   <dict>
     <key>credits</key>
@@ -208,7 +209,7 @@ THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
     <array>
       <dict>
         <key>text</key>
-        <string>Lisu Bosa Test E is a Unicode typeface family that supports all languages that use the Lisu script and its variants.</string>
+        <string>Lisu Bosa is a Unicode typeface family that supports all languages that use the Lisu script and its variants.</string>
       </dict>
     </array>
     <key>url</key>
