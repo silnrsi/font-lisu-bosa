@@ -12,6 +12,7 @@ getufoinfo('source/masters/' + sourcefontfamily + '-Regular' + '.ufo')
 for dspace in ('Upright', 'Italic'):
     designspace('source/' + sourcefontfamily + dspace + '.designspace',
                 target = "${DS:FILENAME_BASE}.ttf",
+                version = VERSION,
                 pdf = fret(params="-r -oi"),
                 opentype = fea("generated/${DS:FILENAME_BASE}.fea", master="source/master.feax", to_ufo = 'True'),
                 woff = woff('web/${DS:FILENAME_BASE}',
@@ -26,6 +27,7 @@ getufoinfo('source/masters/' + sourcefontfamily + '-Regular' + '.ufo', ribbipack
 for dspace in ('Upright', 'Italic'):
     designspace('source/' + sourcefontfamily + 'Lt' + dspace + '.designspace',
                 target = "${DS:FILENAME_BASE}.ttf",
+                version = VERSION,
                 pdf = fret(params="-r -oi"),
                 opentype = fea("generated/${DS:FILENAME_BASE}.fea", master="source/master.feax", to_ufo = 'True'),
                 #woff = woff(),
