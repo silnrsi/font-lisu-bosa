@@ -11,6 +11,7 @@ getufoinfo('source/masters/' + sourcefontfamily + '-Regular' + '.ufo')
 
 for dspace in ('Upright', 'Italic'):
     designspace('source/' + sourcefontfamily + dspace + '.designspace',
+                instanceparams = '--forceInterpolation',
                 target = "${DS:FILENAME_BASE}.ttf",
                 version = VERSION,
                 pdf = fret(params="-r -oi"),
