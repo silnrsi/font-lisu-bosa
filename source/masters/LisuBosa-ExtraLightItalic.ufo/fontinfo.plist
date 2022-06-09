@@ -15,7 +15,7 @@
   <key>italicAngle</key>
   <integer>-19</integer>
   <key>openTypeHeadCreated</key>
-  <string>2022/06/09 14:30:24</string>
+  <string>2022/06/09 15:08:55</string>
   <key>openTypeHheaAscender</key>
   <integer>800</integer>
   <key>openTypeHheaDescender</key>
@@ -142,12 +142,22 @@ THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
   <array>
     <integer>0</integer>
     <integer>1</integer>
+    <integer>2</integer>
+    <integer>3</integer>
     <integer>5</integer>
+    <integer>6</integer>
+    <integer>7</integer>
     <integer>31</integer>
+    <integer>33</integer>
+    <integer>35</integer>
+    <integer>38</integer>
     <integer>45</integer>
     <integer>46</integer>
-    <integer>48</integer>
     <integer>57</integer>
+    <integer>62</integer>
+    <integer>67</integer>
+    <integer>69</integer>
+    <integer>91</integer>
   </array>
   <key>openTypeOS2VendorID</key>
   <string>SIL </string>
