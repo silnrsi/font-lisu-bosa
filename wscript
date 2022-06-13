@@ -11,13 +11,13 @@ getufoinfo('source/masters/' + sourcefontfamily + '-Regular' + '.ufo')
 
 for dspace in ('Upright', 'Italic'):
     designspace('source/' + sourcefontfamily + dspace + '.designspace',
-                instanceparams = '--forceInterpolation',
                 target = "${DS:FILENAME_BASE}.ttf",
                 version = VERSION,
                 pdf = fret(params="-r -oi"),
                 opentype = fea("generated/${DS:FILENAME_BASE}.fea", master="source/master.feax", to_ufo = 'True'),
                 woff = woff('web/${DS:FILENAME_BASE}',
                     metadata = f'../source/{sourcefontfamily}-WOFF-metadata.xml'),
+                shortcircuit = false
     )
 
 # build auxiliary 'Lt' RIBBI family
