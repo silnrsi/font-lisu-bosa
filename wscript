@@ -17,7 +17,7 @@ for dspace in ('Upright', 'Italic'):
                 opentype = fea("generated/${DS:FILENAME_BASE}.fea", master="source/master.feax", to_ufo = 'True'),
                 woff = woff('web/${DS:FILENAME_BASE}',
                     metadata = f'../source/{sourcefontfamily}-WOFF-metadata.xml'),
-                shortcircuit = false
+                shortcircuit = False
     )
 
 # build auxiliary 'Lt' RIBBI family
