@@ -17,6 +17,13 @@ The main family font package is also available in the [SIL software repository f
 
 ## Change history
 
+### 24 Jun 2022 (SIL WSTech Team) Lisu Bosa version 1.980
+
+- Renamed "Lt" family to "Lolo"
+- Fixed space widths
+- Improved font metadata
+- Improved line spacing
+
 ### 25 Mar 2022 (SIL WSTech Team) Lisu Bosa Test E version 1.950 (beta2)
 
 - Improved spacing and added kerning

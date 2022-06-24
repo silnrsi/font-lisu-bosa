@@ -20,13 +20,13 @@ for dspace in ('Upright', 'Italic'):
                 shortcircuit = False
     )
 
-# build auxiliary 'Lt' RIBBI family
-ribbipackage = package(appname = "LisuBosaLt")
+# build auxiliary 'Lolo' RIBBI family
+ribbipackage = package(appname = "LisuBosaLolo")
 
 getufoinfo('source/masters/' + sourcefontfamily + '-Regular' + '.ufo', ribbipackage)
 
 for dspace in ('Upright', 'Italic'):
-    designspace('source/' + sourcefontfamily + 'Lt' + dspace + '.designspace',
+    designspace('source/' + sourcefontfamily + 'Lolo' + dspace + '.designspace',
                 target = "${DS:FILENAME_BASE}.ttf",
                 version = VERSION,
                 pdf = fret(params="-r -oi"),
