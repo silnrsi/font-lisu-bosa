@@ -24,7 +24,7 @@ for dspace in ('Upright', 'Italic'):
     )
 
 # build auxiliary 'Lolo' RIBBI family
-ribbipackage = package(appname = "LisuBosaLolo")
+ribbipackage = package(appname = "LisuBosaLolo", docdir = DOCDIR)
 
 getufoinfo('source/masters/' + sourcefontfamily + '-Regular' + '.ufo', ribbipackage)
 
