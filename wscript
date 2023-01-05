@@ -1,7 +1,10 @@
 #!/usr/bin/python3
 # -*- coding: utf-8 -*-
 
-APPNAME = "LisuBosa"
+# set the default output folders for release docs
+DOCDIR = ["documentation", "web"]
+
+APPNAME = "LisuBosaTestF"
 sourcefontfamily = "LisuBosa"
 
 DESC_SHORT = "Font for the Lisu (Fraser) script"
