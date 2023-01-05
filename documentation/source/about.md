@@ -1,6 +1,6 @@
 ---
 title: Lisu Bosa - About
-fontversion: 2.000
+fontversion: 1.980
 ---
 
 ## About this project

@@ -1,6 +1,6 @@
 ---
 title: Lisu Bosa - Documentation
-fontversion: 2.000
+fontversion: 1.980
 ---
 
 <span class='lisubosa-XL normal'>ꓠꓻ ꓟꓽ ꓔꓳꓹ ꓜꓳꓽ ꓕꓯꓽˍ ꓡꓰ ꓤ ꓟꓳ </span><span class='lisubosa-XLI normal'>ꓢꓲ ꓮ ꓡꓲ ꓐꓰ ꓗꓽ ꓔ ꓠꓯꓹ ꓟ</span>&nbsp;&nbsp;&nbsp;ExtraLight<br>

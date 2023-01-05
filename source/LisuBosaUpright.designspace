@@ -49,7 +49,7 @@
         </source>
     </sources>
     <instances>
-        <instance familyname="Lisu Bosa" filename="instances/LisuBosa-ExtraLight.ufo" name="Lisu Bosa ExtraLight" stylemapfamilyname="Lisu Bosa ExtraLight" stylemapstylename="regular" stylename="ExtraLight" postscriptfontname="LisuBosa-ExtraLight">
+        <instance familyname="Lisu Bosa Test F" filename="instances/LisuBosaTestF-ExtraLight.ufo" name="Lisu Bosa Test F ExtraLight" stylemapfamilyname="Lisu Bosa Test F ExtraLight" stylemapstylename="regular" stylename="ExtraLight" postscriptfontname="LisuBosaTestF-ExtraLight">
             <location>
                 <dimension name="weight" xvalue="1.000000" />
                 <dimension name="width" xvalue="100.000000" />
@@ -58,7 +58,7 @@
             <info />
             <kerning />
         </instance>
-        <instance familyname="Lisu Bosa" filename="instances/LisuBosa-Light.ufo" name="Lisu Bosa Light" stylemapfamilyname="Lisu Bosa Light" stylemapstylename="regular" stylename="Light" postscriptfontname="LisuBosa-Light">
+        <instance familyname="Lisu Bosa Test F" filename="instances/LisuBosaTestF-Light.ufo" name="Lisu Bosa Test F Light" stylemapfamilyname="Lisu Bosa Test F Light" stylemapstylename="regular" stylename="Light" postscriptfontname="LisuBosaTestF-Light">
             <location>
                 <dimension name="weight" xvalue="250.000000" />
                 <dimension name="width" xvalue="100.000000" />
@@ -67,7 +67,7 @@
             <info />
             <kerning />
         </instance>
-        <instance familyname="Lisu Bosa" filename="instances/LisuBosa-Regular.ufo" name="Lisu Bosa Regular" stylemapfamilyname="Lisu Bosa" stylemapstylename="regular" stylename="Regular" postscriptfontname="LisuBosa-Regular">
+        <instance familyname="Lisu Bosa Test F" filename="instances/LisuBosaTestF-Regular.ufo" name="Lisu Bosa Test F Regular" stylemapfamilyname="Lisu Bosa Test F" stylemapstylename="regular" stylename="Regular" postscriptfontname="LisuBosaTestF-Regular">
             <location>
                 <dimension name="weight" xvalue="400.000000" />
                 <dimension name="width" xvalue="100.000000" />
@@ -76,7 +76,7 @@
             <info />
             <kerning />
         </instance>
-        <instance familyname="Lisu Bosa" filename="instances/LisuBosa-Medium.ufo" name="Lisu Bosa Medium" stylemapfamilyname="Lisu Bosa Medium" stylemapstylename="regular" stylename="Medium" postscriptfontname="LisuBosa-Medium">
+        <instance familyname="Lisu Bosa Test F" filename="instances/LisuBosaTestF-Medium.ufo" name="Lisu Bosa Test F Medium" stylemapfamilyname="Lisu Bosa Test F Medium" stylemapstylename="regular" stylename="Medium" postscriptfontname="LisuBosaTestF-Medium">
             <location>
                 <dimension name="weight" xvalue="500.000000" />
                 <dimension name="width" xvalue="100.000000" />
@@ -85,7 +85,7 @@
             <info />
             <kerning />
         </instance>
-        <instance familyname="Lisu Bosa" filename="instances/LisuBosa-SemiBold.ufo" name="Lisu Bosa SemiBold" stylemapfamilyname="Lisu Bosa SemiBold" stylemapstylename="regular" stylename="SemiBold" postscriptfontname="LisuBosa-SemiBold">
+        <instance familyname="Lisu Bosa Test F" filename="instances/LisuBosaTestF-SemiBold.ufo" name="Lisu Bosa Test F SemiBold" stylemapfamilyname="Lisu Bosa Test F SemiBold" stylemapstylename="regular" stylename="SemiBold" postscriptfontname="LisuBosaTestF-SemiBold">
             <location>
                 <dimension name="weight" xvalue="640.000000" />
                 <dimension name="width" xvalue="100.000000" />
@@ -94,7 +94,7 @@
             <info />
             <kerning />
         </instance>
-        <instance familyname="Lisu Bosa" filename="instances/LisuBosa-Bold.ufo" name="Lisu Bosa Bold" stylemapfamilyname="Lisu Bosa" stylemapstylename="bold" stylename="Bold" postscriptfontname="LisuBosa-Bold">
+        <instance familyname="Lisu Bosa Test F" filename="instances/LisuBosaTestF-Bold.ufo" name="Lisu Bosa Test F Bold" stylemapfamilyname="Lisu Bosa Test F" stylemapstylename="bold" stylename="Bold" postscriptfontname="LisuBosaTestF-Bold">
             <location>
                 <dimension name="weight" xvalue="780.000000" />
                 <dimension name="width" xvalue="100.000000" />
@@ -103,7 +103,7 @@
             <info />
             <kerning />
         </instance>
-        <instance familyname="Lisu Bosa" filename="instances/LisuBosa-ExtraBold.ufo" name="Lisu Bosa ExtraBold" stylemapfamilyname="Lisu Bosa ExtraBold" stylemapstylename="regular" stylename="ExtraBold" postscriptfontname="LisuBosa-ExtraBold">
+        <instance familyname="Lisu Bosa Test F" filename="instances/LisuBosaTestF-ExtraBold.ufo" name="Lisu Bosa Test F ExtraBold" stylemapfamilyname="Lisu Bosa Test F ExtraBold" stylemapstylename="regular" stylename="ExtraBold" postscriptfontname="LisuBosaTestF-ExtraBold">
             <location>
                 <dimension name="weight" xvalue="890.000000" />
                 <dimension name="width" xvalue="100.000000" />
@@ -112,7 +112,7 @@
             <info />
             <kerning />
         </instance>
-        <instance familyname="Lisu Bosa" filename="instances/LisuBosa-Black.ufo" name="Lisu Bosa Black" stylemapfamilyname="Lisu Bosa Black" stylemapstylename="regular" stylename="Black" postscriptfontname="LisuBosa-Black">
+        <instance familyname="Lisu Bosa Test F" filename="instances/LisuBosaTestF-Black.ufo" name="Lisu Bosa Test F Black" stylemapfamilyname="Lisu Bosa Test F Black" stylemapstylename="regular" stylename="Black" postscriptfontname="LisuBosaTestF-Black">
             <location>
                 <dimension name="weight" xvalue="1000.000000" />
                 <dimension name="width" xvalue="100.000000" />

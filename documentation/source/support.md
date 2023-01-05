@@ -1,6 +1,6 @@
 ---
 title: Lisu Bosa - Support
-fontversion: 2.000
+fontversion: 1.980
 ---
 
 ## Support options

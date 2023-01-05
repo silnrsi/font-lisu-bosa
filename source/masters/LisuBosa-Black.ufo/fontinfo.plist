@@ -7,13 +7,13 @@
   <key>capHeight</key>
   <integer>530</integer>
   <key>copyright</key>
-  <string>Copyright (c) 1998-2019 David Morse (original regular), Copyright (c) 2019-2022 SIL International (revised regular, bold, italic, bold italic), Copyright (c) 2014-2019 Adobe (http://www.adobe.com/) (Latin glyphs)</string>
+  <string>Copyright (c) 1998-2019 David Morse (original regular), Copyright (c) 2019-2023 SIL International (revised regular, bold, italic, bold italic), Copyright (c) 2014-2019 Adobe (http://www.adobe.com/) (Latin glyphs)</string>
   <key>descender</key>
   <integer>-200</integer>
   <key>familyName</key>
   <string>Lisu Bosa</string>
   <key>openTypeHeadCreated</key>
-  <string>2022/06/24 11:22:01</string>
+  <string>2023/01/05 10:09:31</string>
   <key>openTypeHheaAscender</key>
   <integer>800</integer>
   <key>openTypeHheaDescender</key>
@@ -27,7 +27,7 @@
   <key>openTypeNameDesignerURL</key>
   <string>http://scripts.sil.org/</string>
   <key>openTypeNameLicense</key>
-  <string>Copyright (c) 1998-2019 David Morse (original regular) with Reserved Font Name "LisuTzimu", Copyright (c) 2019-2022 SIL International (regular revisions, bold, italic, bold italic) with Reserved Font Name "Bosa", Copyright (c) 2014-2019 Adobe (http://www.adobe.com/) (Latin glyphs), with Reserved Font Name "Source".
+  <string>Copyright (c) 1998-2019 David Morse (original regular) with Reserved Font Name "LisuTzimu", Copyright (c) 2019-2023 SIL International (regular revisions, bold, italic, bold italic) with Reserved Font Name "Bosa", Copyright (c) 2014-2019 Adobe (http://www.adobe.com/) (Latin glyphs), with Reserved Font Name "Source".
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
 This license is copied below, and is also available with a FAQ at: http://scripts.sil.org/OFL
@@ -82,7 +82,7 @@ THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
   <key>openTypeNamePreferredSubfamilyName</key>
   <string>Black</string>
   <key>openTypeNameUniqueID</key>
-  <string>SIL International: Lisu Bosa Black: 2022</string>
+  <string>SIL International: Lisu Bosa Black: 2023</string>
   <key>openTypeNameVersion</key>
   <string>Version 1.980</string>
   <key>openTypeOS2CodePageRanges</key>
@@ -105,8 +105,8 @@ THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
   </array>
   <key>openTypeOS2Selection</key>
   <array>
-    <integer>8</integer>
     <integer>7</integer>
+    <integer>8</integer>
   </array>
   <key>openTypeOS2StrikeoutPosition</key>
   <integer>250</integer>

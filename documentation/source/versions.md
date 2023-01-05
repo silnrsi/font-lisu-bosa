@@ -1,6 +1,6 @@
 ---
 title: Lisu Bosa - Versions and Changes
-fontversion: 2.000
+fontversion: 1.980
 ---
 
 ## Announcement list
@@ -17,7 +17,7 @@ The main family font package is also available in the [SIL software repository f
 
 ## Change history
 
-### 24 Jun 2022 (SIL WSTech Team) Lisu Bosa version 1.980
+### 5 Jan 2023 (SIL WSTech Team) Lisu Bosa Test F version 1.980 (beta3)
 
 - Renamed "Lt" family to "Lolo"
 - Fixed space widths

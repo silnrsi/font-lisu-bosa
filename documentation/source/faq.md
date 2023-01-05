@@ -1,6 +1,6 @@
 ---
 title: Lisu Bosa - Frequently Asked Questions
-fontversion: 2.000
+fontversion: 1.980
 ---
 
 Many questions can be answered by consulting the following FAQ pages. Here are a few sample questions answered in each FAQ:

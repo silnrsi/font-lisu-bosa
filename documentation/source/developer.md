@@ -1,6 +1,6 @@
 ---
 title: Lisu Bosa - Developer information
-fontversion: 2.000
+fontversion: 1.980
 ---
 
 ## Welcome font developers!

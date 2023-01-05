@@ -1,6 +1,6 @@
 ---
 title: Lisu Bosa - Resources
-fontversion: 2.000
+fontversion: 1.980
 ---
 
 ## Requirements

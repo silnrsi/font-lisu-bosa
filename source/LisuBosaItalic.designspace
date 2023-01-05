@@ -49,7 +49,7 @@
         </source>
     </sources>
     <instances>
-        <instance familyname="Lisu Bosa" filename="instances/LisuBosa-ExtraLightItalic.ufo" name="Lisu Bosa ExtraLight Italic" stylemapfamilyname="Lisu Bosa ExtraLight" stylemapstylename="italic" stylename="ExtraLight Italic" postscriptfontname="LisuBosa-ExtraLightItalic">
+        <instance familyname="Lisu Bosa Test F" filename="instances/LisuBosaTestF-ExtraLightItalic.ufo" name="Lisu Bosa Test F ExtraLight Italic" stylemapfamilyname="Lisu Bosa Test F ExtraLight" stylemapstylename="italic" stylename="ExtraLight Italic" postscriptfontname="LisuBosaTestF-ExtraLightItalic">
             <location>
                 <dimension name="weight" xvalue="1.000000" />
                 <dimension name="width" xvalue="100.000000" />
@@ -58,7 +58,7 @@
             <info />
             <kerning />
         </instance>
-        <instance familyname="Lisu Bosa" filename="instances/LisuBosa-LightItalic.ufo" name="Lisu Bosa Light Italic" stylemapfamilyname="Lisu Bosa Light" stylemapstylename="italic" stylename="Light Italic" postscriptfontname="LisuBosa-LightItalic">
+        <instance familyname="Lisu Bosa Test F" filename="instances/LisuBosaTestF-LightItalic.ufo" name="Lisu Bosa Test F Light Italic" stylemapfamilyname="Lisu Bosa Test F Light" stylemapstylename="italic" stylename="Light Italic" postscriptfontname="LisuBosaTestF-LightItalic">
             <location>
                 <dimension name="weight" xvalue="250.000000" />
                 <dimension name="width" xvalue="100.000000" />
@@ -67,7 +67,7 @@
             <info />
             <kerning />
         </instance>
-        <instance familyname="Lisu Bosa" filename="instances/LisuBosa-Italic.ufo" name="Lisu Bosa Italic" stylemapfamilyname="Lisu Bosa" stylemapstylename="italic" stylename="Italic" postscriptfontname="LisuBosa-Italic">
+        <instance familyname="Lisu Bosa Test F" filename="instances/LisuBosaTestF-Italic.ufo" name="Lisu Bosa Test F Italic" stylemapfamilyname="Lisu Bosa Test F" stylemapstylename="italic" stylename="Italic" postscriptfontname="LisuBosaTestF-Italic">
             <location>
                 <dimension name="weight" xvalue="400.000000" />
                 <dimension name="width" xvalue="100.000000" />
@@ -76,7 +76,7 @@
             <info />
             <kerning />
         </instance>
-        <instance familyname="Lisu Bosa" filename="instances/LisuBosa-MediumItalic.ufo" name="Lisu Bosa Medium Italic" stylemapfamilyname="Lisu Bosa Medium" stylemapstylename="italic" stylename="Medium Italic" postscriptfontname="LisuBosa-MediumItalic">
+        <instance familyname="Lisu Bosa Test F" filename="instances/LisuBosaTestF-MediumItalic.ufo" name="Lisu Bosa Test F Medium Italic" stylemapfamilyname="Lisu Bosa Test F Medium" stylemapstylename="italic" stylename="Medium Italic" postscriptfontname="LisuBosaTestF-MediumItalic">
             <location>
                 <dimension name="weight" xvalue="500.000000" />
                 <dimension name="width" xvalue="100.000000" />
@@ -85,7 +85,7 @@
             <info />
             <kerning />
         </instance>
-        <instance familyname="Lisu Bosa" filename="instances/LisuBosa-SemiBoldItalic.ufo" name="Lisu Bosa SemiBold Italic" stylemapfamilyname="Lisu Bosa SemiBold" stylemapstylename="italic" stylename="SemiBold Italic" postscriptfontname="LisuBosa-SemiBoldItalic">
+        <instance familyname="Lisu Bosa Test F" filename="instances/LisuBosaTestF-SemiBoldItalic.ufo" name="Lisu Bosa Test F SemiBold Italic" stylemapfamilyname="Lisu Bosa Test F SemiBold" stylemapstylename="italic" stylename="SemiBold Italic" postscriptfontname="LisuBosaTestF-SemiBoldItalic">
             <location>
                 <dimension name="weight" xvalue="640.000000" />
                 <dimension name="width" xvalue="100.000000" />
@@ -94,7 +94,7 @@
             <info />
             <kerning />
         </instance>
-        <instance familyname="Lisu Bosa" filename="instances/LisuBosa-BoldItalic.ufo" name="Lisu Bosa Bold Italic" stylemapfamilyname="Lisu Bosa" stylemapstylename="bold italic" stylename="Bold Italic" postscriptfontname="LisuBosa-BoldItalic">
+        <instance familyname="Lisu Bosa Test F" filename="instances/LisuBosaTestF-BoldItalic.ufo" name="Lisu Bosa Test F Bold Italic" stylemapfamilyname="Lisu Bosa Test F" stylemapstylename="bold italic" stylename="Bold Italic" postscriptfontname="LisuBosaTestF-BoldItalic">
             <location>
                 <dimension name="weight" xvalue="780.000000" />
                 <dimension name="width" xvalue="100.000000" />
@@ -103,7 +103,7 @@
             <info />
             <kerning />
         </instance>
-        <instance familyname="Lisu Bosa" filename="instances/LisuBosa-ExtraBoldItalic.ufo" name="Lisu Bosa ExtraBold Italic" stylemapfamilyname="Lisu Bosa ExtraBold" stylemapstylename="italic" stylename="ExtraBold Italic" postscriptfontname="LisuBosa-ExtraBoldItalic">
+        <instance familyname="Lisu Bosa Test F" filename="instances/LisuBosaTestF-ExtraBoldItalic.ufo" name="Lisu Bosa Test F ExtraBold Italic" stylemapfamilyname="Lisu Bosa Test F ExtraBold" stylemapstylename="italic" stylename="ExtraBold Italic" postscriptfontname="LisuBosaTestF-ExtraBoldItalic">
             <location>
                 <dimension name="weight" xvalue="890.000000" />
                 <dimension name="width" xvalue="100.000000" />
@@ -112,7 +112,7 @@
             <info />
             <kerning />
         </instance>
-        <instance familyname="Lisu Bosa" filename="instances/LisuBosa-BlackItalic.ufo" name="Lisu Bosa Black Italic" stylemapfamilyname="Lisu Bosa Black" stylemapstylename="italic" stylename="Black Italic" postscriptfontname="LisuBosa-BlackItalic">
+        <instance familyname="Lisu Bosa Test F" filename="instances/LisuBosaTestF-BlackItalic.ufo" name="Lisu Bosa Test F Black Italic" stylemapfamilyname="Lisu Bosa Test F Black" stylemapstylename="italic" stylename="Black Italic" postscriptfontname="LisuBosaTestF-BlackItalic">
             <location>
                 <dimension name="weight" xvalue="1000.000000" />
                 <dimension name="width" xvalue="100.000000" />
