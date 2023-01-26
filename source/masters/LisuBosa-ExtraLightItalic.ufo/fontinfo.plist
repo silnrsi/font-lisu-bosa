@@ -15,7 +15,7 @@
   <key>italicAngle</key>
   <integer>-19</integer>
   <key>openTypeHeadCreated</key>
-  <string>2023/01/26 10:21:12</string>
+  <string>2023/01/26 14:26:49</string>
   <key>openTypeHheaAscender</key>
   <integer>800</integer>
   <key>openTypeHheaDescender</key>
@@ -162,7 +162,7 @@ THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
   <key>openTypeOS2VendorID</key>
   <string>SIL </string>
   <key>openTypeOS2WeightClass</key>
-  <integer>1</integer>
+  <integer>200</integer>
   <key>openTypeOS2WidthClass</key>
   <integer>5</integer>
   <key>openTypeOS2WinAscent</key>
