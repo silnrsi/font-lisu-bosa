@@ -1,13 +1,13 @@
 ---
 title: Lisu Bosa - Versions and Changes
-fontversion: 1.980
+fontversion: 2.000
 ---
 
 ## Announcement list
 
 If you would like stay informed of updates to Lisu Bosa and other SIL fonts, please subscribe to the [SIL Font News Announcement List](https://groups.google.com/a/groups.sil.org/forum/#!forum/sil-font-news). For more information see [About](about.md).
 
-Our font announcements are also available through Twitter [@silfonts](http://twitter.com/silfonts).
+Our font announcements are also available through Twitter [\@silfonts](http://twitter.com/silfonts).
 
 ## Current versions
 
@@ -16,6 +16,10 @@ The latest version of the fonts is always available from the [Lisu Bosa site](ht
 The main family font package is also available in the [SIL software repository for Ubuntu](https://packages.sil.org/). Users can subscribe to this software repository and get current versions and updates automatically.
 
 ## Change history
+
+### 1 Feb 2023 (SIL WSTech Team) Lisu Bosa version 2.000
+
+- First release of complete families
 
 ### 5 Jan 2023 (SIL WSTech Team) Lisu Bosa Test F version 1.980 (beta3)
 

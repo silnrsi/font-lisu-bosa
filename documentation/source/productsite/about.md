@@ -1,7 +1,3 @@
----
-title: Lisu Bosa - About
-fontversion: 2.000
----
 
 ## About this project
 
@@ -17,7 +13,7 @@ These fonts are actively maintained and improved. The highest priorities for fut
 - Requests from language communities using the fonts
 - Needs of the linguistic and academic community
 
-Please send us your requests using the [form on the SIL website](https://software.sil.org/fonts/support/). If you are interested in helping us make the fonts better see the [Developer](developer.md) page.
+Please send us your requests using the [form on the SIL website](https://software.sil.org/fonts/support/). If you are interested in helping us make the fonts better see the [Developer](developer) page.
 
 ## Announcement list
 
@@ -29,7 +25,7 @@ You can subscribe using either of the two following options.
 
 - If you would rather not use a Google profile, you can subscribe any email address by sending a message to [sil-font-news+subscribe@groups.sil.org](mailto:sil-font-news+subscribe@groups.sil.org) and following the instructions you get in the confirmation message.
 
-Our font announcements are also available through Twitter [\@silfonts](http://twitter.com/silfonts).
+Our font announcements are also available through Twitter [@silfonts](http://twitter.com/silfonts).
 
 ## Supporting the project
 

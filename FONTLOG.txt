@@ -11,6 +11,10 @@ The Lisu Bosa fonts are Unicode fonts that support all languages that use the Li
 
 ChangeLog
 
+1 Feb 2023 (SIL WSTech Team) Lisu Bosa version 2.000
+
+- First release of complete families
+
 5 Jan 2023 (SIL WSTech Team) Lisu Bosa Test F version 1.980 (beta3)
 - Renamed "Lt" family to "Lolo"
 - Fixed space widths
