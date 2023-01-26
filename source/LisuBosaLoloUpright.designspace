@@ -43,7 +43,7 @@
         </source>
     </sources>
     <instances>
-        <instance familyname="Lisu Bosa Lolo Test F" filename="instances/LisuBosaLoloTestF-Regular.ufo" name="Lisu Bosa Lolo Test F Regular" stylemapfamilyname="Lisu Bosa Lolo Test F" stylemapstylename="regular" stylename="Regular" postscriptfontname="LisuBosaLoloTestF-Regular">
+        <instance familyname="Lisu Bosa Lolo" filename="instances/LisuBosaLolo-Regular.ufo" name="Lisu Bosa Lolo Regular" stylemapfamilyname="Lisu Bosa Lolo" stylemapstylename="regular" stylename="Regular" postscriptfontname="LisuBosaLolo-Regular">
             <location>
                 <dimension name="weight" xvalue="250.000000" />
                 <dimension name="width" xvalue="100.000000" />
@@ -52,7 +52,7 @@
             <info />
             <kerning />
         </instance>
-        <instance familyname="Lisu Bosa Lolo Test F" filename="instances/LisuBosaLoloTestF-Bold.ufo" name="Lisu Bosa Lolo Test F Bold" stylemapfamilyname="Lisu Bosa Lolo Test F" stylemapstylename="bold" stylename="Bold" postscriptfontname="LisuBosaLoloTestF-Bold">
+        <instance familyname="Lisu Bosa Lolo" filename="instances/LisuBosaLolo-Bold.ufo" name="Lisu Bosa Lolo Bold" stylemapfamilyname="Lisu Bosa Lolo" stylemapstylename="bold" stylename="Bold" postscriptfontname="LisuBosaLolo-Bold">
             <location>
                 <dimension name="weight" xvalue="640.000000" />
                 <dimension name="width" xvalue="100.000000" />
