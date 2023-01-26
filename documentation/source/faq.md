@@ -5,7 +5,7 @@ fontversion: 2.000
 
 Many questions can be answered by consulting the following FAQ pages. Here are a few sample questions answered in each FAQ:
 
-- [SIL fonts in general](http://software.sil.org/fonts/faq)
+- [SIL fonts in general](https://software.sil.org/fonts/faq)
     - *How can I type...?*
     - *How can I use font features?*
     - *Will you add support for character...?*
@@ -28,13 +28,13 @@ Some applications will list all the weights but leave out Bold. To access the Bo
 
 #### *Why do I sometimes get a fake Bold?*
 
-If you choose some other weight than Regular (such as ExtraLight), then use application controls to turn on Bold, some applications will make a "fake" Bold rather than use one of the real ones in the font (SemiBold, Bold, ExtraBold, Black). This is because only Regular has an associated Bold counterpart. This is a technical limitation with some apps and OSes. If you are using some other weight than Regular for text and want to make a word or phrase stand out you will need to select the text and apply one of the heavier weights manually. You can also consider using the "Lisu Bosa Lolo" family as it has an associated Bold (the same weight as SemiBold). See our [Font Help Guide on Axis-Based Font Families](https://software.sil.org/fonts/axis-based-fonts/) for more information.
+If you choose a weight other than Regular (such as ExtraLight), then use application controls to turn on Bold, some applications will make a "fake" Bold rather than use one of the real ones in the font (SemiBold, Bold, ExtraBold, Black). This is because only Regular has an associated Bold counterpart. This is a technical limitation with some apps and OSes. If you are using a weight other than Regular for text and want to make a word or phrase stand out, you will need to select the text and apply one of the heavier weights manually. You can also consider using the "Lisu Bosa Lolo" family as it has an associated Bold (the same weight as SemiBold). See our [Font Help Guide on Axis-Based Font Families](https://software.sil.org/fonts/axis-based-fonts/) for more information.
 
 ### The Lisu Bosa and Lisu Bosa Lolo families
 
 #### *I can't find the "Lisu Bosa Lolo" family in this package. Where can I find it?*
 
-The "Lisu Bosa Lolo" family is distributed in a separate package - see the [Lisu Bosa site](https://software.sil.org/lisubosa/). Most users do not need the extra family as the weights are identical to the Light and SemiBold weights of the main family. The "Lolo" family is only for use in older apps that only support weights named *Regular* and *Bold*.
+The "Lisu Bosa Lolo" family is distributed in a separate package - see the [Lisu Bosa site](https://software.sil.org/lisubosa/). Most users do not need this extra font family as the weights are identical to the Light and SemiBold weights of the main font family. The "Lolo" family is only for use in older apps that only support weights named *Regular* and *Bold*.
 
 #### *This package only includes the "Lisu Bosa Lolo" family. Where can I get the full family?*
 
