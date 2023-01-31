@@ -15,6 +15,8 @@ Install the fonts by decompressing the .zip archive and installing the fonts usi
 
 These fonts do not include keyboards or other software for entering text. To type the symbols in these fonts, use the keyboarding systems provided in your OS or use a separate utility. SIL’s [Keyman](https://keyman.com/) provides keyboards for over 2000 languages and works on all major desktop and mobile platforms. For information on other keyboarding options, see the overview at [Keyboard Systems Overview (ScriptSource)](https://scriptsource.org/entry/ytr8g8n6sw).
 
+Lisu Bosa supports the complete range of Unicode characters for the Lisu (Fraser) script. Inclusion of a basic Latin script repetoire is provided as a convenience, for use in menus or for displaying markup in text files, for example. This font is not intended for extensive Latin script use.
+
 ## Rendering and application support
 
 These fonts will work normally like any other fonts in most applications.
