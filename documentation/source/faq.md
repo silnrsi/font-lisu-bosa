@@ -28,7 +28,7 @@ Some applications will list all the weights but leave out Bold. To access the Bo
 
 #### *Why do I sometimes get a fake Bold?*
 
-If you choose a weight other than Regular (such as ExtraLight), then use application controls to turn on Bold, some applications will make a "fake" Bold rather than use one of the real ones in the font (SemiBold, Bold, ExtraBold, Black). This is because only Regular has an associated Bold counterpart. This is a technical limitation with some apps and OSes. If you are using a weight other than Regular for text and want to make a word or phrase stand out, you will need to select the text and apply one of the heavier weights manually. You can also consider using the "Lisu Bosa Lolo" family as it has an associated Bold (the same weight as SemiBold). See our [Font Help Guide on Axis-Based Font Families](https://software.sil.org/fonts/axis-based-fonts/) for more information.
+If you choose a weight other than Regular (such as ExtraLight), and then use application controls to turn on Bold, some applications will make a "fake" Bold rather than use one of the real ones in the font (SemiBold, Bold, ExtraBold, Black). This is because only Regular has an associated Bold counterpart. This is a technical limitation with some apps and OSes. If you are using a weight other than Regular for text and want to make a word or phrase stand out, you will need to select the text and apply one of the heavier weights manually. You can also consider using the "Lisu Bosa Lolo" family as it has an associated Bold (the same weight as SemiBold). See our [Font Help Guide on Axis-Based Font Families](https://software.sil.org/fonts/axis-based-fonts/) for more information.
 
 ### The Lisu Bosa and Lisu Bosa Lolo families
 
@@ -38,7 +38,7 @@ The "Lisu Bosa Lolo" family is distributed in a separate package - see the [Lisu
 
 #### *This package only includes the "Lisu Bosa Lolo" family. Where can I get the full family?*
 
-The two font families are packaged and distributed separately since most people only need the full package. If this package only includes the two-weight "Lisu Bosa Lolo" family you can get the full package from the [Lisu Bosa site](https://software.sil.org/lisubosa/).
+The two font families are packaged and distributed separately since most people only need the full package. If this package only includes the two-weight "Lisu Bosa Lolo" family, you can get the full package from the [Lisu Bosa site](https://software.sil.org/lisubosa/).
 
 #### *Can I install both "Lisu Bosa" and "Lisu Bosa Lolo" families?*
 

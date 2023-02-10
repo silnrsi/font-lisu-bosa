@@ -17,7 +17,7 @@ These fonts are actively maintained and improved. The highest priorities for fut
 - Requests from language communities using the fonts
 - Needs of the linguistic and academic community
 
-Please send us your requests using the [form on the SIL website](https://software.sil.org/fonts/support/). If you are interested in helping us make the fonts better see the [Developer](developer.md) page.
+Please send us your requests using the [form on the SIL website](https://software.sil.org/fonts/support/). If you are interested in helping us make the fonts better, see the [Developer](developer.md) page.
 
 ## Announcement list
 

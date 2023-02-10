@@ -16,7 +16,7 @@ Thank you for your interest in the Lisu Bosa fonts. These fonts support the Lisu
 
 The main font family - *Lisu Bosa* - includes eight weights from ExtraLight to Black in both upright and italic styles. A second font family - *Lisu Bosa Lolo* - is available in a separate package. It contains only the Light and SemiBold weights, which have been renamed to Regular and Bold to support older applications. For more information on using these font families see the [FAQ](faq.md).
 
-This documentation is a set of HTML pages that can be viewed in any modern web browser. PDF versions of these pages are also provided. Most of this content, plus download links and a contact form, are available from the [Lisu Bosa site](https://software.sil.org/lisubosa/).
+This documentation is a set of HTML pages that can be viewed in any modern web browser. PDF versions of these pages are also provided. Most of this content, plus download links and a contact form, is available from the [Lisu Bosa site](https://software.sil.org/lisubosa/).
 
 - [About](about.md) — Information about this project and SIL International
 - [Resources](resources.md) — Help with installation and use

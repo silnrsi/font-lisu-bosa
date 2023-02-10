@@ -9,7 +9,7 @@ These fonts are supported by all major operating systems (macOS, Windows, Linux-
 
 ## Installation
 
-Install the fonts by decompressing the .zip archive and installing the fonts using the standard font installation process for .ttf (TrueType/OpenType) fonts for your platform. For additional tips see the help page on [Font installation](https://software.sil.org/fonts/installation).
+Install the fonts by decompressing the .zip archive and installing the fonts using the standard font installation process for .ttf (TrueType/OpenType) fonts for your platform. For additional tips, see the help page on [Font installation](https://software.sil.org/fonts/installation).
 
 ## Keyboarding and character set support
 
