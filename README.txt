@@ -1,35 +1,22 @@
+README
+# Lisu Bosa
+===========
 
-Thank you for your interest in the Lisu Bosa fonts.
-We hope you find it useful!
+This project is intended to provide a free and open font family for all current languages and writing systems that use the Lisu (Fraser) script. The design is based on LisuTzimu, designed by David Morse.
 
-The Lisu Bosa fonts are Unicode fonts that provides support for the Lisu script.
+The Lisu Bosa and Lisu Bosa Lolo fonts are Copyright (c) 1998-2019 David Morse (original regular) and Copyright (c) 2019-2023 SIL International (regular revisions, bold, italic, bold italic) and Copyright (c) 2014-2019 Adobe (http://www.adobe.com/) (Latin glyphs) and are released under under the [SIL Open Font License (scripts.sil.org/OFL)](http://scripts.sil.org/OFL).
 
-The Lisu Bosa fonts are released under the SIL Open Font License.
-See the OFL and OFL-FAQ for details of the SIL Open Font License.
-See the FONTLOG for information on this and previous releases.
+To download the fonts visit the [Lisu Bosa site](https://software.sil.org/lisubosa/) or the [Github releases page](https://github.com/silnrsi/font-lisu-bosa/releases).
 
-TIPS
-====
+For more information on using and developing the fonts see the full project documentation. This is available in three forms:
 
-We cannot afford to offer no-cost technical support.
+- *local HTML* - Download the release or source package and open the file `documentation/index.html` in a browser
+- *local PDF* - Download the release or source package and open the file `documentation/pdf/index.pdf`
+- *Web site* - Visit the [Lisu Bosa site](https://software.sil.org/lisubosa/) 
 
-If you do find a problem, please do report it to https://github.com/silnrsi/font-bosa/issues
-we can't guarantee any direct response, but will try to fix reported bugs in future 
-versions.
+For a complete list of changes in this version see the [FONTLOG.txt](FONTLOG.txt).
 
-Many problems can be solved, or at least explained, through an understanding
-of the encoding and use of the fonts. Here are some basic hints:
+For copyright and licensing information - including any Reserved Font Names - see [OFL.txt](OFL.txt).
 
-Encoding: 
-The fonts are encoded according to Unicode, so your application must support
-Unicode text in order to access letters other than the standard alphabet.
-Most Windows applications provide basic Unicode support. You will, however,
-need some way of entering Unicode text into your document.
-
-Keyboarding: 
-Lisu Bosa does not include any keyboarding helps or utilities. If you 
-cannot use the built-in keyboards of the operating system, you should 
-install the appropriate keyboard and input method for the characters of the 
-language you wish to use. You will need to install the appropriate keyboard and 
-input method for the characters of the language you wish to use. 
+For practical information about using, modifying and redistributing this font see [OFL-FAQ.txt](OFL-FAQ.txt).
 

@@ -5,67 +5,67 @@ released under the SIL Open Font License (http://scripts.sil.org/OFL).
 */
 @font-face {
     font-family: LisuBosa-XL;
-    src: url("../../../web/LisuBosaTestF-ExtraLight.woff2") format("woff2");
+    src: url("../../../web/LisuBosa-ExtraLight.woff2") format("woff2");
 }
 @font-face {
     font-family: LisuBosa-L;
-    src: url("../../../web/LisuBosaTestF-Light.woff2") format("woff2");
+    src: url("../../../web/LisuBosa-Light.woff2") format("woff2");
 }
 @font-face {
     font-family: LisuBosa-R;
-    src: url("../../../web/LisuBosaTestF-Regular.woff2") format("woff2");
+    src: url("../../../web/LisuBosa-Regular.woff2") format("woff2");
 }
 @font-face {
     font-family: LisuBosa-M;
-    src: url("../../../web/LisuBosaTestF-Medium.woff2") format("woff2");
+    src: url("../../../web/LisuBosa-Medium.woff2") format("woff2");
 }
 @font-face {
     font-family: LisuBosa-SB;
-    src: url("../../../web/LisuBosaTestF-SemiBold.woff2") format("woff2");
+    src: url("../../../web/LisuBosa-SemiBold.woff2") format("woff2");
 }
 @font-face {
     font-family: LisuBosa-B;
-    src: url("../../../web/LisuBosaTestF-Bold.woff2") format("woff2");
+    src: url("../../../web/LisuBosa-Bold.woff2") format("woff2");
 }
 @font-face {
     font-family: LisuBosa-XB;
-    src: url("../../../web/LisuBosaTestF-ExtraBold.woff2") format("woff2");
+    src: url("../../../web/LisuBosa-ExtraBold.woff2") format("woff2");
 }
 @font-face {
     font-family: LisuBosa-BL;
-    src: url("../../../web/LisuBosaTestF-Black.woff2") format("woff2");
+    src: url("../../../web/LisuBosa-Black.woff2") format("woff2");
 }
 @font-face {
     font-family: LisuBosa-XLI;
-    src: url("../../../web/LisuBosaTestF-ExtraLightItalic.woff2") format("woff2");
+    src: url("../../../web/LisuBosa-ExtraLightItalic.woff2") format("woff2");
 }
 @font-face {
     font-family: LisuBosa-LI;
-    src: url("../../../web/LisuBosaTestF-LightItalic.woff2") format("woff2");
+    src: url("../../../web/LisuBosa-LightItalic.woff2") format("woff2");
 }
 @font-face {
     font-family: LisuBosa-I;
-    src: url("../../../web/LisuBosaTestF-Italic.woff2") format("woff2");
+    src: url("../../../web/LisuBosa-Italic.woff2") format("woff2");
 }
 @font-face {
     font-family: LisuBosa-MI;
-    src: url("../../../web/LisuBosaTestF-MediumItalic.woff2") format("woff2");
+    src: url("../../../web/LisuBosa-MediumItalic.woff2") format("woff2");
 }
 @font-face {
     font-family: LisuBosa-SBI;
-    src: url("../../../web/LisuBosaTestF-SemiBoldItalic.woff2") format("woff2");
+    src: url("../../../web/LisuBosa-SemiBoldItalic.woff2") format("woff2");
 }
 @font-face {
     font-family: LisuBosa-BI;
-    src: url("../../../web/LisuBosaTestF-BoldItalic.woff2") format("woff2");
+    src: url("../../../web/LisuBosa-BoldItalic.woff2") format("woff2");
 }
 @font-face {
     font-family: LisuBosa-XBI;
-    src: url("../../../web/LisuBosaTestF-ExtraBoldItalic.woff2") format("woff2");
+    src: url("../../../web/LisuBosa-ExtraBoldItalic.woff2") format("woff2");
 }
 @font-face {
     font-family: LisuBosa-BLI;
-    src: url("../../../web/LisuBosaTestF-BlackItalic.woff2") format("woff2");
+    src: url("../../../web/LisuBosa-BlackItalic.woff2") format("woff2");
 }
 
 .lisubosa-XL { font-family: LisuBosa-XL; }

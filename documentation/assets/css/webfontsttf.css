@@ -5,67 +5,67 @@ released under the SIL Open Font License (http://scripts.sil.org/OFL).
 */
 @font-face {
     font-family: LisuBosa-XL;
-    src: url("../../../results/LisuBosaTestF-ExtraLight.ttf") format("truetype");
+    src: url("../../../results/LisuBosa-ExtraLight.ttf") format("truetype");
 }
 @font-face {
     font-family: LisuBosa-L;
-    src: url("../../../results/LisuBosaTestF-Light.ttf") format("truetype");
+    src: url("../../../results/LisuBosa-Light.ttf") format("truetype");
 }
 @font-face {
     font-family: LisuBosa-R;
-    src: url("../../../results/LisuBosaTestF-Regular.ttf") format("truetype");
+    src: url("../../../results/LisuBosa-Regular.ttf") format("truetype");
 }
 @font-face {
     font-family: LisuBosa-M;
-    src: url("../../../results/LisuBosaTestF-Medium.ttf") format("truetype");
+    src: url("../../../results/LisuBosa-Medium.ttf") format("truetype");
 }
 @font-face {
     font-family: LisuBosa-SB;
-    src: url("../../../results/LisuBosaTestF-SemiBold.ttf") format("truetype");
+    src: url("../../../results/LisuBosa-SemiBold.ttf") format("truetype");
 }
 @font-face {
     font-family: LisuBosa-B;
-    src: url("../../../results/LisuBosaTestF-Bold.ttf") format("truetype");
+    src: url("../../../results/LisuBosa-Bold.ttf") format("truetype");
 }
 @font-face {
     font-family: LisuBosa-XB;
-    src: url("../../../results/LisuBosaTestF-ExtraBold.ttf") format("truetype");
+    src: url("../../../results/LisuBosa-ExtraBold.ttf") format("truetype");
 }
 @font-face {
     font-family: LisuBosa-BL;
-    src: url("../../../results/LisuBosaTestF-Black.ttf") format("truetype");
+    src: url("../../../results/LisuBosa-Black.ttf") format("truetype");
 }
 @font-face {
     font-family: LisuBosa-XLI;
-    src: url("../../../results/LisuBosaTestF-ExtraLightItalic.ttf") format("truetype");
+    src: url("../../../results/LisuBosa-ExtraLightItalic.ttf") format("truetype");
 }
 @font-face {
     font-family: LisuBosa-LI;
-    src: url("../../../results/LisuBosaTestF-LightItalic.ttf") format("truetype");
+    src: url("../../../results/LisuBosa-LightItalic.ttf") format("truetype");
 }
 @font-face {
     font-family: LisuBosa-I;
-    src: url("../../../results/LisuBosaTestF-Italic.ttf") format("truetype");
+    src: url("../../../results/LisuBosa-Italic.ttf") format("truetype");
 }
 @font-face {
     font-family: LisuBosa-MI;
-    src: url("../../../results/LisuBosaTestF-MediumItalic.ttf") format("truetype");
+    src: url("../../../results/LisuBosa-MediumItalic.ttf") format("truetype");
 }
 @font-face {
     font-family: LisuBosa-SBI;
-    src: url("../../../results/LisuBosaTestF-SemiBoldItalic.ttf") format("truetype");
+    src: url("../../../results/LisuBosa-SemiBoldItalic.ttf") format("truetype");
 }
 @font-face {
     font-family: LisuBosa-BI;
-    src: url("../../../results/LisuBosaTestF-BoldItalic.ttf") format("truetype");
+    src: url("../../../results/LisuBosa-BoldItalic.ttf") format("truetype");
 }
 @font-face {
     font-family: LisuBosa-XBI;
-    src: url("../../../results/LisuBosaTestF-ExtraBoldItalic.ttf") format("truetype");
+    src: url("../../../results/LisuBosa-ExtraBoldItalic.ttf") format("truetype");
 }
 @font-face {
     font-family: LisuBosa-BLI;
-    src: url("../../../results/LisuBosaTestF-BlackItalic.ttf") format("truetype");
+    src: url("../../../results/LisuBosa-BlackItalic.ttf") format("truetype");
 }
 
 .lisubosa-XL { font-family: LisuBosa-XL; }

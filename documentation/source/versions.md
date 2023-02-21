@@ -17,7 +17,7 @@ The main family font package is also available in the [SIL software repository f
 
 ## Change history
 
-### 1 Feb 2023 (SIL WSTech Team) Lisu Bosa version 2.000
+### 21 Feb 2023 (SIL WSTech Team) Lisu Bosa version 2.000
 
 - First release of complete families
 
