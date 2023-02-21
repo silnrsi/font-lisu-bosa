@@ -4,7 +4,7 @@
 # set the default output folders for release docs
 DOCDIR = ["documentation", "web"]
 
-APPNAME = "LisuBosaTestF"
+APPNAME = "LisuBosa"
 sourcefontfamily = "LisuBosa"
 
 DESC_SHORT = "Font for the Lisu (Fraser) script"
