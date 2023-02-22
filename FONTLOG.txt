@@ -9,7 +9,7 @@ The Lisu Bosa fonts are Unicode fonts that support all languages that use the Li
 
 ChangeLog
 
-21 Feb 2023 (SIL WSTech Team) Lisu Bosa version 2.000
+22 Feb 2023 (SIL WSTech Team) Lisu Bosa version 2.000
 
 - First release of complete families
 
