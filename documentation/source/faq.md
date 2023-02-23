@@ -34,11 +34,11 @@ If you choose a weight other than Regular (such as ExtraLight), and then use app
 
 #### *I can't find the "Lisu Bosa Lolo" family in this package. Where can I find it?*
 
-The "Lisu Bosa Lolo" family is distributed in a separate package - see the [Lisu Bosa site](https://software.sil.org/lisubosa/). Most users do not need this extra font family as the weights are identical to the Light and SemiBold weights of the main font family. The "Lolo" family is only for use in older apps that only support weights named *Regular* and *Bold*.
+The "Lisu Bosa Lolo" family is distributed in a separate package - see the [Download page](https://software.sil.org/lisubosa/download/). Most users do not need this extra font family as the weights are identical to the Light and SemiBold weights of the main font family. The "Lolo" family is only for use in older apps that only support weights named *Regular* and *Bold*.
 
 #### *This package only includes the "Lisu Bosa Lolo" family. Where can I get the full family?*
 
-The two font families are packaged and distributed separately since most people only need the full package. If this package only includes the two-weight "Lisu Bosa Lolo" family, you can get the full package from the [Lisu Bosa site](https://software.sil.org/lisubosa/).
+The two font families are packaged and distributed separately since most people only need the full package. If this package only includes the two-weight "Lisu Bosa Lolo" family, you can get the full package from the [Download page](https://software.sil.org/lisubosa/download/).
 
 #### *Can I install both "Lisu Bosa" and "Lisu Bosa Lolo" families?*
 
