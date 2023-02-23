@@ -34,7 +34,7 @@ The "Lisu Bosa Lolo" family is distributed in a separate package - see the [Down
 
 #### *This package only includes the "Lisu Bosa Lolo" family. Where can I get the full family?*
 
-The two font families are packaged and distributed separately since most people only need the full package. If this package only includes the two-weight "Lisu Bosa Lolo" family, you can get the full package from the [Download page](https://software.sil.org/lisubosa/download/).
+The two font families are packaged and distributed separately since most people only need the full package. If your package only includes the two-weight "Lisu Bosa Lolo" family, you can get the full package from the [Download page](https://software.sil.org/lisubosa/download/).
 
 #### *Can I install both "Lisu Bosa" and "Lisu Bosa Lolo" families?*
 
