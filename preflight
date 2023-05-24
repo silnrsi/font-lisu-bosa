@@ -9,6 +9,6 @@ psfnormalize -p checkfix=fix source/masters/LisuBosa-ExtraLightItalic.ufo
 psfnormalize -p checkfix=fix source/masters/LisuBosa-BlackItalic.ufo
 
 # Following sync will copy psnames and glyphorder updates to all fonts
-psfsyncmasters --complex source/LisuBosaUpright.designspace source/LisuBosaItalic.designspace
+psfsyncmasters source/LisuBosaUpright.designspace source/LisuBosaItalic.designspace
 
 psfmakewoffmetadata -n lisubosa -i "org.sil.fonts" -o source/LisuBosa-WOFF-metadata.xml source/masters/LisuBosa-Regular.ufo

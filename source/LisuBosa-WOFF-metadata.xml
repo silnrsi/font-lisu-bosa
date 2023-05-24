@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata version="1.0">
   <uniqueid id="org.sil.fonts.lisubosa.2.000" />
-  <vendor name="SIL International" url="http://scripts.sil.org" />
+  <vendor name="SIL International" url="https://scripts.sil.org" />
   <credits>
     <credit
       name="David Morse"
@@ -23,12 +23,12 @@
       Lisu Bosa is a Unicode typeface family that supports all languages that use the Lisu script and its variants.
     </text>
   </description>
-  <license url="http://scripts.sil.org/OFL" id="org.sil.ofl.1.1">
+  <license url="https://scripts.sil.org/OFL" id="org.sil.ofl.1.1">
     <text lang="en">
       Copyright (c) 1998-2019 David Morse (original regular) with Reserved Font Name "LisuTzimu", Copyright (c) 2019-2023 SIL International (regular revisions, bold, italic, bold italic) with Reserved Font Name "Bosa", Copyright (c) 2014-2019 Adobe (http://www.adobe.com/) (Latin glyphs), with Reserved Font Name "Source".
       
       This Font Software is licensed under the SIL Open Font License, Version 1.1.
-      This license is copied below, and is also available with a FAQ at: http://scripts.sil.org/OFL
+      This license is copied below, and is also available with a FAQ at: https://scripts.sil.org/OFL
       
       
       -----------------------------------------------------------

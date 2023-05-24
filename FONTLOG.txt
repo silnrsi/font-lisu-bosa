@@ -55,16 +55,16 @@ N: David Morse
 D: Designer
 
 N: Victor Gaultney
-E: https://scripts.sil.org/support
+E: https://software.sil.org/about/contact/
 W: https://www.gaultney.org/jvgtype/
 D: Enhancements and additions
 
 N: Annie Olsen
-E: https://scripts.sil.org/support
-W: https://scripts.sil.org/
+E: https://software.sil.org/about/contact/
+W: https://software.sil.org/wstech/
 D: Enhancements and additions
 
 N: SIL font engineers
-E: https://scripts.sil.org/support
-W: https://scripts.sil.org/
+E: https://software.sil.org/about/contact/
+W: https://software.sil.org/wstech/
 D: Tool development and production support
