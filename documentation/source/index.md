@@ -18,7 +18,7 @@ The main font family - *Lisu Bosa* - includes eight weights from ExtraLight to B
 
 This documentation is a set of HTML pages that can be viewed in any modern web browser. PDF versions of these pages are also provided. Most of this content, plus download links and a contact form, is available from the [Lisu Bosa site](https://software.sil.org/lisubosa/).
 
-- [About](about.md) — Information about this project and SIL International
+- [About](about.md) — Information about this project and SIL Global
 - [Resources](resources.md) — Help with installation and use
 - [FAQ](faq.md) — Common questions and answers
 - [Support](support.md) — How to get additional support
