@@ -8,7 +8,7 @@ Many questions can be answered by consulting the following FAQ pages. Here are a
     - *Will you add support for script...?*
     - *WIll you help me...?*
 
-- [The SIL Open Font License (OFL-FAQ)](https://scripts.sil.org/OFL-FAQ_web)
+- [The SIL Open Font License (OFL-FAQ)](https://openfontlicense.org/ofl-faq/)
     - *Can I use this font for...?*
     - *Can I modify the font and then include it in...*
     - *If I use the font on a web page do I have to include an acknowledgement?*
@@ -34,7 +34,7 @@ The "Lisu Bosa Lolo" family is distributed in a separate package - see the [Down
 
 #### *This package only includes the "Lisu Bosa Lolo" family. Where can I get the full family?*
 
-The two font families are packaged and distributed separately since most people only need the full package. If your package only includes the two-weight "Lisu Bosa Lolo" family, you can get the full package from the [Download page](https://software.sil.org/lisubosa/download/).
+The two font families are packaged and distributed separately since most people only need the full package. If this package only includes the two-weight "Lisu Bosa Lolo" family, you can get the full package from the [Download page](https://software.sil.org/lisubosa/download/).
 
 #### *Can I install both "Lisu Bosa" and "Lisu Bosa Lolo" families?*
 
